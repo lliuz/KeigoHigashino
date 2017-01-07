@@ -1,0 +1,11 @@
+刑警 /nn 37	  。/w], [刑警/nnt, 站/vi,
+警官 /nn 9	  加贺/ns, 警官/nnt, 。/w],
+警员 /nn 4	 q, 个/q, 警员/nnt, 在/p, 
+工程师 /nn 2	  维修/vn, 工程师/nnt, ？/w],
+店员 /nn 2	 f, 送/v, 店员/nnt, 、/w, 
+太常 /nn 1	 v, 太/d, 太常/nnt, 去/vf,
+家庭主妇 /nn 1	 的/ude1, 家庭主妇/nnd, ，/w],
+专家 /nn 1	 , 技术/n, 专家/nnt, ，/w],
+警察 /nn 1	 [这些/rz, 警察/nnt, 如此/rz
+内勤 /nn 1	  [改为/v, 内勤/nnd, 。/w],
+调查员 /nn 1	 的/ude1, 调查员/nnt, 进去/vf

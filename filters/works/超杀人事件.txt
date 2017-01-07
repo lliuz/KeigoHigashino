@@ -1,0 +1,85 @@
+作家 /nn 70	  推理/vn, 作家/nnt, 的/ude
+大师 /nn 69	  [那位/r, 大师/nnt, 太/d, 
+作者 /nn 38	  文字/n, 工作者/nnt, 收入/n,
+博士 /nn 32	 , 石/ng, 博士/nnt, ，/w],
+刑警 /nn 23	 的/ude1, 刑警/nnt, 与/cc,
+编辑 /nn 22	 的/ude1, 编辑/nnt, 。/w],
+棒球 /nn 20	 v, 写/v, 棒球/nnd, 。/w],
+部长 /nn 19	 , 刑事/b, 部长/nnt, 问道/vi
+老师 /nn 18	  松井/nz, 老师/nnt, ……/w]
+主角 /nn 16	 , 出现/v, 主角/nnt, 在/p, 
+投手 /nn 11	 , 天才/n, 投手/nnt, 和/cc,
+研究员 /nn 10	 究所/nis, 研究员/nnt, 的/ude
+侦探 /nn 10	 是/vshi, 侦探/nnd, 高屋敷先生
+评论家 /nn 10	 理小说/nz, 评论家/nnt, 。/w],
+护士 /nn 9	  ，/w], [护士/nnt, 在/p, 
+收藏家 /nn 9	 , 人手/n, 收藏家/nnd, 》/w, 
+文书 /nn 9	 a, 型/k, 文书/nnt, 处理机/n
+女佣 /nn 8	 , 吩咐/v, 女佣/nnd, 淑/ng,
+服务生 /nn 8	 , 记得/v, 服务生/nnd, 是/vsh
+记者 /nn 8	 的/ude1, 记者/nnt, 朋友/n,
+责任编辑 /nn 7	 的/ude1, 责任编辑/nnt, 之后/f,
+杀手 /nn 7	 , 机/ng, 杀手/nnd, 。/w],
+教授 /nn 6	 , 听说/v, 教授/nnt, 你/rr,
+空中小姐 /nn 6	 是/vshi, 空中小姐/nnd, 。/w],
+代表 /nn 5	 究员/nnt, 代表/nnt, ，/w],
+警察 /nn 5	  带着/vn, 警察/nnt, 回到/v,
+职业作家 /nn 4	 真不愧是/l, 职业作家/nnd, 。/w],
+学者 /nn 4	  ，/w], [学者/nnt, 推定/v,
+科学家 /nn 4	 , 婴儿/n, 科学家/nnt, 计划/n,
+医学博士 /nn 4	 m, 名/q, 医学博士/nnt, 、/w, 
+总编 /nn 4	 被/pbei, 总编/nnt, 掐死/nz
+专家 /nn 4	 的/ude1, 专家/nnt, 学者/nn
+实业家 /nn 4	 m, 名/q, 实业家/nnd, 。/w],
+女作家 /nn 3	  [听说/v, 女作家/nnd, 夏野桐子/
+总编辑 /nn 3	 [我们/rr, 总编辑/nnt, 也/d, 
+老板 /nn 3	  。/w], [老板/nnt, 滨崎/nr
+副驾驶 /nn 3	  [坐在/v, 副驾驶/nnt, 座/q, 
+推销员 /nn 3	  ，/w], [推销员/nnt, 便/d, 
+司仪 /nn 3	 , [”/w, 司仪/nnt, 询问/v,
+秘书 /nn 3	 1, 新/a, 秘书/nnt, 。/w],
+领导人 /nn 2	 的/ude1, 领导人/nnt, 是/vsh
+物理学家 /nn 2	 , 宇宙/n, 物理学家/nnt, ，/w],
+小说家 /nn 2	 r, 当/p, 小说家/nnd, 十/m, 
+助理 /nn 2	  。/w], [助理/nnt, 发现/v,
+家庭主妇 /nn 2	 是/vshi, 家庭主妇/nnd, 吧/y, 
+所长 /nn 2	 /ude1, 副所长/nnt, 恩田/nr
+法医 /nn 2	  。/w], [法医/nnt, 检查/vn
+会计 /nn 2	  滨崎/nr, 会计/nnt, 事务所/n
+社长 /nn 2	  ，/w], [社长/nnt, 恩田/nr
+大学生 /nn 2	 c, 个/q, 大学生/nnt, ，/w],
+工作者 /nn 1	 , 文字/n, 工作者/nnt, 收入/n,
+女王 /nn 1	  SM/nx, 女王/nnt, ？/w],
+空姐 /nn 1	 是/vshi, 空姐/nnt, 吗/y, 
+副所长 /nn 1	 的/ude1, 副所长/nnt, 恩田/nr
+画家 /nn 1	 d, 找/v, 画家/nnt, 动/v, 
+店员 /nn 1	 的/ude1, 店员/nnt, 也/d, 
+学生 /nn 1	 , 个/q, 大学生/nnt, ，/w],
+管理员 /nn 1	 的/ude1, 管理员/nnt, 中村/nr
+主任 /nn 1	 验室/nis, 主任/nnt, 针对/p,
+配角 /nn 1	 w, 、/w, 配角/nnt, 鉴识/nz
+舞者 /nn 1	 m, 名/q, 舞者/nnt, 死/v, 
+操作员 /nn 1	  [女性/n, 操作员/nnt, 收到/v,
+助手 /nn 1	 的/ude1, 助手/nnt, 刚刚/d,
+警员 /nn 1	 的/ude1, 警员/nnt, 调查/vn
+证人 /nn 1	 , 证明/v, 证人/nnt, 。/w],
+医生 /nn 1	 妇产科/nt, 医生/nnt, 遇害/vi
+团长 /nn 1	  [只有/c, 团长/nnt, 杉山周/n
+研究者 /nn 1	 , 关键/n, 研究者/nnt, 。/w],
+警官 /nn 1	 g, 搜/v, 警官/nnt, ”/w, 
+男主角 /nn 1	 , 描写/v, 男主角/nnt, 循着/nz
+指挥官 /nn 1	 的/ude1, 指挥官/nnt, 。/w],
+高中生 /nn 1	 c, 女/b, 高中生/nnd, 呢/y, 
+总长 /nn 1	 m, 部/q, 总长/nnt, 数/n, 
+天文学家 /nn 1	 , 知名/a, 天文学家/nnd, ，/w],
+女主角 /nn 1	 , 中的/v, 女主角/nnt, 的/ude
+司机 /nn 1	 v, 当/p, 司机/nnt, 的/ude
+游民 /nn 1	 , 男性/n, 游民/nnd, 。/w],
+稽查员 /nn 1	 d, 当/p, 稽查员/nnt, 来/vf,
+厂商 /nn 1	 d, 向/p, 厂商/nnd, 特别/d,
+模特儿 /nn 1	 , 和/cc, 模特儿/nnt, 公司/ni
+评审员 /nn 1	 的/ude1, 评审员/nnt, ，/w],
+局长 /nn 1	 , 事务/n, 局长/nnt, 中山/ns
+领袖 /nn 1	  反对派/n, 领袖/nnt, ——/w,
+总监 /nn 1	 , 舞台/n, 总监/nnt, 杉山晃一郎
+预言家 /nn 1	 k, 、/w, 预言家/nnd, 或/c, 

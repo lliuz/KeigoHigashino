@@ -1,0 +1,67 @@
+刑警 /nn 225	 伯克/nrf, 刑警/nnt, 做/v, 
+老师 /nn 154	  ，/w], [老师/nnt, 也/d, 
+学生 /nn 145	 /ude1, 中学生/nnd, 了/ule
+警察 /nn 73	 , 联系/v, 警察/nnt, 和/cc,
+棒球 /nn 71	 n, 打/v, 棒球/nnd, 回来/v,
+教师 /nn 42	 r, 在/p, 教师/nnt, 办公室/n
+成员 /nn 41	 v, 让/v, 成员/nnt, 们/k, 
+班主任 /nn 20	 p, 副/b, 班主任/nnt, 的/ude
+部长 /nn 16	 的/ude1, 部长/nnt, 嘛/y, 
+教练 /nn 14	  我们/rr, 教练/nnt, 的/ude
+校长 /nn 14	 ，/w], [副校长/nnt, 们/k, 
+门卫 /nn 12	 的/ude1, 门卫/nnt, 。/w],
+副校长 /nn 11	  ，/w], [副校长/nnt, 们/k, 
+顾问 /nn 11	 的/ude1, 顾问/nnt, 吧/y, 
+队长 /nn 9	 是/vshi, 队长/nnt, ，/w],
+警官 /nn 8	 , 里面/f, 警官/nnt, 的/ude
+方丈 /nn 6	 i, ‘/w, 方丈/nnt, 记/v, 
+记者 /nn 6	 , [在/p, 记者/nnt, 招待会/n
+高中生 /nn 5	 q, 女/b, 高中生/nnd, ，/w],
+牙医 /nn 5	  了/ule, 牙医/nnd, 诊所/ni
+投手 /nn 4	 f, 下/f, 投手/nnt, 土台/nz
+部员 /nn 4	  。/w], [部员/nnt, 们/k, 
+生产商 /nn 3	 , 家电/n, 生产商/nnd, 的/ude
+罪犯 /nn 3	  难不成/v, 罪犯/nnd, 企图/v,
+主任 /nn 3	 , 副/b, 班主任/nnt, 的/ude
+委员 /nn 3	 z, 名/q, 委员/nnt, 有/vyo
+负责人 /nn 3	 , 火灾/n, 负责人/nnt], [御/v
+老板 /nn 3	 的/ude1, 老板/nnt, 吧/y, 
+证人 /nn 3	 , 需要/v, 证人/nnt, ，/w],
+小学生 /nn 3	 , 只是/d, 小学生/nnd, 的/ude
+医生 /nn 2	 , 和/cc, 医生/nnt, 之间/f,
+球手 /nn 2	 w, 接/v, 球手/nnd, 吉冈/nr
+副驾驶 /nn 2	  把/pba, 副驾驶/nnt, 座/q, 
+职员 /nn 2	 的/ude1, 职员/nnt, 也/d, 
+导演 /nn 2	  自己/rr, 导演/nnt, 的/ude
+班长 /nn 1	  ，/w], [班长/nnt, 在/p, 
+中学生 /nn 1	 的/ude1, 中学生/nnd, 了/ule
+领导人 /nn 1	 各国/rzs, 领导人/nnt, 的/ude
+厂商 /nn 1	 , 一家/n, 厂商/nnd, 生产/vn
+公务员 /nn 1	 , [“/w, 公务员/nnt, 考虑/v,
+部队长 /nn 1	 棒球/nnd, 部队长/nnt, 的/ude
+赞助商 /nn 1	 是/vshi, 赞助商/nnd, 。/w],
+代表 /nn 1	 , 薰/nz, 代表/nnt, 大家/rr
+数学教师 /nn 1	 , 身兼/v, 数学教师/nnt, 一职/ns
+歌手 /nn 1	 的/ude1, 歌手/nnt, 。/w],
+美工 /nn 1	 w, 在/p, 美工/nnt, 纸/n, 
+女王 /nn 1	 a, 像/v, 女王/nnt, 一样/uy
+护士 /nn 1	 的/ude1, 护士/nnt, 得知/v,
+经营者 /nn 1	 , 作为/p, 经营者/nnt, ，/w],
+管理者 /nn 1	 的/ude1, 管理者/nnt, ，/w],
+明星 /nn 1	 , 外国/n, 明星/nnd, 一样/uy
+警员 /nn 1	 m, 名/q, 警员/nnt, 去/vf,
+球星 /nn 1	 , 头号/b, 球星/nnd, 在/p, 
+保镖 /nn 1	 是/vshi, 保镖/nnt, 好/a, 
+副部长 /nn 1	  了/ule, 副部长/nnt, 的/ude
+发言人 /nn 1	 的/ude1, 发言人/nnt, 说/v, 
+大学生 /nn 1	 是/vshi, 大学生/nnt, 模样/n,
+交警 /nn 1	 , 回答/v, 交警/nnd, 的/ude
+队员 /nn 1	 , 核心/n, 队员/nnt, 的/ude
+勤杂工 /nn 1	 v, 个/q, 勤杂工/nnd, 么/y, 
+高层领导 /nn 1	 , [以/p, 高层领导/nnt, 为首/vi
+店主 /nn 1	  [据说/v, 店主/nnd, 还/d, 
+董事 /nn 1	 公司/nis, 董事/nnt, 的/ude
+播音员 /nn 1	 的/ude1, 播音员/nnt, 。/w],
+律师 /nn 1	 的/ude1, 律师/nnt, 。/w],
+运动员 /nn 1	  游泳/vn, 运动员/nnt, 一样/uy
+模特 /nn 1	 , 橱窗/n, 模特/nnt, 体型/n,

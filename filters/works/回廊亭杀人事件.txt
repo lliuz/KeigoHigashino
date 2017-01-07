@@ -1,0 +1,47 @@
+刑警 /nn 65	 , 中年/n, 刑警/nnt, ，/w],
+警察 /nn 25	 m, 位/q, 警察/nnt, 搬来/v,
+律师 /nn 23	 , 古木/n, 律师/nnt, 不/d, 
+司机 /nn 18	  。/w], [司机/nnt, 满头白发/
+警官 /nn 12	  [霎时/d, 警官/nnt, 应该/v,
+护士 /nn 12	 m, 张/q, 护士/nnt, 面孔/n,
+医生 /nn 10	  ，/w], [医生/nnt, 已经/d,
+秘书 /nn 8	 , 那位/r, 秘书/nnt, 呢/y, 
+演员 /nn 6	 , 电视/n, 演员/nnt, 的/ude
+代表 /nn 5	  [并不/d, 代表/nnt, 她/rr,
+作家 /nn 4	 的/ude1, 作家/nnt, 长期/d,
+助理 /nn 4	 的/ude1, 助理/nnt, 。/w],
+学生 /nn 3	 , 年轻/a, 学生/nnt, ，/w],
+负责人 /nn 3	 d, 像/v, 负责人/nnt, 的/ude
+会长 /nn 3	 , [“/w, 会长/nnt, ，/w],
+老师 /nn 3	 q, 让/v, 老师/nnt, 不/d, 
+心理医生 /nn 3	 v, 个/q, 心理医生/nnd, 。/w],
+乐手 /nn 3	  [和/cc, 乐手/nnt, 结婚/vi
+厨师 /nn 2	 g, 借/v, 厨师/nnt, 的/ude
+管理员 /nn 2	 1, 女/b, 管理员/nnt, ，/w],
+服务生 /nn 2	 的/ude1, 服务生/nnd, 。/w],
+经营者 /nn 2	 , 碰到/v, 经营者/nnt, 一/m, 
+老板 /nn 2	 , 认识/v, 老板/nnt, 。/w],
+美容师 /nn 2	 , 请教/v, 美容师/nnt, ，/w],
+学者 /nn 1	 , 具有/v, 学者/nnt, 般的/u,
+成员 /nn 1	 , 家族/n, 成员/nnt, 致歉/vi
+议员 /nn 1	 , 很多/m, 议员/nnt, ，/w],
+知识分子 /nn 1	 的/ude1, 知识分子/nnd, 谈话会/l
+间谍 /nn 1	 d, 会/v, 间谍/nnt, 高显/a,
+创办人 /nn 1	 的/ude1, 创办人/nnt, 。/w],
+女警 /nn 1	 c, 让/v, 女警/nnt, 检查/vn
+雇主 /nn 1	 的/ude1, 雇主/nnd, 呀/y, 
+作者 /nn 1	 人/vi], [作者/nnt, ：/w, 
+设计者 /nn 1	 的/ude1, 设计者/nnt, ，/w],
+教授 /nn 1	 , 曾经/d, 教授/nnt, 过表/nr
+证人 /nn 1	 的/ude1, 证人/nnt, 桐/ng,
+科学家 /nn 1	  [改以/v, 科学家/nnt, 冷冽/nz
+摊贩 /nn 1	 的/ude1, 摊贩/nnd, ，/w],
+男主角 /nn 1	 的/ude1, 男主角/nnt, 。/w],
+主治医生 /nn 1	 这时/rzt, 主治医生/nnt, 到/v, 
+模特儿 /nn 1	 的/ude1, 模特儿/nnt, 。/w],
+译者 /nn 1	 皇冠/n], [译者/nnt, :/w],
+企业家 /nn 1	 的/ude1, 企业家/nnt, 呢/y, 
+社长 /nn 1	 , 超出/v, 社长/nnt, 和/cc,
+院长 /nn 1	  ，/w], [院长/nnt, 受不了/a
+干部 /nn 1	 , 重要/a, 干部/nnt, 、/w, 
+团员 /nn 1	 乐团/nis, 团员/nnt, ，/w],

@@ -1,0 +1,62 @@
+警察 /nn 192	 有/vyou, 警察/nnt, 出入/v,
+刑警 /nn 28	 的/ude1, 刑警/nnt, 来说/ul
+店长 /nn 28	  ，/w], [店长/nnt, 和/cc,
+老师 /nn 22	  野口/nz, 老师/nnt, 说道/v,
+店员 /nn 17	  [和/cc, 店员/nnt, 眉飞色舞/
+社长 /nn 15	 的/ude1, 社长/nnt, ，/w],
+厨师 /nn 15	 的/ude1, 厨师/nnt, 很多/m,
+工作人员 /nn 15	 的/ude1, 工作人员/nnt, 并不/d,
+老板 /nn 13	 的/ude1, 老板/nnt, 已是/d,
+设计师 /nn 10	 , 时尚/n, 设计师/nnt, 的/ude
+店主 /nn 10	 的/ude1, 店主/nnd, 喜欢/vi
+服务员 /nn 9	  了/ule, 服务员/nnt, ，/w],
+学生 /nn 8	 , 位/q, 大学生/nnt, 志愿者/n
+班主任 /nn 8	 的/ude1, 班主任/nnt, 。/w],
+经营者 /nn 7	  。/w], [经营者/nnt, 行踪不明/
+副驾驶 /nn 6	 , 坐上/v, 副驾驶/nnt, 位置/n,
+职员 /nn 6	 公司/nis, 职员/nnt, 。/w],
+小学生 /nn 6	 的/ude1, 小学生/nnd, 。/w],
+罪犯 /nn 5	  ，/w], [罪犯/nnd, 可能/v,
+代表 /nn 4	 v, 话/n, 代表/nnt, 什么/ry
+佣人 /nn 4	 是/vshi, 佣人/nnd, 的/ude
+负责人 /nn 4	 设计部门/n, 负责人/nnt, 的/ude
+美容师 /nn 4	 的/ude1, 美容师/nnt, ，/w],
+演员 /nn 4	 r, 当/p, 演员/nnt, 的/ude
+司机 /nn 3	  边对/nr, 司机/nnt, 说/v, 
+制造商 /nn 3	  调查/vn, 制造商/nnd, 和/cc,
+业务员 /nn 3	 的/ude1, 业务员/nnt, ，/w],
+债主 /nn 3	 , 但是/c, 债主/nnd, 没理由/l
+医生 /nn 2	 , 私人/n, 医生/nnt, 的/ude
+助手 /nn 2	 的/ude1, 助手/nnt, 。/w],
+署长 /nn 2	  。/w], [署长/nnt, 以前/f,
+导演 /nn 2	 /nis], [导演/nnt], [山高伸
+美食家 /nn 2	 , 专业/n, 美食家/nnd, ，/w],
+一把手 /nn 1	 的/ude1, 一把手/nnt, 厨师/nn
+地主 /nn 1	  。/w], [地主/nnd, 为了/p,
+律师 /nn 1	 的/ude1, 律师/nnt, 。/w],
+海军 /nn 1	 , 想到/v, 海军/nnd, 咖喱/nf
+商人 /nn 1	 m, 名/q, 商人/nnt, 。/w],
+女警 /nn 1	 有/vyou, 女警/nnt, 陪着/v,
+顾问 /nn 1	  美容/vn, 顾问/nnt, ，/w],
+官员 /nn 1	 , 和/cc, 官员/nnt, ，/w],
+摄影师 /nn 1	 d, 像/v, 摄影师/nnt, 。/w],
+枪手 /nn 1	 n, 很/d, 枪手/nnd, ，/w],
+作者 /nn 1	 j, 》/w, 作者/nnt, ：/w, 
+课长 /nn 1	 , 刑事/b, 课长/nnt, 的/ude
+指导员 /nn 1	  。/w], [指导员/nnt, 找/v, 
+服务生 /nn 1	  了/ule, 服务生/nnd, ，/w],
+珠宝商 /nn 1	 是/vshi, 珠宝商/nnd, 的/ude
+证人 /nn 1	 , 新的/a, 证人/nnt, 了/ule
+棒球 /nn 1	 z, 、/w, 棒球/nnd, 选手/n,
+侍者 /nn 1	 , 年轻/a, 侍者/nnt, 说/v, 
+艺人 /nn 1	 的/ude1, 艺人/nnt, 。/w],
+大学生 /nn 1	 i, 位/q, 大学生/nnt, 志愿者/n
+队员 /nn 1	  [搜查/v, 队员/nnt, 的/ude
+老板娘 /nn 1	 的/ude1, 老板娘/nnd, 。/w],
+志愿者 /nn 1	 学生/nnt, 志愿者/nnt, ，/w],
+法医 /nn 1	  [根据/p, 法医/nnt, 推测/v,
+哲学家 /nn 1	  一个/mq, 哲学家/nnd, 。/w],
+政治家 /nn 1	  [看看/v, 政治家/nnt, 和/cc,
+行长 /nn 1	 , 政/ng, 行长/nnt, 这样/rz
+运动员 /nn 1	 , 专业/n, 运动员/nnt, ，/w],
+陶艺家 /nn 1	 的/ude1, 陶艺家/nnd, 的/ude

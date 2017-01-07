@@ -1,0 +1,78 @@
+司机 /nn 39	 , 命令/n, 司机/nnt, 。/w],
+店主 /nn 37	 的/ude1, 店主/nnd, 沉默/a,
+警察 /nn 36	 的/ude1, 警察/nnt, 居然/d,
+医生 /nn 16	 /w], [主治医生/nnt, 来到/v,
+职员 /nn 14	 , 前台/n, 职员/nnt, 看/v, 
+警卫 /nn 13	  招聘/vn, 警卫/nnt, 的/ude
+护士 /nn 9	 t, 向/p, 护士/nnt, 交代/v,
+社长 /nn 8	 , 听/v, 副社长/nnt, 说/v, 
+右卫 /nn 7	 , 宗/vg, 右卫/nnd, 门/n, 
+漫画家 /nn 7	 的/ude1, 漫画家/nnt, ，/w],
+大学生 /nn 7	 , [在/p, 大学生/nnt, 面前/f,
+老板 /nn 6	 , [“/w, 老板/nnt, ，/w],
+武士 /nn 6	  日本/ns, 武士/nnt, 缠上/nz
+室长 /nn 6	 的/ude1, 室长/nnt, 。/w],
+副社长 /nn 6	 i, 听/v, 副社长/nnt, 说/v, 
+棒球 /nn 5	 , 软式/n, 棒球/nnd, 。/w],
+乘务员 /nn 5	 , [”/w, 乘务员/nnd, 问道/vi
+证人 /nn 5	 的/ude1, 证人/nnt, 。/w],
+拳击手 /nn 4	 的/ude1, 拳击手/nnd, 啊/y, 
+店员 /nn 4	 [一个/mq, 店员/nnt, 正在/d,
+副驾驶 /nn 4	  [放在/v, 副驾驶/nnt, 座/q, 
+政客 /nn 3	 , 送给/v, 政客/nnd, 的/ude
+代表 /nn 3	 , 似乎/d, 代表/nnt, 着/uzh
+学生 /nn 3	 c, 个/q, 学生/nnt, ？/w],
+作者 /nn 3	  。/w], [作者/nnt, 叫/vi,
+小学生 /nn 3	  一个/mq, 小学生/nnd, 模样/n,
+家庭主妇 /nn 3	  ，/w], [家庭主妇/nnd, 型/k, 
+经理 /nn 3	 [”/w], [经理/nnt, 模样/n,
+班长 /nn 2	 [”/w], [班长/nnt, 指出/v,
+成员 /nn 2	 是/vshi, 成员/nnt, 之一/rz
+雇主 /nn 2	 的/ude1, 雇主/nnd, 联系国/n
+歌手 /nn 2	 籍华人/nz, 歌手/nnt, 、/w, 
+法师 /nn 2	 的/ude1, 法师/nnt, 。/w],
+官员 /nn 2	  fu/nx, 官员/nnt, 也/d, 
+助手 /nn 2	  掌柜的/n, 助手/nnt, ，/w],
+管理人员 /nn 2	 酒店/nis, 管理人员/nnt, 跑/v, 
+明星 /nn 2	  哪个/ry, 明星/nnd, ”/w, 
+无业游民 /nn 2	 i, 个/q, 无业游民/nnd, 啊/y, 
+收藏家 /nn 2	 的/ude1, 收藏家/nnd, 。/w],
+投手 /nn 2	  有些/rz, 投手/nnt, 很/d, 
+知事 /nn 2	 京都/nsf, 知事/nnt, 的/ude
+零工 /nn 2	  [只是/d, 零工/nnd, 罢了/y,
+解说员 /nn 2	  ，/w], [解说员/nnt, 略显/d,
+演员 /nn 2	 t, 、/w, 演员/nnt, ]/w, 
+管理员 /nn 1	 是/vshi, 管理员/nnt, 的/ude
+主角 /nn 1	 的/ude1, 主角/nnt, 一样/uy
+特使 /nn 1	  日本/ns, 特使/nnt, 带来/v,
+老板娘 /nn 1	 , [说/v, 老板娘/nnd, 做/v, 
+裁判 /nn 1	 , 照片/n, 裁判/nnt, 的/ude
+临时工 /nn 1	 是/vshi, 临时工/nnd, ，/w],
+学者 /nn 1	 德国/nsf, 学者/nnt, 发现/v,
+教练 /nn 1	  [以前/f, 教练/nnt, 也/d, 
+工程师 /nn 1	 , 电脑/n, 工程师/nnt, 朋友/n,
+导游 /nn 1	  了/ule, 导游/nnt, 。/w],
+法人 /nn 1	 , 特殊/a, 法人/nnt, ，/w],
+首相 /nn 1	 1, 女/b, 首相/nnt, ，/w],
+帮工 /nn 1	 , 去/vf, 帮工/nnd, ，/w],
+农民 /nn 1	 的/ude1, 农民/nnt, 家庭/n,
+鼓手 /nn 1	 , [“/w, 鼓手/nnt, 兼/v, 
+太宰 /nn 1	 作家/nnt, 太宰/nnt, 治/v, 
+拳手 /nn 1	  重量级/b, 拳手/nnd, 没有/v,
+球手 /nn 1	 e, 接/v, 球手/nnd, ，/w],
+前锋 /nn 1	 , 梅雨/n, 前锋/nnt, 包围/v,
+主治医生 /nn 1	  ，/w], [主治医生/nnt, 来到/v,
+保镖 /nn 1	 n, 兼/v, 保镖/nnt, 。/w],
+律师 /nn 1	  。/w], [律师/nnt, 也/d, 
+高中生 /nn 1	 g, 、/w, 高中生/nnd, 模样/n,
+总统 /nn 1	 , 献给/v, 总统/nnt, 的/ude
+专家 /nn 1	 的/ude1, 专家/nnt, 。/w],
+自由职业者 /nn 1	 , 叫/vi, 自由职业者/nnd, 。/w],
+创始人 /nn 1	 z, 吧/y, 创始人/nnt, 神谷/nz
+运动员 /nn 1	  冲浪/vi, 运动员/nnt, ，/w],
+主持人 /nn 1	 , 著名/a, 主持人/nnt, 率队/v,
+海军 /nn 1	 w, 在/p, 海军/nnd, 中/f, 
+作家 /nn 1	  日本/ns, 作家/nnt, 太宰/nn
+服务员 /nn 1	 是/vshi, 服务员/nnt, 。/w],
+预言家 /nn 1	 是/vshi, 预言家/nnd, 了/ule
+生物学家 /nn 1	 , 换成/v, 生物学家/nnd, 野口/nz

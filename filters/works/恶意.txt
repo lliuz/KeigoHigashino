@@ -1,0 +1,65 @@
+老师 /nn 97	  野口/nz, 老师/nnt, ，/w],
+作家 /nn 95	 , 正是/v, 作家/nnt, 日高邦彦/
+刑警 /nn 42	  加贺/ns, 刑警/nnt, 好/a, 
+学生 /nn 37	 , 女/b, 大学生/nnt, 去/vf,
+警察 /nn 36	 , 年轻/a, 警察/nnt, 前来/vi
+作者 /nn 23	 p, 非/b, 作者/nnt, 的/ude
+编辑 /nn 22	 是/vshi, 编辑/nnt, 吗/y, 
+主角 /nn 17	 , 中的/v, 主角/nnt, 却是/d,
+医生 /nn 12	  。/w], [医生/nnt, 叫/vi,
+代表 /nn 11	 , 并不/d, 代表/nnt, 我会/r,
+师傅 /nn 11	 , 烟火/n, 师傅/nnt, ，/w],
+教职 /nn 10	 , 投入/v, 教职/nnt, 的/ude
+画家 /nn 9	  某位/r, 版画家/nnd, 的/ude
+教师 /nn 7	 会科/nis, 教师/nnt, 。/w],
+职员 /nn 6	 的/ude1, 职员/nnt, 联系/v,
+记者 /nn 5	  听闻/nz, 记者/nnt, 的/ude
+导师 /nn 4	 d, 讨/v, 导师/nnt, 欢心/n,
+司机 /nn 4	  ，/w], [司机/nnt, 本身/rz
+艺术家 /nn 4	  潜藏在/n, 艺术家/nnt, 体内/s,
+版画家 /nn 4	 , 某位/r, 版画家/nnd, 的/ude
+校长 /nn 4	 , 只有/c, 校长/nnt, 一/m, 
+班长 /nn 3	 1, 女/b, 班长/nnt, 明明/d,
+警员 /nn 3	 , 很多/m, 警员/nnt, 留下/v,
+主治医生 /nn 3	 , 拜访/v, 主治医生/nnt, 。/w],
+模特儿 /nn 3	 的/ude1, 模特儿/nnt, 。/w],
+主持人 /nn 3	 的/ude1, 主持人/nnt, 开始/v,
+检察官 /nn 3	  [倒是/d, 检察官/nnt, 那边/rz
+成员 /nn 2	 的/ude1, 成员/nnt, 吗/y, 
+首领 /nn 2	 的/ude1, 首领/nnt, 也/d, 
+教练 /nn 2	  高以/nr, 教练/nnt, 之/uzh
+总编 /nn 2	 的/ude1, 总编/nnt, 向日/n,
+老板 /nn 2	 , 和/cc, 老板/nnt, 聊着/v,
+证人 /nn 2	 的/ude1, 证人/nnt, 来看/u,
+兽医 /nn 2	 f, 看/v, 兽医/nnt, ，/w],
+警官 /nn 2	 的/ude1, 警官/nnt, 拿/v, 
+艺人 /nn 2	 的/ude1, 艺人/nnt, 都/d, 
+女主角 /nn 2	  [还有/v, 女主角/nnt, 的/ude
+责任编辑 /nn 2	 的/ude1, 责任编辑/nnt, 也/d, 
+律师 /nn 2	 , 和/cc, 律师/nnt, 谈/v, 
+医师 /nn 1	 , 精神/n, 医师/nnt, 杀死/v,
+中学生 /nn 1	 的/ude1, 中学生/nnd, 滨冈/nr
+男主角 /nn 1	 的/ude1, 男主角/nnt, ，/w],
+教育者 /nn 1	 i, 在/p, 教育者/nnd, 的/ude
+负责人 /nn 1	 的/ude1, 负责人/nnt, ，/w],
+教授 /nn 1	  以及/cc, 教授/nnt, 国文/n,
+服务生 /nn 1	 1, 女/b, 服务生/nnd, 就/d, 
+向导 /nn 1	 的/ude1, 向导/nnt, 。/w],
+作曲家 /nn 1	  。/w], [作曲家/nnt, 不是/c,
+推销员 /nn 1	 是/vshi, 推销员/nnt, 之类/rz
+明星 /nn 1	 , 偶像/n, 明星/nnd, 的/ude
+媒体人 /nn 1	  [身为/v, 媒体人/nnd, 的/ude
+头目 /nn 1	 倒也不是/l, 头目/nnt, 和/cc,
+演员 /nn 1	  [看到/v, 演员/nnt, 的/ude
+家庭主妇 /nn 1	 的/ude1, 家庭主妇/nnd, 也/d, 
+指挥官 /nn 1	 1, 总/b, 指挥官/nnt, 。/w],
+大学生 /nn 1	 n, 女/b, 大学生/nnt, 去/vf,
+郎中 /nn 1	 v, 慢/a, 郎中/nnt, 。/w],
+高中生 /nn 1	 的/ude1, 高中生/nnd, 。/w],
+主席 /nn 1	 , 一下/m, 主席/nnt, 。/w],
+队员 /nn 1	 , 田径/n, 队员/nnt, 的/ude
+侦探 /nn 1	 的/ude1, 侦探/nnd, 故事/n,
+法官 /nn 1	 被/pbei, 法官/nnt, 揪出/nz
+法医 /nn 1	  ，/w], [法医/nnt, 的/ude
+数学老师 /nn 1	  ，/w], [数学老师/nnt, 断定/v,
+英语老师 /nn 1	 的/ude1, 英语老师/nnt, ，/w],

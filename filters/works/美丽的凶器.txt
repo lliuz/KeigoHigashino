@@ -1,0 +1,61 @@
+警察 /nn 68	 的/ude1, 警察/nnt, 追根究底/
+刑警 /nn 48	 , 向往/v, 刑警/nnt, 的/ude
+店员 /nn 15	  。/w], [店员/nnt, 是/vsh
+副驾驶 /nn 15	  [坐在/v, 副驾驶/nnt, 座/q, 
+教练 /nn 15	 d, 跟/p, 教练/nnt, 通过/p,
+警官 /nn 12	 u, 位/q, 警官/nnt, 走/v, 
+司机 /nn 9	  计程车/n, 司机/nnt, 看/v, 
+教授 /nn 8	 v, 托/v, 教授/nnt, 照顾/v,
+主播 /nn 8	 , 新闻/n, 主播/nnt, 播报/v,
+学生 /nn 7	 , [从/p, 学生/nnt, 时代/n,
+课长 /nn 7	 m, 课/n, 课长/nnt, 加藤/nz
+服务生 /nn 6	 , [向/p, 服务生/nnd, 点/qt,
+医生 /nn 5	 i, 个/q, 医生/nnt, 。/w],
+管理员 /nn 5	 , 公寓/n, 管理员/nnt, 站/vi,
+警卫 /nn 5	  那个/rz, 警卫/nnt, 还/d, 
+记者 /nn 5	 的/ude1, 记者/nnt, 也/d, 
+代表 /nn 4	  发言/vi, 代表/nnt, 了/ule
+委员 /nn 4	 JOC/nx, 委员/nnt, 。/w],
+总教练 /nn 4	 v, 向/p, 总教练/nnt, 报告/n,
+助理 /nn 4	 , [将/d, 助理/nnt, 主播/nn
+社长 /nn 4	 的/ude1, 社长/nnt, 芦田善一/
+医师 /nn 3	 , 专科/n, 医师/nnt, 。/w],
+冠军 /nn 3	  举重/vn, 冠军/nnt, 的/ude
+部长 /nn 3	  巡查/vn, 部长/nnt, →/w, 
+大学生 /nn 3	  ，/w], [大学生/nnt, 儿子/n,
+社员 /nn 3	 的/ude1, 社员/nnt, 每/rz,
+运动员 /nn 3	  这些/rz, 运动员/nnt, 来说/ul
+罪犯 /nn 2	  [很多/m, 罪犯/nnd, 的/ude
+编辑 /nn 2	 , 某/rz, 编辑/nnt, 朋友/n,
+组长 /nn 2	 , [“/w, 组长/nnt, ……/w]
+署长 /nn 2	  。/w], [署长/nnt, 等/ude
+棒球 /nn 2	 q, 名/q, 棒球/nnd, 选手/n,
+队员 /nn 2	 , 搜查/v, 队员/nnt, 十五/m,
+董事 /nn 2	 , 年轻/a, 董事/nnt, 的/ude
+骑士 /nn 2	 , 机车/n, 骑士/nnd, 几乎/d,
+学者 /nn 1	 m, 副/b, 学者/nnt, 的/ude
+会员 /nn 1	 n, 使/v, 会员/nnt, 增加/v,
+站长 /nn 1	 的/ude1, 站长/nnt, 或许/d,
+委员长 /nn 1	 的/ude1, 委员长/nnt, 年纪/n,
+顾问 /nn 1	 的/ude1, 顾问/nnt, 。/w],
+校名 /nn 1	 的/ude1, 校名/nnt, 。/w],
+杀手 /nn 1	 z, 女/b, 杀手/nnd, 。/w],
+作者 /nn 1	 凶器/n], [作者/nnt, ：/w],
+官员 /nn 1	 , 重要/a, 官员/nnt, 明天/t,
+老板 /nn 1	 的/ude1, 老板/nnt, 就/d, 
+证人 /nn 1	 m, 个/q, 证人/nnt, 表示/v,
+首领 /nn 1	 的/ude1, 首领/nnt, 。/w],
+魔法师 /nn 1	 的/ude1, 魔法师/nnd, 。/w],
+家庭主妇 /nn 1	 的/ude1, 家庭主妇/nnd, ，/w],
+老师 /nn 1	  丹羽/nz, 老师/nnt, ，/w],
+木工 /nn 1	 , 贩卖/v, 木工/nnt, 用品/n,
+高中生 /nn 1	 , 还是/c, 高中生/nnd, 。/w],
+军官 /nn 1	  高阶/nz, 军官/nnt, 的/ude
+法医 /nn 1	 , 转送/v, 法医/nnt, 解剖/vn
+译者 /nn 1	 /nrj], [译者/nnt, ：/w],
+成员 /nn 1	 国际队/nt, 成员/nnt, ，/w],
+院长 /nn 1	 , 后来/t, 院长/nnt, 夫妇/n,
+一把手 /nn 1	 , 发现/v, 一把手/nnt, 枪/n, 
+牙医 /nn 1	 一年前/qt, 牙医/nnd, 的/ude
+作家 /nn 1	 , 自由/a, 作家/nnt, 的/ude
+实业家 /nn 1	 , 青年/n, 实业家/nnd, 的/ude

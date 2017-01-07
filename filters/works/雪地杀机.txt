@@ -1,0 +1,24 @@
+演员 /nn 28	 t, 兼/v, 演员/nnt, 。/w],
+团员 /nn 18	 的/ude1, 团员/nnt, 住宿/vn
+侦探 /nn 15	 v, 名/q, 侦探/nnd, 角色/n,
+证人 /nn 10	 m, 位/q, 证人/nnt, ？/w],
+导演 /nn 9	 q, 、/w, 导演/nnt, 兼/v, 
+负责人 /nn 8	  [山庄/n, 负责人/nnt, 颌/n, 
+老师 /nn 5	  东乡/ns, 老师/nnt, 到底/d,
+代表 /nn 5	 温子/nrj, 代表/nnt, 众人/n,
+女主角 /nn 3	  仅次于/v, 女主角/nnt, 戏/n, 
+间谍 /nn 3	 的/ude1, 间谍/nnt, ，/w],
+医师 /nn 2	 , [如/v, 医师/nnt, 所说/c,
+主角 /nn 2	 仅次于/v, 女主角/nnt, 戏/n, 
+罪犯 /nn 2	  带着/vn, 罪犯/nnd, 般的/u,
+伯爵 /nn 2	 , </nx, 伯爵/nnt, 的/ude
+领导者 /nn 2	 , 过过/v, 领导者/nnt, 的/ude
+作者 /nn 2	  ？/w], [作者/nnt, 或/c, 
+女演员 /nn 2	 , 成为/v, 女演员/nnd, 的/ude
+职员 /nn 1	 , 和/cc, 职员/nnt, 知道/v,
+作家 /nn 1	 的/ude1, 作家/nnt, 别/d, 
+专家 /nn 1	 , 戏剧/n, 专家/nnt, 的/ude
+货车司机 /nn 1	 s, 找/v, 货车司机/nnd, ，/w],
+小学生 /nn 1	 , 不是/c, 小学生/nnd, ，/w],
+棒球 /nn 1	 的/ude1, 棒球/nnd, 投球/vi
+指挥家 /nn 1	  [恍如/v, 指挥家/nnt, 般/uyy

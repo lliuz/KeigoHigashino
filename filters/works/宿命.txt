@@ -1,0 +1,76 @@
+社长 /nn 58	 , 接任/v, 社长/nnt, 。/w],
+刑警 /nn 47	 , 告诉/v, 刑警/nnt, 们/k, 
+博士 /nn 43	 ude1, 医学博士/nnt, 。/w],
+医生 /nn 41	 p, 让/v, 医生/nnt, 治/v],
+警察 /nn 40	 是/vshi, 警察/nnt, ，/w],
+学生 /nn 36	  。/w], [学生/nnt, 们/k, 
+老师 /nn 32	 是/vshi, 老师/nnt, ，/w],
+董事 /nn 17	 e, “/w, 董事/nnt, 室/n, 
+院长 /nn 14	  。/w], [院长/nnt, 上原/ns
+店员 /nn 13	 的/ude1, 店员/nnt, 见过/v,
+女佣 /nn 13	  。/w], [女佣/nnd, 澄江/ns
+科长 /nn 12	 , 刑事/b, 科长/nnt, 在/p, 
+教授 /nn 8	 的/ude1, 教授/nnt, 说/v, 
+护士 /nn 6	  值班/vn, 护士/nnt, 在/p, 
+秘书 /nn 6	 , 特别/d, 秘书/nnt, 竹/ng,
+局长 /nn 6	  。/w], [局长/nnt, 也/d, 
+监护人 /nn 5	 , 接下/v, 监护人/nnt, 的/ude
+高中生 /nn 5	 , 还是/c, 高中生/nnd, ，/w],
+学者 /nn 5	 的/ude1, 学者/nnt, 。/w],
+初中生 /nn 4	 是/vshi, 初中生/nnd, ，/w],
+领袖 /nn 4	 ude1], [领袖/nnt, 。/w],
+记者 /nn 4	 的/ude1, 记者/nnt, 已/d, 
+部长 /nn 4	  巡查/vn, 部长/nnt, 。/w],
+科员 /nn 4	 , [事/n, 科员/nnt, 及/cc,
+证人 /nn 4	 , 和/cc, 证人/nnt], [医院/
+常务董事 /nn 4	 跟屁虫/nz, 常务董事/nnt, 拍马/vi
+班长 /nn 3	 , 不是/c, 班长/nnt, 。/w],
+服务生 /nn 3	  ，/w], [服务生/nnd, 送/v, 
+作家 /nn 3	 , 勇/ag, 作家/nnt, 门前/s,
+负责人 /nn 3	  ，/w], [负责人/nnt, 事/n, 
+巡警 /nn 3	  。/w], [巡警/nnd, 到/v, 
+大学生 /nn 3	 , 就是/v, 大学生/nnt, 了/ule
+司机 /nn 3	 的/ude1, 司机/nnt, 以/p, 
+干部 /nn 3	 , 召开/v, 干部/nnt, 会议/n,
+律师 /nn 3	 , 想起/v, 律师/nnt, 宣读/v,
+成员 /nn 2	  [主要/b, 成员/nnt, 齐聚/nr
+副教授 /nn 2	 的/ude1, 副教授/nnt, 也/d, 
+罪犯 /nn 2	 , 逮捕/v, 罪犯/nnd, 。/w],
+主任 /nn 2	 n, 部/q, 主任/nnt, 为美佐子/
+警卫 /nn 2	 是/vshi, 警卫/nnt, 。/w],
+书商 /nn 2	 , [旧/a, 书商/nnd, 片/q, 
+商人 /nn 2	  艺术品/n, 商人/nnt, 。/w],
+创办人 /nn 2	 , 工业/n, 创办人/nnt, 瓜/n, 
+警官 /nn 2	 是/vshi, 警官/nnt, ，/w],
+主席 /nn 2	 , 担任/v, 主席/nnt, ，/w],
+企业家 /nn 2	 , 和/cc, 企业家/nnt, ，/w],
+助教 /nn 2	 t, 当/p, 助教/nnt, 。/w],
+领导人 /nn 1	 的/ude1, 领导人/nnt, ，/w],
+厂商 /nn 1	  生产/vn, 厂商/nnd, ，/w],
+公务员 /nn 1	  一般/ad, 公务员/nnt, 更/d],
+教师 /nn 1	 高中/nis, 教师/nnt, 供过于求/
+间谍 /nn 1	 , 成为/v, 间谍/nnt, ……/w]
+画家 /nn 1	 , 这位/r, 画家/nnt, 画/v, 
+工人 /nn 1	  ，/w], [工人/nnt, 般/uyy
+作者 /nn 1	 
+歌舞伎 /nn 1	 , 关于/p, 歌舞伎/nnd, 的/ude
+老板 /nn 1	 , 工业/n, 老板/nnt, 的/ude
+医学博士 /nn 1	 的/ude1, 医学博士/nnt, 。/w],
+副驾驶 /nn 1	 , 坐在/v, 副驾驶/nnt, 座/q],
+组长 /nn 1	 案组/nis, 组长/nnt, 由/p, 
+猎人 /nn 1	 , [中/f, 猎人/nnd, 使用/v,
+将领 /nn 1	 的/ude1, 将领/nnt, 不会/v,
+公主 /nn 1	 , [“/w, 公主/nnd, 大人/n,
+老板娘 /nn 1	 的/ude1, 老板娘/nnd, 说/v, 
+室长 /nn 1	 的/ude1, 室长/nnt, ，/w],
+接线员 /nn 1	 c, 女/b, 接线员/nnd, 接听电话/
+木工 /nn 1	 w, 做/v, 木工/nnt, 。/w],
+专家 /nn 1	 过/uguo, 专家/nnt, ，/w],
+社员 /nn 1	 , 体育/n, 社员/nnt, 还/d, 
+诺贝尔奖 /nn 1	 , 拿到/v, 诺贝尔奖/nnd, ，/w],
+会计 /nn 1	 , 与/cc, 会计/nnt, 相关/vn
+明星 /nn 1	 的/ude1, 明星/nnd, 学校/ni
+佣人 /nn 1	 , 和/cc, 佣人/nnd, 吗/y, 
+技师 /nn 1	 , 担任/v, 技师/nnt, ，/w],
+校长 /nn 1	 , [从/p, 校长/nnt, 手上/s,
+演员 /nn 1	 , 歌剧/n, 演员/nnt, 般/uyy

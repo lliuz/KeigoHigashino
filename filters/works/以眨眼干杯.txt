@@ -1,0 +1,16 @@
+社长 /nn 21	 的/ude1, 社长/nnt, 夫人/n,
+刑警 /nn 11	 , 跟着/v, 刑警/nnt, 进屋/vi
+服务生 /nn 4	 , 听到/v, 服务生/nnd, 问道/vi
+副社长 /nn 4	 的/ude1, 副社长/nnt, ，/w],
+社员 /nn 4	  营业/vn, 社员/nnt, 的/ude
+王后 /nn 3	  银座/ns, 王后/nnt, 酒店/ni
+警察 /nn 3	 d, 见/v, 警察/nnt, 们/k, 
+店员 /nn 2	  ，/w], [店员/nnt, 向/p, 
+老板 /nn 1	  [后来/t, 老板/nnt, 就/d, 
+管理员 /nn 1	  了/ule, 管理员/nnt, ，/w],
+女星 /nn 1	 , 三流/b, 女星/nnd, ，/w],
+政治家 /nn 1	 是/vshi, 政治家/nnt, 的/ude
+运动员 /nn 1	 m, 副/b, 运动员/nnt, 般的/u,
+院长 /nn 1	 的/ude1, 院长/nnt, 太太/n,
+工作人员 /nn 1	 的/ude1, 工作人员/nnt, 也/d, 
+副教授 /nn 1	 n, 、/w, 副教授/nnt, 、/w, 

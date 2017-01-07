@@ -1,0 +1,82 @@
+富冈 /ns 34	  了/ule, 富冈/ns, 夫人/n, 
+日本 /ns 20	 v, ：/w, 日本/ns, 地方/n, 
+汉堡 /ns 8	 , 知名/a, 汉堡/nsf, 店/n, 
+本山 /ns 8	 z, 、/w, 本山/ns, 元/q, 雄
+法国 /ns 8	  了/ule, 法国/nsf, 的/ude
+地球 /ns 7	 , 发现/v, 地球/ns, 外/f, 的
+美国 /ns 6	 , 落到/v, 美国/nsf, 领土/n,
+大阪 /ns 5	 i, 由/p, 大阪/nsf, 某/rz,
+德黑兰 /ns 4	 , 来自/v, 德黑兰/nsf, 。/w],
+火村 /ns 3	 q, 姓/v, 火村/ns, 的/ude1
+月山 /ns 3	 q, 姓/v, 月山/ns, 的/ude1
+上完 /ns 3	  。/w], [上完/ns, 厕所/n, 
+长野 /ns 2	 , 本部/n, 长野/ns, 田/n, 紧
+不晓得 /ns 2	 n, 也/d, 不晓得/ns, 。/w], 
+冈山 /ns 2	  了/ule, 冈山/nsf, 县/n, 
+河口 /ns 2	 , 开到/v, 河口/ns, 湖/n, ，
+上都 /ns 2	 , 长椅/n, 上都/ns, 不敢/d, 
+街道 /ns 2	 的/ude1, 街道/ns, 工厂/nis
+后支 /ns 2	 t, 门/n, 后支/ns, 有/vyou
+湖滨公寓 /ns 2	  ，/w], [湖滨公寓/ns, 二〇五/m,
+巴黎 /ns 2	 v, 给/p, 巴黎/nsf, 展览/vn
+喀麦隆 /ns 2	 是/vshi, 喀麦隆/nsf, 共和国/n
+休斯顿 /ns 2	 v, 在/p, 休斯顿/ns, 的/ude1
+意大利 /ns 2	  那个/rz, 意大利/nsf, 面/nf,
+布拉柴维尔 /ns 2	 的/ude1, 布拉柴维尔/nsf, ，/w],
+不存在 /ns 2	 , 应该/v, 不存在/ns, 问题/n, 
+雅温得 /ns 2	 , 是从/v, 雅温得/ns, 。/w], 
+苏里南 /ns 1	 是/vshi, 苏里南/nsf, 共和国/n
+神田 /ns 1	  ）/w], [神田/ns, 是/vshi
+道外 /ns 1	 w, 花/n, 道外/ns, 别/d, 无
+山梨 /ns 1	 , 位于/v, 山梨/ns, 县境/n, 
+大陆 /ns 1	 美洲/nsf, 大陆/ns, ，/w], 
+代家 /ns 1	 , 十二/m, 代家/ns, 主/ag, 
+爱琴海 /ns 1	 , 正在/d, 爱琴海/nsf, 上/f, 
+挪作 /ns 1	 , 大厅/n, 挪作/ns, 待客/vi,
+江户 /ns 1	 a, （/w, 江户/ns, 时代/n, 
+荷兰 /ns 1	 v, ：/w, 荷兰/nsf, 货币/n,
+中藏 /ns 1	 n, ”/w, 中藏/ns, 有/vyou
+石川县 /ns 1	 i, 在/p, 石川县/ns, 和/cc, 
+刚赶 /ns 1	  [他/rr, 刚赶/ns, 过去/vf,
+富士山 /ns 1	 v, 】/w, 富士山/ns, 周边/n, 
+夸下海口 /ns 1	 , 他/rr, 夸下海口/ns, 一定/b, 
+上东 /ns 1	  [然后/c, 上东/ns, 名/q, 高
+平地上 /ns 1	 的/ude1, 平地上/ns, ，/w], 
+五台 /ns 1	 /udeng, 五台/ns, 巡逻车/n,
+向家 /ns 1	  掉头/vi, 向家/ns, 开去/v, 
+多米尼加共和国 /ns 1	 , 就是/v, 多米尼加共和国/nsf, 的/ude
+巴拿马 /ns 1	 v, ：/w, 巴拿马/nsf, 货币/n,
+东北 /ns 1	 车则上/nr, 东北/ns, 道/qv, 
+夏天 /ns 1	  [转眼/d, 夏天/ns, 过去/vf,
+于家 /ns 1	  往返/vi, 于家/ns, 和/cc, 
+庙里 /ns 1	  ，/w], [庙里/ns, 放/v, 着
+西湖 /ns 1	 s, 、/w, 西湖/ns, 、/w, 本
+美洲 /ns 1	 是/vshi, 美洲/nsf, 大陆/ns
+东京 /ns 1	 , 位于/v, 东京/nsf, 下/f, 
+张得 /ns 1	  洋娃娃/n, 张得/ns, 太/d, 恐
+尼罗河 /ns 1	 p, 《/w, 尼罗河/nsf, 上/f, 
+关西 /ns 1	 v, 在/p, 关西/ns, ，/w], 
+神前 /ns 1	 , 按照/p, 神前/ns, 婚礼/n, 
+出所 /ns 1	 v, 丅/w, 出所/ns, 联系/v, 
+美都 /ns 1	  [育/vg, 美都/ns, 去/vf, 
+刚果 /ns 1	 是/vshi, 刚果/nsf, 的/ude
+大名 /ns 1	 , 时代/n, 大名/ns, 的/ude1
+纽约 /ns 1	  [此前/t, 纽约/nsf, 和/cc,
+名古屋 /ns 1	 , 一过/c, 名古屋/nsf, ，/w],
+三公里 /ns 1	 , 往南/d, 三公里/ns, 处/n, 有
+夏威夷 /ns 1	  [不是/c, 夏威夷/nsf, 四/m, 
+三正 /ns 1	  [孝/ng, 三正/ns, 足以/d, 
+大理 /ns 1	 , 放在/v, 大理/ns, 石/ng, 
+丰润 /ns 1	 , 松软/a, 丰润/ns, ，/w], 
+山中湖 /ns 1	 n, 、/w, 山中湖/ns, 、/w, 西
+加拿大 /ns 1	 m, 在/p, 加拿大/nsf, 滑雪/vn
+五湖 /ns 1	 富士/ntc, 五湖/ns, 【/w, 注
+岩手县 /ns 1	  了/ule, 岩手县/ns, ，/w], 
+帕拉马里博 /ns 1	 1, 都/d, 帕拉马里博/nsf, 。/w],
+好莱坞 /ns 1	 , 某/rz, 好莱坞/nsf, 女星/nn
+太高兴 /ns 1	 v, 不/d, 太高兴/ns, ，/w], 
+蒙人 /ns 1	 是/vshi, 蒙人/ns, 的/ude1
+名门望族 /ns 1	 , 属于/v, 名门望族/ns, 。/w], 
+太平洋 /ns 1	  了/ule, 太平洋/ns, 方向/n, 
+英国 /ns 1	 有/vyou, 英国/ns, 报社/nis
+澳洲 /ns 1	 , 重蹈/v, 澳洲/ns, 伞/n, 蜥

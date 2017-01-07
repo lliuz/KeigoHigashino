@@ -1,0 +1,69 @@
+总理 /nn 39	 , 与/cc, 总理/nnt, 见面/vi
+警察 /nn 21	 d, 让/v, 警察/nnt, 同仁/n,
+大臣 /nn 17	 , 政策/n, 大臣/nnt, 。/w],
+部长 /nn 16	 总部/nis, 部长/nnt, 永野/nr
+经理 /nn 15	 , 和/cc, 经理/nnt, 正要/d,
+课长 /nn 11	 m, 课/n, 课长/nnt, 打来/v,
+护士 /nn 11	 s, 当/p, 护士/nnt, ，/w],
+老师 /nn 9	 , 和/cc, 老师/nnt, 一直/d,
+店员 /nn 8	 , 前任/b, 店员/nnt, 。/w],
+首相 /nn 8	 r, 在/p, 首相/nnt, 官邸/n,
+公务员 /nn 7	 , 和/cc, 公务员/nnt, 也/d, 
+刑警 /nn 7	 的/ude1, 刑警/nnt, 说/v, 
+代表 /nn 6	 , [就/d, 代表/nnt, 该/rz,
+国王 /nn 5	 的/ude1, 国王/nnt, 很/d, 
+负责人 /nn 5	 的/ude1, 负责人/nnt, 决定/v,
+官员 /nn 5	 政府/nis, 官员/nnt, 大概/d,
+职员 /nn 5	 , 从/p, 教职员/nnd, 办公室/n
+警员 /nn 4	 的/ude1, 警员/nnt, 不见踪影/
+警官 /nn 4	 m, 位/q, 警官/nnt, 在/p, 
+医师 /nn 3	 知道/v, 主治医师/nnt, 是/vsh
+领导者 /nn 3	 j, 当/p, 领导者/nnt, 不/d, 
+记者 /nn 3	 , 媒体/n, 记者/nnt, 起疑/v,
+高中生 /nn 3	 , [女/b, 高中生/nnd, 中原/ns
+技术人员 /nn 3	 是/vshi, 技术人员/nnt, 。/w],
+首长 /nn 2	 的/ude1, 首长/nnt, 一起/s,
+歌舞伎 /nn 2	  ，/w], [歌舞伎/nnd, 座/q, 
+学者 /nn 2	  ，/w], [学者/nnt, 本来/d,
+副驾驶 /nn 2	 n, 从/p, 副驾驶/nnt, 座/q, 
+司机 /nn 2	  ，/w], [司机/nnt, 通常/d,
+首脑 /nn 2	 , 国家/n, 首脑/nnt, 。/w],
+政治家 /nn 2	 /ulian, 政治家/nnt, 和/cc,
+医生 /nn 1	 是/vshi, 医生/nnt, 。/w],
+厨师 /nn 1	 d, 没/d, 厨师/nnt, 。/w],
+总统 /nn 1	 美国/nsf, 总统/nnt, 报告/n,
+教授 /nn 1	 物化学/gb, 教授/nnt, ，/w],
+科学家 /nn 1	  ，/w], [科学家/nnt, 为了/p,
+副长官 /nn 1	  官房/nz, 副长官/nnt, 办公室/n
+游民 /nn 1	 d, 像/v, 游民/nnd, 。/w],
+博士 /nn 1	 艾森/nrf, 博士/nnt, 举出/v,
+学生 /nn 1	 y, 在/p, 学生/nnt, 时代/n,
+理事 /nn 1	 , 和/cc, 理事/nnt, 官也/nr
+特警 /nn 1	 , 武装/n, 特警/nnd, 小组/ni
+公司员工 /nn 1	 , 哪家/r, 公司员工/nnd, 用/p, 
+作者 /nn 1	 , [┃/w, 作者/nnt, ┃/w, 
+体育老师 /nn 1	  ，/w], [体育老师/nnt, 。/w],
+事务员 /nn 1	  。/w], [事务员/nnt, 及/cc,
+内阁总理 /nn 1	 的/ude1, 内阁总理/nnt, 大臣/nn
+英文翻译 /nn 1	 , 那段/r, 英文翻译/nnt, 出来/vf
+警卫 /nn 1	 m, 名/q, 警卫/nnt, 当场/d,
+兽医 /nn 1	  [因为/c, 兽医/nnt, 都/d, 
+艺人 /nn 1	 的/ude1, 艺人/nnt, 津津有味/
+女佣 /nn 1	 的/ude1, 女佣/nnd, ，/w],
+秘书 /nn 1	 , 叫/vi, 秘书/nnt, 吧/y, 
+骑士 /nn 1	  [当时/t, 骑士/nnd, 似乎/d,
+编写者 /nn 1	 , 手册/n, 编写者/nnd, 似乎/d,
+工作人员 /nn 1	  [可是/c, 工作人员/nnt, 和/cc,
+长官 /nn 1	 警视厅/nz, 长官/nnt, ，/w],
+专家 /nn 1	 /w], [研究专家/nnd, 们/k, 
+秘书长 /nn 1	 的/ude1, 秘书长/nnt, 。/w],
+主治医师 /nn 1	 , 知道/v, 主治医师/nnt, 是/vsh
+干部 /nn 1	 的/ude1, 干部/nnt, 本来/d,
+成员 /nn 1	 , 部份/n, 成员/nnt, ，/w],
+冠军 /nn 1	 的/ude1, 冠军/nnt, 奖杯/n,
+农夫 /nn 1	 r, 当/p, 农夫/nnd, ？/w],
+研究专家 /nn 1	  ，/w], [研究专家/nnd, 们/k, 
+建筑师 /nn 1	 有/vyou, 建筑师/nnt, 资格/n,
+教职员 /nn 1	 t, 从/p, 教职员/nnd, 办公室/n
+大师 /nn 1	 幻小说/nz, 大师/nnt, 。/w],
+总监 /nn 1	  警视/nz, 总监/nnt, 、/w, 

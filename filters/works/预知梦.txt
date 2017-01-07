@@ -1,0 +1,59 @@
+警察 /nn 45	  ，/w], [警察/nnt, 断定/v,
+刑警 /nn 18	 , 成为/v, 刑警/nnt, 后/f, 
+学生 /nn 15	 , 很多/m, 学生/nnt, 正在/d,
+管理员 /nn 10	 c, 让/v, 管理员/nnt, 开/v, 
+科长 /nn 8	  ，/w], [科长/nnt, 突然/ad
+社长 /nn 7	 会社/nis, 社长/nnt, 森/ag,
+服务员 /nn 7	  ，/w], [服务员/nnt, 从/p, 
+工人 /nn 6	 m, 个/q, 工人/nnt, 一起/s,
+店员 /nn 6	 的/ude1, 店员/nnt, 可以/v,
+店长 /nn 6	 的/ude1, 店长/nnt, 穿着/n,
+副驾驶 /nn 5	 , 坐在/v, 副驾驶/nnt, 位子/n,
+证人 /nn 5	 , 目击/v, 证人/nnt, 时/qt,
+译者 /nn 5	 , ——/w, 译者/nnt, 注/v, 
+牧师 /nn 4	 m, 位/q, 牧师/nnt, 做/v, 
+设计师 /nn 4	  了/ule, 设计师/nnt, 。/w],
+运动员 /nn 4	 c, 女/b, 运动员/nnt, 说话/vi
+科学家 /nn 3	  流露出/v, 科学家/nnt, 的/ude
+代表 /nn 3	 , 我/rr, 代表/nnt, 警方/n,
+女招待 /nn 3	 d, 名/q, 女招待/nnd, 后/f, 
+老师 /nn 3	  汤川/nr, 老师/nnt, 那里/rz
+队员 /nn 3	 , 左边/f, 队员/nnt, 们/k, 
+律师 /nn 3	 ude1, 辩护律师/nnt, 肯定/v,
+股长 /nn 3	  咱们/rr, 股长/nnt, 就/d, 
+代理人 /nn 2	 的/ude1, 代理人/nnt, 能来/v,
+高中生 /nn 2	 的/ude1, 高中生/nnd, 什么/ry
+警官 /nn 2	  草薙/nz, 警官/nnt, ？/w],
+记者 /nn 2	 , 体育/n, 记者/nnt, 也挺/nz
+专家 /nn 2	 v, 请/v, 专家/nnt, 调查/vn
+小学生 /nn 2	 /ude1, 中小学生/nnd, ，/w],
+司机 /nn 2	 , 就让/v, 司机/nnt, 往左/v,
+橄榄球 /nn 2	 大学/nis, 橄榄球/nnd, ”/w, 
+警长 /nn 2	  草薙/nz, 警长/nnt, 登场/vi
+电工 /nn 2	 i, 开/v, 电工/nnt, 商店/ni
+厨师 /nn 1	 s, 做/v, 厨师/nnt, 。/w],
+信徒 /nn 1	 的/ude1, 信徒/nnd, ？/w],
+副教授 /nn 1	 的/ude1, 副教授/nnt, 回过/v,
+罪犯 /nn 1	  ，/w], [罪犯/nnd, 们/k, 
+房地产商 /nn 1	 , [“/w, 房地产商/nnd, 建议/n,
+预言家 /nn 1	 的/ude1, 预言家/nnd, 们/k, 
+工程师 /nn 1	  服务/vn, 工程师/nnt, ，/w],
+导演 /nn 1	  ，/w], [导演/nnt, 了/ule
+撰稿人 /nn 1	 , 自由/a, 撰稿人/nnt, 。/w],
+指导员 /nn 1	 学生/nnd, 指导员/nnt, 石原由/n
+村主任 /nn 1	 , 峰/ng, 村主任/nnt, 的/ude
+物理学家 /nn 1	 , [”/w, 物理学家/nnt, 淡淡地/z
+播音员 /nn 1	 , 新闻/n, 播音员/nnt, 表情/n,
+老板 /nn 1	 书店/nis, 老板/nnt, ，/w],
+警员 /nn 1	  ，/w], [警员/nnt, 中/f, 
+棒球 /nn 1	 , 职业/n, 棒球/nnd, ”/w, 
+技术人员 /nn 1	 r, 当/p, 技术人员/nnt, 都/d, 
+债主 /nn 1	 的/ude1, 债主/nnd, ，/w],
+家庭主妇 /nn 1	  一个/mq, 家庭主妇/nnd, 必须/d,
+经理 /nn 1	 , [代/q, 经理/nnt, 瞥/q, 
+中小学生 /nn 1	 的/ude1, 中小学生/nnd, ，/w],
+教练员 /nn 1	 , 首席/n, 教练员/nnt, 的/ude
+课长 /nn 1	 v, 给/p, 课长/nnt, 他们/rr
+店主 /nn 1	 牧田问/nr, 店主/nnd, ，/w],
+侦探 /nn 1	 , [“/w, 侦探/nnd, 事务所/n
+辩护律师 /nn 1	 的/ude1, 辩护律师/nnt, 肯定/v,

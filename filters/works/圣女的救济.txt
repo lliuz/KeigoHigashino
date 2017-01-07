@@ -1,0 +1,76 @@
+老师 /nn 77	 , 和/cc, 老师/nnt, 说/v, 
+刑警 /nn 46	 是/vshi, 刑警/nnt, 的/ude
+警察 /nn 23	 , 一下/m, 警察/nnt, 手册/n,
+作家 /nn 19	 , 本/rz, 作家/nnt, ，/w],
+作者 /nn 18	 救济/n], [作者/nnt, ：/w, 
+股长 /nn 17	  ，/w], [股长/nnt, 陪/v, 
+侦探 /nn 16	 t, “/w, 侦探/nnd, 伽利略/n
+女招待 /nn 16	 过/uguo, 女招待/nnd, 了/ule
+社长 /nn 14	 的/ude1, 社长/nnt, 吧/y, 
+学者 /nn 10	 的/ude1, 学者/nnt, ，/w],
+学生 /nn 10	 m, 个/q, 学生/nnt, ，/w],
+警官 /nn 8	 的/ude1, 警官/nnt, 一/m, 
+律师 /nn 8	 的/ude1, 律师/nnt, ，/w],
+科学家 /nn 7	 e, 令/v, 科学家/nnt, 感兴趣/a
+画家 /nn 7	 ……/w], [画家/nnt, 吗/y, 
+店长 /nn 7	  把/pba, 店长/nnt, 叫/vi,
+学员 /nn 6	 d, 名/q, 学员/nnt, 也/d, 
+服务生 /nn 6	  。/w], [服务生/nnd, 脸上/s,
+助手 /nn 6	  ，/w], [助手/nnt, 和/cc,
+副驾驶 /nn 5	 , 坐在/v, 副驾驶/nnt, 座/q, 
+顾问 /nn 4	 公司/nis, 顾问/nnt, 职务/n,
+经营者 /nn 4	 的/ude1, 经营者/nnt, ，/w],
+司机 /nn 4	 w, “/w, 司机/nnt, ，/w],
+女画家 /nn 3	 , 那位/r, 女画家/nnd, 的/ude
+大夫 /nn 3	 , [听/v, 大夫/nnt, 说/v, 
+科长 /nn 3	 , 和/cc, 科长/nnt, 他们/rr
+负责人 /nn 3	 z, 科/n, 负责人/nnt, 认为/v,
+主角 /nn 3	 , 系列/n, 主角/nnt, ，/w],
+家庭主妇 /nn 3	 m, 名/q, 家庭主妇/nnd, ，/w],
+证人 /nn 3	 , 目击/v, 证人/nnt, 的/ude
+医生 /nn 2	 的/ude1, 医生/nnt, 过来/vf
+漫画家 /nn 2	 t, 或/c, 漫画家/nnt, 之类/rz
+公司员工 /nn 2	  那名/nr, 公司员工/nnd, 说道/v,
+设计者 /nn 2	  其它/rz, 设计者/nnt, 来/vf,
+讲师 /nn 2	 , 兼任/v, 讲师/nnt, 。/w],
+师傅 /nn 2	 , [为/p, 师傅/nnt, 能够/v,
+保姆 /nn 2	 , 不是/c, 保姆/nnt, 或/c, 
+工作人员 /nn 2	  ，/w], [工作人员/nnt, 也/d, 
+设计师 /nn 2	 i, 个/q, 设计师/nnt, 或/c, 
+艺术家 /nn 2	 v, 布/n, 艺术家/nnt, 。/w],
+厨师 /nn 1	 , 不过/c, 厨师/nnt, 们/k, 
+公务员 /nn 1	  [如同/v, 公务员/nnt, 说/v, 
+修女 /nn 1	 , 便是/v, 修女/nnd, （/w, 
+刺客 /nn 1	 的/ude1, 刺客/nnd, 、/w, 
+研究者 /nn 1	 , 身为/v, 研究者/nnt, ，/w],
+代表 /nn 1	 , 和/cc, 代表/nnt, 日本/ns
+女警 /nn 1	 , 这位/r, 女警/nnt, 这里/rz
+歌手 /nn 1	 其他/rzv, 歌手/nnt, 的/ude
+厂商 /nn 1	 瓶装水/nz, 厂商/nnd, 的/ude
+冠军 /nn 1	 , 拿到/v, 冠军/nnt, 时/qt,
+插画家 /nn 1	 t, 、/w, 插画家/nnt, 中/f, 
+编辑 /nn 1	  ？/w], [编辑/nnt, 之类/rz
+教授 /nn 1	 p, 上/f, 教授/nnt, 的/ude
+巫女 /nn 1	 , 和/cc, 巫女/nnt, （/w, 
+配角 /nn 1	 t, 、/w, 配角/nnt, 都/d, 
+国际象棋 /nn 1	 的/ude1, 国际象棋/nnd, 里/f, 
+警员 /nn 1	 的/ude1, 警员/nnt, 过来/vf
+经营管理者 /nn 1	  ，/w], [经营管理者/nnt, 突然/ad
+小说家 /nn 1	 是/vshi, 小说家/nnd, 吗/y, 
+艺人 /nn 1	 , 和/cc, 艺人/nnt, 之类/rz
+古生物学家 /nn 1	  了/ule, 古生物学家/nnd, 们/k, 
+室长 /nn 1	  宣传/vn, 室长/nnt, 。/w],
+模特 /nn 1	  太多/ad, 模特/nnt, 之类/rz
+职员 /nn 1	 公司/nis, 职员/nnt, 或/c, 
+大师 /nn 1	 的/ude1, 大师/nnt, 们/k, 
+高中生 /nn 1	 q, 女/b, 高中生/nnd, 似的/u,
+评论家 /nn 1	 t, 、/w, 评论家/nnt, 们/k, 
+责任编辑 /nn 1	 的/ude1, 责任编辑/nnt, 那里/rz
+杀手 /nn 1	 d, 、/w, 杀手/nnd, 所/usu
+法官 /nn 1	  [那么/c, 法官/nnt, 也/d, 
+董事长 /nn 1	 , 出版/v, 董事长/nnt, 笹/n, 
+高层领导 /nn 1	  ，/w], [高层领导/nnt, 认为/v,
+骑士 /nn 1	 , 白色/n, 骑士/nnd, ，/w],
+主持人 /nn 1	  [听到/v, 主持人/nnt, 的/ude
+牙医 /nn 1	 没想到/nz, 牙医/nnd, 也/d, 
+演员 /nn 1	 的/ude1, 演员/nnt, 。/w],

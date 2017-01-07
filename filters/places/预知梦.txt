@@ -1,0 +1,35 @@
+清美 /ns 53	 是/vshi, 清美/ns, 最喜欢/nz
+濑户 /ns 19	 [2/m], [濑户/ns, 富/vg, 
+小田 /ns 10	 刑警/nnt, 小田/ns, 这么/rz,
+野岛 /ns 9	 e, “/w, 野岛/ns, ”/w, 两
+大阪 /ns 5	 , 去/vf, 大阪/nsf, ，/w],
+日本 /ns 5	 f, 、/w, 日本/ns, 酒/nf, 
+银座 /ns 4	 d, 在/p, 银座/ns, 的/ude1
+王子 /ns 4	 v, 八/m, 王子/ns, （/w, 东
+东京 /ns 3	 f, （/w, 东京/nsf, 至/p, 
+江东区 /ns 3	 , 住在/v, 江东区/ns, 名叫/v, 
+新桥 /ns 3	 , 位于/v, 新桥/ns, ，/w], 
+蒲田 /ns 3	 代经理/nr, 蒲田/ns, 。/w], 
+新加坡 /ns 2	 n, 赴/v, 新加坡/nsf, 出差/vi
+中市 /ns 2	 , 府/ng, 中市/ns, ×/w, ×
+萨拉热窝 /ns 2	 n, 在/p, 萨拉热窝/nsf, 成/v, 
+伊豆 /ns 2	 , 去/vf, 伊豆/ns, 那/rzv,
+江东 /ns 1	 r, 在/p, 江东/ns, 区/n, ，
+北朝鲜 /ns 1	 着/uzhe, 北朝鲜/ns, 的/ude1
+名古屋 /ns 1	 f, 至/p, 名古屋/nsf, ——/w,
+新店 /ns 1	 , 一家/n, 新店/ns, ，/w], 
+加拿大 /ns 1	 , 去/vf, 加拿大/nsf, 1/m, 
+几米远 /ns 1	 d, 就/d, 几米远/ns, 的/ude1
+巴尔干半岛 /ns 1	  ，/w], [巴尔干半岛/nsf, 的/ude
+东京都 /ns 1	 p, 对/p, 东京都/nsf, 内/f, 
+黑边 /ns 1	 m, 封/q, 黑边/ns, 的/ude1
+大理 /ns 1	 v, 在/p, 大理/ns, 石/ng, 
+宅内 /ns 1	  了/ule, 宅内/ns, 。/w], 
+琦玉县 /ns 1	 是/vshi, 琦玉县/ns, 的/ude1
+金泽 /ns 1	 , [“/w, 金泽/ns, 老师/nnt
+千叶 /ns 1	 t, 在/p, 千叶/ns, 开/v, 了
+蓝山 /ns 1	 的/ude1, 蓝山/ns, 咖啡店/ni
+中央大道 /ns 1	 , 俯视/v, 中央大道/ns, 。/w], 
+街道 /ns 1	 i, 在/p, 街道/ns, 的/ude1
+猫起 /ns 1	  [微微/d, 猫起/ns, 腰/n, ，
+不存在 /ns 1	 , [也/d, 不存在/ns, 什么/ry,

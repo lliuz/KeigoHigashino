@@ -1,0 +1,68 @@
+刑警 /nn 170	  。/w], [刑警/nnt, 们/k, 
+学生 /nn 52	  [听说/v, 学生/nnt, 们/k, 
+老师 /nn 51	 高中/nis, 老师/nnt, ，/w],
+游民 /nn 17	 d, 排/v, 游民/nnd, 用/p, 
+警察 /nn 17	 , 相信/v, 警察/nnt, 也/d, 
+技师 /nn 15	 i, “/w, 技师/nnt, ”/w, 
+数学老师 /nn 14	 , 就是/v, 数学老师/nnt, 。/w],
+教授 /nn 13	 , 还有/v, 教授/nnt, 指示/n,
+研究生 /nn 12	 , 圆脸/n, 研究生/nnt, 的/ude
+组长 /nn 11	 , 因为/c, 组长/nnt, 叫/vi,
+事务员 /nn 11	 , [男/b, 事务员/nnt, 正在/d,
+数学家 /nn 9	 , 运用/v, 数学家/nnt, 提出/v,
+服务生 /nn 8	 , [女/b, 服务生/nnd, 送来/v,
+老板 /nn 7	 , 身为/v, 老板/nnt, 的/ude
+学者 /nn 6	  研究/vn, 学者/nnt, 精通/v,
+店员 /nn 6	  ，/w], [店员/nnt, 记得/v,
+副教授 /nn 6	  汤川/nr, 副教授/nnt, 越好/d,
+馆员 /nn 5	 q, 女/b, 馆员/nnt, ，/w],
+顾问 /nn 4	 的/ude1, 顾问/nnt, ，/w],
+物理学家 /nn 4	  这个/rz, 物理学家/nnt, 迂回曲折/
+信徒 /nn 3	 的/ude1, 信徒/nnd, 吗/y, 
+数学教师 /nn 3	  这个/rz, 数学教师/nnt, ，/w],
+士兵 /nn 3	 是/vshi, 士兵/nnt, ，/w],
+副驾驶 /nn 3	 z, 在/p, 副驾驶/nnt, 座/q, 
+保镖 /nn 3	 r, 以/p, 保镖/nnt, 的/ude
+教师 /nn 3	 i, 个/q, 教师/nnt, ，/w],
+律师 /nn 3	 的/ude1, 律师/nnt, 商量/v,
+硕士 /nn 3	 m, 届/q, 硕士/nnt, 课程/n,
+助教 /nn 3	 d, 征/v, 助教/nnt, 。/w],
+科学家 /nn 2	  ，/w], [科学家/nnt, 总是/d,
+调查员 /nn 2	  [部分/n, 调查员/nnt, 拿着/vf
+赛车手 /nn 2	 , [“/w, 赛车手/nnd, 不能/v,
+经营者 /nn 2	  。/w], [经营者/nnt, 接获/v,
+警员 /nn 2	  。/w], [警员/nnt, 之中/f,
+导师 /nn 2	 c, 班/n, 导师/nnt, 的/ude
+研究者 /nn 2	 , 成为/v, 研究者/nnt, 的/ude
+监工 /nn 2	 的/ude1, 监工/nnt, ，/w],
+骑士 /nn 2	 , 违反/v, 骑士/nnd, 精神/n,
+大师 /nn 2	 利略/nrf, 大师/nnt, 的/ude
+司机 /nn 2	  [看着/v, 司机/nnt, 应声/vi
+店长 /nn 2	  ，/w], [店长/nnt, 也/d, 
+医生 /nn 1	  [然后/c, 医生/nnt, 就/d, 
+博士 /nn 1	 s, 拿/v, 博士/nnt, 。/w],
+老板娘 /nn 1	 a, 店/n, 老板娘/nnd, 。/w],
+间谍 /nn 1	 r, 当/p, 间谍/nnt, 。/w],
+发明者 /nn 1	 d, 棋/n, 发明者/nnd, 的/ude
+校名 /nn 1	 , 报上/v, 校名/nnt, 。/w],
+专家 /nn 1	 的/ude1, 专家/nnt, ，/w],
+杀手 /nn 1	 是/vshi, 杀手/nnd, 名单/n,
+公务员 /nn 1	 是/vshi, 公务员/nnt, 。/w],
+作者 /nn 1	  》/w], [作者/nnt, ：/w, 
+国王 /nn 1	  。/w], [国王/nnt, 无路可逃/
+负责人 /nn 1	 v, 跟/p, 负责人/nnt, 谈谈/v,
+忍者 /nn 1	 , 一直/d, 忍者/nnd, 没/d, 
+讲师 /nn 1	 , [在/p, 讲师/nnt, 进/vf,
+警卫 /nn 1	 z, 跟/p, 警卫/nnt, 解释/v,
+教职 /nn 1	 , 辞去/v, 教职/nnt, 吗/y, 
+债主 /nn 1	 被/pbei, 债主/nnd, 追杀/v,
+音乐家 /nn 1	 , 成为/v, 音乐家/nnt, 的/ude
+社员 /nn 1	 其他/rzv, 社员/nnt, 七嘴八舌/
+法官 /nn 1	  [无论/c, 法官/nnt, 做出/v,
+上将 /nn 1	 d, 走/v, 上将/nnt, 近/a, 
+家庭主妇 /nn 1	 , 属于/v, 家庭主妇/nnd, 。/w],
+成员 /nn 1	 的/ude1, 成员/nnt, ，/w],
+业务员 /nn 1	 的/ude1, 业务员/nnt, ，/w],
+侦探 /nn 1	 , [干/v, 侦探/nnd, 的/ude
+工作人员 /nn 1	 的/ude1, 工作人员/nnt, 却/d, 
+牙医 /nn 1	 一阵子/mq, 牙医/nnd, 。/w],

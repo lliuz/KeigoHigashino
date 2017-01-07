@@ -1,0 +1,63 @@
+教官 /nn 38	 , 可是/c, 教官/nnt, 严令禁止/
+学生 /nn 16	 , 个/q, 大学生/nnt, 吧/y, 
+职员 /nn 15	 的/ude1, 职员/nnt, ，/w],
+医生 /nn 13	  ”/w], [医生/nnt, 和/cc,
+课长 /nn 11	  了/ule, 课长/nnt, 、/w, 
+助手 /nn 10	 的/ude1, 助手/nnt, 。/w],
+老师 /nn 10	  那个/rz, 老师/nnt, ”/w],
+成员 /nn 9	 m, 名/q, 成员/nnt, ，/w],
+主任 /nn 7	 , [“/w, 主任/nnt, 叫/vi,
+研究员 /nn 7	 , 主/ag, 研究员/nnt, 的/ude
+负责人 /nn 7	 , 人事/n, 负责人/nnt, 有/vyo
+门卫 /nn 6	 的/ude1, 门卫/nnt, 还/d, 
+店员 /nn 6	 d, 向/p, 店员/nnt, 询问/v,
+主持人 /nn 6	  。/w], [主持人/nnt, 开始/v,
+警察 /nn 5	 , 通知/n, 警察/nnt, 呢/y, 
+研究生 /nn 5	  。/w], [研究生/nnt, 在读/b,
+服务生 /nn 5	 的/ude1, 服务生/nnd, 又/d, 
+董事长 /nn 5	  去一趟/v, 董事长/nnt, 那边/rz
+护士 /nn 5	 的/ude1, 护士/nnt, 。/w],
+司机 /nn 5	 w, 对/p, 司机/nnt, 说道/v,
+研究者 /nn 4	 的/ude1, 研究者/nnt, 而言/ul
+代表 /nn 3	 , 沉默/a, 代表/nnt, 着/uzh
+部长 /nn 3	 t, 、/w, 部长/nnt, 这样/rz
+审查员 /nn 3	 的/ude1, 审查员/nnt, 纷纷/d,
+硕士 /nn 3	  修完/nz, 硕士/nnt, 课程/n,
+高中生 /nn 2	  [说是/v, 高中生/nnd, 也/d, 
+专家 /nn 2	 典音乐/nz, 专家/nnt, 。/w],
+技术员 /nn 2	 的/ude1, 技术员/nnt, 。/w],
+制作者 /nn 2	 d, 随/p, 制作者/nnd, 的/ude
+服务员 /nn 2	 r, 跟/p, 服务员/nnt, 打了个/n
+技术人员 /nn 2	 , 主要/b, 技术人员/nnt, 一次性/d
+医师 /nn 1	 脑外科/nt, 医师/nnt, ，/w],
+生产商 /nn 1	  计算机/n, 生产商/nnd, 。/w],
+博士 /nn 1	  汤川/nr, 博士/nnt, ，/w],
+主角 /nn 1	 , 因为/c, 主角/nnt, 不在/v,
+评审员 /nn 1	 v, 让/v, 评审员/nnt, 都/d, 
+艺术家 /nn 1	  那些/rz, 艺术家/nnt, 回头/vi
+漫画家 /nn 1	 , 或者/c, 漫画家/nnt, ，/w],
+科长 /nn 1	 的/ude1, 科长/nnt, 问/v, 
+配音演员 /nn 1	 n, 像/v, 配音演员/nnt, 一样/uy
+播音员 /nn 1	 [凝视着/n, 播音员/nnt, 那副/nr
+国际象棋 /nn 1	 g, 下/f, 国际象棋/nnd, 是/vsh
+经营者 /nn 1	 , 父亲/n, 经营者/nnt, 一家/n,
+导师 /nn 1	  直接/ad, 导师/nnt, 。/w],
+钢琴家 /nn 1	 , 如同/v, 钢琴家/nnt, 一般/ad
+董事 /nn 1	 的/ude1, 董事/nnt, ，/w],
+班主任 /nn 1	  。/w], [班主任/nnt, 知道/v,
+小说家 /nn 1	 的/ude1, 小说家/nnd, 或者/c,
+网球选手 /nn 1	 , 软式/n, 网球选手/nnd, 呢/y, 
+候选人 /nn 1	 , 替补/v, 候选人/nnt, 了/ule
+助理 /nn 1	 的/ude1, 助理/nnt, ，/w],
+操纵者 /nn 1	 的/ude1, 操纵者/nnd, 已经/d,
+大学生 /nn 1	 i, 个/q, 大学生/nnt, 吧/y, 
+硕士生 /nn 1	 , 或者/c, 硕士生/nnt, 里面/f,
+主席 /nn 1	  发表会/n, 主席/nnt, 请/v, 
+小学生 /nn 1	 c, 个/q, 小学生/nnd, ，/w],
+店主 /nn 1	  自行车/n, 店主/nnd, 说/v, 
+接线员 /nn 1	 , 转给/v, 接线员/nnd, 吧/y, 
+放映员 /nn 1	  ”/w], [放映员/nnt, 多管闲事/
+运动员 /nn 1	 , 背着/v, 运动员/nnt, 用/p, 
+职工 /nn 1	 n, 部/q, 职工/nnt, 竟然/d,
+厂长 /nn 1	 的/ude1, 厂长/nnt, ，/w],
+牙医 /nn 1	 d, 像/v, 牙医/nnd, 诊所/ni

@@ -1,0 +1,72 @@
+东京 /ns 32	 q, 由/p, 东京/nsf, 开往/vf
+札幌 /ns 22	 z, 在/p, 札幌/ns, 的/ude1
+长野 /ns 15	 b, 回/v, 长野/ns, 的/ude1
+日本 /ns 13	 f, （/w, 日本/ns, 的/ude1
+中尾 /ns 12	 的/ude1, 中尾/ns, 选/v, 夫
+汉堡 /ns 8	 , 还有/v, 汉堡/nsf, 和/cc,
+札幌市 /ns 6	 , 去/vf, 札幌市/ns, 出差/vi,
+街道 /ns 6	 的/ude1, 街道/ns, 集会/vn,
+北海道 /ns 5	 y, 从/p, 北海道/nsf, 带/v, 
+志贺 /ns 4	  开往/vf, 志贺/ns, 高原/n, 
+美都 /ns 4	 , 奈/vg, 美都/ns, 不会/v, 
+夏天 /ns 3	 n, 在/p, 夏天/ns, 可要/c, 
+上香 /ns 3	  平介/nr, 上香/ns, 了/ule,
+吉祥寺 /ns 3	 , 来到/v, 吉祥寺/ns, 。/w], 
+大阪 /ns 3	 t, 在/p, 大阪/nsf, 那个/rz
+上都 /ns 3	 , 阻/vg, 上都/ns, 是/vshi
+婆罗门 /ns 3	  一个/mq, 婆罗门/ns, 少年/n, 
+长野县 /ns 3	  ，/w], [长野县/ns, 警方/n, 
+北星 /ns 3	 , [“/w, 北星/ns, 工大/j, 
+天都 /ns 3	 f, 一/m, 天都/ns, 不会/v, 
+第三中学 /ns 2	 的/ude1, 第三中学/ns, 来说/uls
+上半区 /ns 2	 , 获得/v, 上半区/ns, 的/ude1
+临别时 /ns 2	  。/w], [临别时/ns, ，/w], 
+加斯 /ns 2	 , 名叫/v, 加斯/ns, 比尔/nrf
+中平 /ns 2	 , 语气/n, 中平/ns, 介/vg, 
+下半区 /ns 2	 , ——/w, 下半区/ns, 的/ude1
+伊利诺州 /ns 2	 是/vshi, 伊利诺州/ns, 的/ude1
+前门 /ns 2	  了/ule, 前门/ns, 。/w], 
+法国 /ns 2	  ，/w], [法国/nsf, 料理/v,
+中国 /ns 2	  相当于/v, 中国/ns, 的/ude1
+百慕大 /ns 1	 w, “/w, 百慕大/nsf, 三角/n,
+江东 /ns 1	 , 位于/v, 江东/ns, 区/n, 。
+江东区 /ns 1	 v, 在/p, 江东区/ns, 吗/y, ？
+富冈 /ns 1	  了/ule, 富冈/ns, 八幡/nz,
+几米远 /ns 1	 , 篝火/n, 几米远/ns, 的/ude1
+美国 /ns 1	  ，/w], [美国/nsf, 伊利诺州/
+阿拉伯 /ns 1	 w, 像/v, 阿拉伯/nsf, 国王/nn
+横滨 /ns 1	 ……/w], [横滨/ns, 的/ude1
+西方 /ns 1	 , 望着/v, 西方/ns, 的/ude1
+中藏 /ns 1	 泰迪熊/nz, 中藏/ns, 着/uzhe
+排门 /ns 1	 u, 一/m, 排门/ns, 的/ude1
+三明 /ns 1	 着/uzhe, 三明/ns, 冶/vg, 
+上站 /ns 1	 , 椅子/n, 上站/ns, 起身/vi,
+以色列 /ns 1	 , 古代/t, 以色列/nsf, ，/w],
+连平 /ns 1	 [摄像机/n, 连平/ns, 介/vg, 
+中庭 /ns 1	  那个/rz, 中庭/ns, 和/cc, 
+下都 /ns 1	  荧光灯/n, 下都/ns, 有些/rz,
+里加 /ns 1	 , 茶杯/n, 里加/ns, 了/ule,
+青年站 /ns 1	 的/ude1, 青年站/ns, 在/p, 那
+北海 /ns 1	 过/uguo, 北海/ns, 道/qv, 
+乐都 /ns 1	 , 俱/dg, 乐都/ns, 没有/v, 
+太黑 /ns 1	 , 周围/f, 太黑/ns, ，/w], 
+天庭 /ns 1	 /ulian, 天庭/ns, 都/d, 晒
+关西 /ns 1	  了/ule, 关西/ns, 地痞/n, 
+地球 /ns 1	  。/w], [地球/ns, 好像/v, 
+仓山 /ns 1	 i, 大/a, 仓山/ns, ，/w], 
+天回 /ns 1	 v, 几/d, 天回/ns, 来得/vi,
+七桥 /ns 1	 , 叫/vi, 七桥/ns, 。/w], 
+中央区 /ns 1	 札幌市/ns, 中央区/ns, ——/w, 
+之遥 /ns 1	 m, 米/q, 之遥/ns, 的/ude1
+北极 /ns 1	 , 不是/c, 北极/ns, 呢/y, 。
+上车时 /ns 1	 , [刚/d, 上车时/ns, 还/d, 在
+九州 /ns 1	  。/w], [九州/ns, 地区/n, 
+上冲 /ns 1	 , 血气/n, 上冲/ns, 。/w], 
+中都 /ns 1	 , 照片/n, 中都/ns, 摆出/vf,
+小田 /ns 1	 v, 到/v, 小田/ns, 急/v, 百
+猫又 /ns 1	  那只/nr, 猫又/ns, 回到/v, 
+三鹰 /ns 1	 q, 离/v, 三鹰/ns, 火车站/n,
+关东 /ns 1	  ，/w], [关东/ns, 运输/vn,
+千叶县 /ns 1	  了/ule, 千叶县/ns, 。/w], 
+于都 /ns 1	 p, 至/p, 于都/ns, 把/pba,
+不存在 /ns 1	 , 已经/d, 不存在/ns, 了/ule,

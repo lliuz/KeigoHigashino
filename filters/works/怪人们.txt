@@ -1,0 +1,78 @@
+刑警 /nn 53	 的/ude1, 刑警/nnt, 们/k, 
+课长 /nn 32	 /ulian, 课长/nnt, 、/w, 
+警察 /nn 22	 w, “/w, 警察/nnt, ，/w],
+警官 /nn 20	 m, 位/q, 警官/nnt, 一/m, 
+学生 /nn 13	 r, 在/p, 学生/nnt, 时代/n,
+司机 /nn 12	 n, 给/p, 司机/nnt, 看/v, 
+班长 /nn 11	 的/ude1, 班长/nnt, 也/d, 
+作家 /nn 9	 , [在/p, 作家/nnt, 宫泽贤/n
+老板 /nn 9	 , 中年/n, 老板/nnt, 听/v, 
+管理员 /nn 8	 , 灯塔/n, 管理员/nnt, 姓/v, 
+裁判 /nn 8	  ，/w], [裁判/nnt, 却/d, 
+生产商 /nn 7	 焊接机/nz, 生产商/nnd, ，/w],
+股长 /nn 6	 , [”/w, 股长/nnt, 问道/vi
+医生 /nn 5	  。/w], [医生/nnt, 嘱咐/v,
+推销员 /nn 5	  [装成/v, 推销员/nnt, 敲开/nz
+棒球 /nn 5	 , [打/v, 棒球/nnd, 还/d, 
+工作人员 /nn 5	 的/ude1, 工作人员/nnt, ，/w],
+职员 /nn 5	 , 普通/a, 职员/nnt, 吗/y, 
+演员 /nn 5	  ，/w], [演员/nnt, 也/d, 
+门卫 /nn 4	 z, 老/a, 门卫/nnt, 的/ude
+工程师 /nn 4	 m, 名/q, 工程师/nnt, 。/w],
+侦探 /nn 4	 , 著名/a, 侦探/nnd, 天下一/n
+职工 /nn 4	 d, 名/q, 职工/nnt, 齐刷刷/z
+服务员 /nn 4	 的/ude1, 服务员/nnt, 似乎/d,
+老板娘 /nn 3	 , [问/v, 老板娘/nnd, 为何/ry
+主角 /nn 3	 /ude1, 男主角/nnt, 。/w],
+店员 /nn 3	 n, 当/p, 店员/nnt, ，/w],
+忍者 /nn 3	 , 出售/v, 忍者/nnd, 形状/n,
+大学生 /nn 3	 c, 女/b, 大学生/nnt, 结识/v,
+社长 /nn 3	 r, 给/p, 社长/nnt, 家/q, 
+球员 /nn 3	 , 年轻/a, 球员/nnt, 眉眼/n,
+律师 /nn 2	 m, 名/q, 律师/nnt, ，/w],
+送货员 /nn 2	  ，/w], [送货员/nnt, 两手空空/
+文人 /nn 2	  ，/w], [文人/nnd, 剧/n, 
+指导员 /nn 2	  跑垒/nz, 指导员/nnt, 则/d, 
+女招待 /nn 2	 的/ude1, 女招待/nnd, 家里/s,
+警员 /nn 2	 的/ude1, 警员/nnt, 正在/d,
+秘书 /nn 2	 搞不清楚/l, 秘书/nnt, 格蕾丝/n
+队员 /nn 2	  大多数/m, 队员/nnt, 好像/v,
+武士 /nn 2	 , 下级/n, 武士/nnt, 出身/v,
+邮递员 /nn 2	 的/ude1, 邮递员/nnt, 终于/d,
+小贩 /nn 2	 的/ude1, 小贩/nnd, ，/w],
+技术人员 /nn 2	 , 普通/a, 技术人员/nnt, 来/vf,
+厨师 /nn 1	 的/ude1, 厨师/nnt, 就/d, 
+保镖 /nn 1	 是/vshi, 保镖/nnt, ？/w],
+商人 /nn 1	  中国/ns, 商人/nnt, 的/ude
+评论家 /nn 1	 , 文艺/n, 评论家/nnt, ）/w],
+财主 /nn 1	 i, 大/a, 财主/nnd, 。/w],
+公司员工 /nn 1	 , 可是/c, 公司员工/nnd, 在/p, 
+作者 /nn 1	 びと/w], [作者/nnt, :/w],
+教师 /nn 1	 f, 由/p, 教师/nnt, 转行/v,
+负责人 /nn 1	 1, 女/b, 负责人/nnt, 已经/d,
+公主 /nn 1	 r, 在/p, 公主/nnd, 大道/ns
+播音员 /nn 1	  [新闻/n, 播音员/nnt, 继续/v,
+雇员 /nn 1	 , 普通/a, 雇员/nnt, 。/w],
+助手 /nn 1	 是/vshi, 助手/nnt, 或/c, 
+导师 /nn 1	 的/ude1, 导师/nnt, 。/w],
+男主角 /nn 1	 的/ude1, 男主角/nnt, 。/w],
+证人 /nn 1	 , 目击/v, 证人/nnt, 都/d, 
+导游 /nn 1	 的/ude1, 导游/nnt, 书/n, 
+女星 /nn 1	 的/ude1, 女星/nnd, 麦克雷恩/
+管理者 /nn 1	 的/ude1, 管理者/nnt, ，/w],
+投手 /nn 1	  ，/w], [投手/nnt, 忽然/d,
+开发商 /nn 1	  房地产/n, 开发商/nnd, ，/w],
+承包商 /nn 1	 的/ude1, 承包商/nnt, 而已/y,
+经理 /nn 1	 是/vshi, 经理/nnt, 才/d, 
+理事长 /nn 1	 协会/nis, 理事长/nnt, 北方/s,
+银行家 /nn 1	 , 旧时/t, 银行家/nnt, 的/ude
+制片人 /nn 1	 的/ude1, 制片人/nnt, 井泽元/n
+专家 /nn 1	  [根据/p, 专家/nnt, 意见/n,
+社员 /nn 1	 , 前辈/n, 社员/nnt, 与/cc,
+销售员 /nn 1	 t, 啊/y, 销售员/nnt, 什么/ry
+译者 /nn 1	 /nrj], [译者/nnt, :/w],
+成员 /nn 1	 m, 名/q, 成员/nnt, ，/w],
+运动员 /nn 1	 n, 像/v, 运动员/nnt, 一样/uy
+教练 /nn 1	  。/w], [教练/nnt, 的/ude
+店长 /nn 1	 e, 跟/p, 店长/nnt, 沾亲带故/
+家庭主妇 /nn 1	 的/ude1, 家庭主妇/nnd, 。/w],

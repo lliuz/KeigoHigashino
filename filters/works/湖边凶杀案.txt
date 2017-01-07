@@ -1,0 +1,29 @@
+老师 /nn 96	 a, 见/v, 老师/nnt, 排/v, 
+职员 /nn 17	 的/ude1, 职员/nnt, 或是/c,
+作家 /nn 5	  当过/p, 剧作家/nnd, 呢/y, 
+警察 /nn 5	 , 通知/n, 警察/nnt, 了/ule
+服务生 /nn 3	 , 像是/v, 服务生/nnd, 一样/uy
+作者 /nn 3	 v, 跟/p, 作者/nnt, 不同/a,
+侦探 /nn 3	 w, 名/q, 侦探/nnd, 的/ude
+医生 /nn 2	 l, 当/p, 医生/nnt, 的/ude
+小说家 /nn 2	 f, 当/p, 小说家/nnd, 了/ule
+代表 /nn 2	 , 并不/d, 代表/nnt, 人生/n,
+官员 /nn 2	 的/ude1, 官员/nnt, ，/w],
+成员 /nn 2	 的/ude1, 成员/nnt, 几乎/d,
+家庭教师 /nn 2	  比方说/l, 家庭教师/nnt, 啦/y, 
+艺术总监 /nn 2	 是/vshi, 艺术总监/nnt, ？/w],
+说客 /nn 1	 , 跟着/v, 说客/nnd, 套话/n,
+棒球 /nn 1	 n, 、/w, 棒球/nnd, 的/ude
+艺术家 /nn 1	 是/vshi, 艺术家/nnt, ，/w],
+魔术师 /nn 1	 , [当/p, 魔术师/nnt, 将/d, 
+顾问 /nn 1	  管理/vn, 顾问/nnt, 。/w],
+模特儿 /nn 1	 , 塑料/n, 模特儿/nnt, 一样/uy
+管理人 /nn 1	 , 没有/v, 管理人/nnt, ，/w],
+杀手 /nn 1	 a, 下/f, 杀手/nnd, ”/w, 
+警卫 /nn 1	 n, 当/p, 警卫/nnt, 吗/y, 
+法官 /nn 1	  [或许/d, 法官/nnt, 还/d, 
+刑警 /nn 1	 是/vshi, 刑警/nnt, 也/d, 
+负责人 /nn 1	  [包含/v, 负责人/nnt, 一共/d,
+主播 /nn 1	 , 电视/n, 主播/nnt, 一样/uy
+剧作家 /nn 1	 , 当过/p, 剧作家/nnd, 呢/y, 
+校长 /nn 1	 是/vshi, 校长/nnt, 的/ude

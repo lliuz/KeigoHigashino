@@ -1,0 +1,13 @@
+侦探 /nn 58	 是/vshi, 侦探/nnd, 俱乐部/n
+刑警 /nn 25	 的/ude1, 刑警/nnt, 们/k, 
+警官 /nn 15	  [小村/n, 警官/nnt, 突然/ad
+部长 /nn 9	 , [“/w, 部长/nnt, ，/w],
+服务员 /nn 8	  [前台/n, 服务员/nnt, 笠井隆夫/
+助手 /nn 5	 的/ude1, 助手/nnt, 。/w],
+罪犯 /nn 5	 w, “/w, 罪犯/nnd, 是/vsh
+警察 /nn 5	  。/w], [警察/nnt, 先生/n,
+会员 /nn 4	 , 受理/v, 会员/nnt, 的/ude
+店长 /nn 4	  。/w], [店长/nnt, 是/vsh
+警员 /nn 4	  高个子/n, 警员/nnt, ，/w],
+经理 /nn 2	 旅馆/nis, 经理/nnt, 久保/v,
+职员 /nn 1	 , 年轻/a, 职员/nnt, 接待/v,

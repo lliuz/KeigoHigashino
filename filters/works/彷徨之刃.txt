@@ -1,0 +1,56 @@
+警察 /nn 214	 , 知道/v, 警察/nnt, 会/v, 
+刑警 /nn 124	 , 坐上/v, 刑警/nnt, 驾驶/v,
+律师 /nn 27	 r, 请/v, 律师/nnt, 。/w],
+警官 /nn 24	 的/ude1, 警官/nnt, 。/w],
+组长 /nn 20	 , [“/w, 组长/nnt, 难道/d,
+总编 /nn 15	 的/ude1, 总编/nnt, 。/w],
+副驾驶 /nn 14	  [坐在/v, 副驾驶/nnt, 座/q, 
+记者 /nn 13	  ？/w], [记者/nnt, 问/v, 
+主持人 /nn 11	 , [男/b, 主持人/nnt, 面色/n,
+主播 /nn 9	 , [男/b, 主播/nnt, 说道/v,
+代表 /nn 8	 v, 就/d, 代表/nnt, 凶手/n,
+店员 /nn 8	  ，/w], [店员/nnt, 应该/v,
+警员 /nn 8	 的/ude1, 警员/nnt, 赶紧/d,
+老板 /nn 7	  那个/rz, 老板/nnt, 打来/v,
+司机 /nn 7	 d, 看/v, 司机/nnt, ，/w],
+导播 /nn 5	 [那个/rz, 导播/nnt, 也/d, 
+工作人员 /nn 4	 被/pbei, 工作人员/nnt, 看到/v,
+高中生 /nn 4	 , 像是/v, 高中生/nnd, 或/c, 
+专家 /nn 4	 有/vyou, 专家/nnt, ，/w],
+检察官 /nn 4	 v, 看/v, 检察官/nnt, 怎么/ry
+学生 /nn 3	 , 和/cc, 学生/nnt, 们/k, 
+证人 /nn 3	 的/ude1, 证人/nnt, 。/w],
+成员 /nn 2	 的/ude1, 成员/nnt, 就/d, 
+评论家 /nn 2	 , 几位/n, 评论家/nnt, 的/ude
+义工 /nn 2	 的/ude1, 义工/nnt, 。/w],
+销售员 /nn 2	  那个/rz, 销售员/nnt, 。/w],
+服务生 /nn 2	 , [女/b, 服务生/nnd, 如果/c,
+太常 /nn 2	 v, 不/d, 太常/nnt, 吧/y, 
+课长 /nn 2	 是/vshi, 课长/nnt, 。/w],
+法官 /nn 2	  ，/w], [法官/nnt, 就/d, 
+教练 /nn 2	  [所以/c, 教练/nnt, 会/v, 
+厨师 /nn 1	 t, 兼/v, 厨师/nnt, 的/ude
+公务员 /nn 1	 , 或是/c, 公务员/nnt, 是/vsh
+道长 /nn 1	 , 不知/v, 道长/nnt, 峰/ng,
+摄影师 /nn 1	 的/ude1, 摄影师/nnt, 将/d, 
+奴隶 /nn 1	 d, 像/v, 奴隶/nnd, 一样/uy
+医护人员 /nn 1	 , 不是/c, 医护人员/nnt, 所为/c,
+负责人 /nn 1	 , 周刊/n, 负责人/nnt, 进行/vn
+编辑 /nn 1	 , 负责/v, 编辑/nnt, 的/ude
+播音员 /nn 1	  ，/w], [播音员/nnt, 的/ude
+导师 /nn 1	 , 道德/n, 导师/nnt, ，/w],
+推销员 /nn 1	 , 报纸/n, 推销员/nnt, 。/w],
+牧师 /nn 1	 , 不是/c, 牧师/nnt, ，/w],
+搞笑艺人 /nn 1	 有/vyou, 搞笑艺人/nnd, 出现/v,
+艺人 /nn 1	 , 某位/r, 艺人/nnt, 。/w],
+助理 /nn 1	 v, 女/b, 助理/nnt, 的/ude
+木工 /nn 1	 , 贩卖/v, 木工/nnt, 工具/n,
+经济学者 /nn 1	 , ——/w, 经济学者/nnd, 使用/v,
+干部 /nn 1	  [身为/v, 干部/nnt, 的/ude
+侦探 /nn 1	 是/vshi, 侦探/nnd, 啰/n, 
+冠军 /nn 1	 , 不到/v, 冠军/nnt, 的/ude
+球员 /nn 1	 m, 名/q, 球员/nnt, 的/ude
+解说员 /nn 1	  [目前/t, 解说员/nnt, 正在/d,
+女警 /nn 1	 的/ude1, 女警/nnt, 身穿/v,
+导演 /nn 1	  [但是/c, 导演/nnt, 解释/v,
+摄影记者 /nn 1	 , 还有/v, 摄影记者/nnt, 们/k, 

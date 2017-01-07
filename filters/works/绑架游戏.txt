@@ -1,0 +1,63 @@
+副社长 /nn 30	 , 就任/v, 副社长/nnt, ，/w],
+司机 /nn 27	  计程车/n, 司机/nnt, 问/v, 
+警察 /nn 22	 v, 个/q, 警察/nnt, 在/p, 
+服务生 /nn 11	 的/ude1, 服务生/nnd, 和/cc,
+刑警 /nn 9	 v, 让/v, 刑警/nnt, 们/k, 
+经理 /nn 9	 z, 部/q, 经理/nnt, 说明了/v
+社长 /nn 9	 , 见到/v, 社长/nnt, 的/ude
+店员 /nn 8	 , 和/cc, 店员/nnt, 聊天/vi
+主角 /nn 7	 , 电玩/n, 主角/nnt, 的/ude
+组员 /nn 5	 , 团队/n, 组员/nnt, 全部/m,
+学生 /nn 5	 …/w], [大学生/nnt, ？/w],
+管理员 /nn 4	 有/vyou, 管理员/nnt, 。/w],
+厂商 /nn 4	 z, 表/n, 厂商/nnd, 出口/vn
+明星 /nn 4	 , 偶像/n, 明星/nnd, 的/ude
+店长 /nn 4	  [像是/v, 店长/nnt, 的/ude
+记者 /nn 4	 w, “/w, 记者/nnt, 俱乐部/n
+会长 /nn 4	 是/vshi, 会长/nnt, 的/ude
+老师 /nn 4	  [不过/c, 老师/nnt, 大概/d,
+模特儿 /nn 4	 的/ude1, 模特儿/nnt, 的/ude
+代表 /nn 3	 n, 就/d, 代表/nnt, 了/ule
+广告人 /nn 3	 的/ude1, 广告人/nnd, 罢了/y,
+校名 /nn 2	  把/pba, 校名/nnt, 说/v, 
+议员 /nn 2	 , 认识/v, 议员/nnt, 的/ude
+顾问 /nn 2	 , 战略/n, 顾问/nnt, 。/w],
+负责人 /nn 2	 , [“/w, 负责人/nnt, 也/d, 
+侦查员 /nn 2	 d, 个/q, 侦查员/nnt, 已经/d,
+经销商 /nn 2	 , 汽车/n, 经销商/nnd, 向岛/nr
+艺人 /nn 2	 z, 要/v, 艺人/nnt, 也/d, 
+组长 /nn 2	  把/pba, 组长/nnt, 佐/vg,
+高中生 /nn 2	 是/vshi, 高中生/nnd, 吧/y, 
+服务员 /nn 2	 饭店/nis, 服务员/nnt, 接/v, 
+营业员 /nn 1	 的/ude1, 营业员/nnt, 还/d, 
+女演员 /nn 1	 v, 个/q, 女演员/nnd, 就/d, 
+爵士 /nn 1	 , [“/w, 爵士/nnt, 钢琴/n,
+歌手 /nn 1	 , 少女/n, 歌手/nnt, 主演/v,
+摄影师 /nn 1	 的/ude1, 摄影师/nnt, 师/ng,
+主持人 /nn 1	 , 会议/n, 主持人/nnt, 说/v, 
+佣人 /nn 1	 是/vshi, 佣人/nnd, ，/w],
+经营者 /nn 1	 c, 个/q, 经营者/nnt, 。/w],
+编曲 /nn 1	 n, 手/n, 编曲/nnt, 演奏/v,
+导师 /nn 1	 1, 班/n, 导师/nnt, 差不多/a
+警员 /nn 1	 的/ude1, 警员/nnt, 盯上/v,
+创意人 /nn 1	 c, 个/q, 创意人/nnd, 而是/c,
+证人 /nn 1	 , 称为/v, 证人/nnt, 的/ude
+美发师 /nn 1	 , 拜托/v, 美发师/nnd, 朋友/n,
+代理商 /nn 1	 , 广告/n, 代理商/nnd, 跳出/v,
+制作人 /nn 1	 的/ude1, 制作人/nnt, 啊/y, 
+大学生 /nn 1	 ……/w], [大学生/nnt, ？/w],
+设计师 /nn 1	  那个/rz, 设计师/nnt, 了/ule
+文书 /nn 1	 n, 上/f, 文书/nnt, 的/ude
+小学生 /nn 1	 d, 跟/p, 小学生/nnd, 没/d, 
+男演员 /nn 1	  ，/w], [男演员/nnd, 好像/v,
+干部 /nn 1	 , 重要/a, 干部/nnt, 会议/n,
+政治家 /nn 1	  。/w], [政治家/nnt, 的/ude
+导演 /nn 1	  那个/rz, 导演/nnt, ，/w],
+中小学生 /nn 1	 的/ude1, 中小学生/nnd, 恶作剧/n
+成员 /nn 1	  其它/rz, 成员/nnt, 吧/y, 
+教练 /nn 1	  健身房/n, 教练/nnt, 的/ude
+解说员 /nn 1	 , 技术/n, 解说员/nnt, 说明/v,
+连长 /nn 1	  。/w], [连长/nnt, 什么样/r
+演员 /nn 1	 的/ude1, 演员/nnt, 似的/u,
+作家 /nn 1	 的/ude1, 作家/nnt, 吧/y, 
+副总 /nn 1	 树理一/nr, 副总/nnt, 算了/v,

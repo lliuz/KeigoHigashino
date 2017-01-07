@@ -1,0 +1,31 @@
+侦探 /nn 158	 , 就是/v, 侦探/nnd, 了/ule
+刑警 /nn 49	 m, 位/q, 刑警/nnt, ，/w],
+警察 /nn 48	 , 现在/t, 警察/nnt, 来/vf,
+警官 /nn 24	 的/ude1, 警官/nnt, 。/w],
+罪犯 /nn 18	 , 没有/v, 罪犯/nnd, 的/ude
+助手 /nn 13	 是/vshi, 助手/nnt, 的/ude
+服务员 /nn 11	 的/ude1, 服务员/nnt, 要/v, 
+医生 /nn 9	  ，/w], [医生/nnt, 。/w],
+部长 /nn 9	 , [“/w, 部长/nnt, ，/w],
+老师 /nn 8	 , 油画/n, 老师/nnt, 是/vsh
+佣人 /nn 6	  以及/cc, 佣人/nnd, 玉枝/nr
+会员 /nn 5	 , 受理/v, 会员/nnt, 的/ude
+店长 /nn 4	  。/w], [店长/nnt, 是/vsh
+警员 /nn 4	  高个子/n, 警员/nnt, ，/w],
+证人 /nn 4	 的/ude1, 证人/nnt, ，/w],
+学员 /nn 3	 的/ude1, 学员/nnt, 名单/n,
+主角 /nn 2	 d, 说/v, 主角/nnt, 怎么/ry
+经理 /nn 2	 旅馆/nis, 经理/nnt, 久保/v,
+大学生 /nn 2	 是/vshi, 大学生/nnt, 。/w],
+店员 /nn 2	 的/ude1, 店员/nnt, 还/d, 
+学生 /nn 2	 /vshi, 大学生/nnt, 。/w],
+播音员 /nn 2	 , 像是/v, 播音员/nnt, 一样/uy
+职员 /nn 1	 , 年轻/a, 职员/nnt, 接待/v,
+教师 /nn 1	 , 油画/n, 教师/nnt], [中野/
+代表 /nn 1	  [亭子/n, 代表/nnt, 妹妹/n,
+运动员 /nn 1	 , 属于/v, 运动员/nnt, 类型/n,
+作者 /nn 1	 n, 》/w, 作者/nnt, ：/w, 
+研究生 /nn 1	 v, 读/v, 研究生/nnt, 。/w],
+队员 /nn 1	 其他/rzv, 队员/nnt, 都/d, 
+副驾驶 /nn 1	 , 坐在/v, 副驾驶/nnt, 席/qt,
+推销员 /nn 1	 是/vshi, 推销员/nnt, 或者/c,

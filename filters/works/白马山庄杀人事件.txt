@@ -1,0 +1,38 @@
+经理 /nn 148	  ，/w], [经理/nnt, 。/w],
+大夫 /nn 115	 i, 位/q, 大夫/nnt, 吧/y, 
+刑警 /nn 62	 [那些/rz, 刑警/nnt, 们/k, 
+警察 /nn 20	 v, 找/v, 警察/nnt, 鸣冤/v,
+将军 /nn 9	 主教/nnt, 将军/nnt, 的/ude
+学生 /nn 7	 的/ude1, 学生/nnt, 们/k, 
+医生 /nn 6	 u, 位/q, 医生/nnt, ，/w],
+侦探 /nn 6	 , 场/qv, 侦探/nnd, 游戏/n,
+国际象棋 /nn 6	 n, 下/f, 国际象棋/nnd, 了/ule
+老板 /nn 4	 的/ude1, 老板/nnt, ，/w],
+主教 /nn 3	 v, 用/p, 主教/nnt, 将军/nn
+专家 /nn 3	 , 成为/v, 专家/nnt, 们/k, 
+大学生 /nn 3	 是/vshi, 大学生/nnt, 吧/y, 
+厨师 /nn 2	  一个/mq, 厨师/nnt, 。/w],
+工作人员 /nn 2	 , 和/cc, 工作人员/nnt, 。/w],
+国王 /nn 2	 , 聚集/v, 国王/nnt, 所有/b,
+社长 /nn 2	  这/rzv, 社长/nnt, 根本/a,
+运动员 /nn 2	 v, 个/q, 运动员/nnt, 似的/u,
+经营者 /nn 2	 的/ude1, 经营者/nnt, 是/vsh
+老师 /nn 2	 , 禽兽/n, 老师/nnt, 后来/t,
+证人 /nn 1	 , 只是/d, 证人/nnt, 罢了/y,
+棒球 /nn 1	 , 职业/n, 棒球/nnd, 的/ude
+博士 /nn 1	 , 鸟类/n, 博士/nnt, 的/ude
+模特 /nn 1	 v, 个/q, 模特/nnt, 之类/rz
+职员 /nn 1	 s, 小/a, 职员/nnt, 。/w],
+店员 /nn 1	 有/vyou, 店员/nnt, 盯着/v,
+女演员 /nn 1	 n, 上/f, 女演员/nnd, 的/ude
+杀手 /nn 1	 a, 下/f, 杀手/nnd, 的/ude
+司机 /nn 1	  ，/w], [司机/nnt, 是不是/v
+译者 /nn 1	  ，/w], [译者/nnt, 谷川俊太郎
+零售商 /nn 1	 , 发到/v, 零售商/nnd, 手里/s,
+教练 /nn 1	 , 当下/d, 教练/nnt, 。/w],
+学者 /nn 1	 [有的/rz, 学者/nnt, 甚至/d,
+关长 /nn 1	 有/vyou, 关长/nnt, 角/q, 
+英文翻译 /nn 1	 的/ude1, 英文翻译/nnt, 过来/vf
+猎人 /nn 1	 a, 狯/g, 猎人/nnd, 。/w],
+服务生 /nn 1	 的/ude1, 服务生/nnd, 一样/uy
+导演 /nn 1	 黑泽明/nr, 导演/nnt, 的/ude

@@ -1,0 +1,40 @@
+社长 /nn 195	  山森/nr, 社长/nnt, 见面/vi
+刑警 /nn 55	 [1/m], [刑警/nnt, 来/vf,
+警察 /nn 24	 l, 跟/p, 警察/nnt, 讨论/v,
+作家 /nn 22	 , 自由/a, 作家/nnt, 川津雅之/
+司机 /nn 18	 , 告诉/v, 司机/nnt, 。/w],
+会员 /nn 14	 , 加入/v, 会员/nnt, 的/ude
+老师 /nn 13	 uzhe, 舞蹈老师/nnd, 的/ude
+秘书 /nn 11	 是/vshi, 秘书/nnt, 吧/y, 
+成员 /nn 9	 的/ude1, 成员/nnt, 都/d, 
+工作人员 /nn 8	 e, “/w, 工作人员/nnt, ”/w, 
+代表 /nn 7	 v, 就/d, 代表/nnt, 了/ule
+演员 /nn 6	 e, “/w, 演员/nnt, ”/w, 
+摄影师 /nn 6	 是/vshi, 摄影师/nnt, 新里美由纪
+责任编辑 /nn 5	 的/ude1, 责任编辑/nnt, ，/w],
+学生 /nn 5	 n, 在/p, 学生/nnt, 时代/n,
+业务员 /nn 5	 , 年轻/a, 业务员/nnt, 一/m, 
+健身教练 /nn 4	 的/ude1, 健身教练/nnd, 被/pbe
+编辑 /nn 4	 ude1, 责任编辑/nnt, ，/w],
+教练 /nn 4	 , 主要/b, 教练/nnt, 石仓/nr
+事务员 /nn 3	 z, 女/b, 事务员/nnt, ，/w],
+董事长 /nn 3	  兴产/nz, 董事长/nnt, 的/ude
+小说家 /nn 2	  推理/vn, 小说家/nnd, ，/w],
+主角 /nn 2	 的/ude1, 主角/nnt, ，/w],
+评论家 /nn 2	  运动/vn, 评论家/nnt, 、/w, 
+巡警 /nn 2	 的/ude1, 巡警/nnd, 回来/v,
+警官 /nn 2	 , 制服/n, 警官/nnt, 马上/d,
+画家 /nn 1	 1, 胖/a, 画家/nnt, 一起/s,
+管理员 /nn 1	 n, 到/v, 管理员/nnt, 那里/rz
+总编辑 /nn 1	 版社/nis, 总编辑/nnt, 寄来/vf
+主力 /nn 1	 的/ude1, 主力/nnt, 企业/n,
+副社长 /nn 1	 , 孝/ng, 副社长/nnt, 的/ude
+舞蹈老师 /nn 1	 着/uzhe, 舞蹈老师/nnd, 的/ude
+主任 /nn 1	 教练/nnd, 主任/nnt, 石仓/nr
+作者 /nn 1	 n, 归/v, 作者/nnt, 所/usu
+企业家 /nn 1	  一个/mq, 企业家/nnt, 来说/ul
+忍者 /nn 1	 , 像是/v, 忍者/nnd, 一样/uy
+老板 /nn 1	 的/ude1, 老板/nnt, 哦/e, 
+管理人 /nn 1	 的/ude1, 管理人/nnt, 。/w],
+新闻记者 /nn 1	 是/vshi, 新闻记者/nnt, ，/w],
+证人 /nn 1	 的/ude1, 证人/nnt, 这/rzv

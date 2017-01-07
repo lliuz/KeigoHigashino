@@ -1,0 +1,82 @@
+老师 /nn 138	 1, 男/b, 老师/nnt, ，/w],
+教授 /nn 82	 , 令尊/n, 教授/nnt, 哪一方面/
+助理 /nn 62	 的/ude1, 助理/nnt, 导播/nn
+刑警 /nn 60	  [这位/r, 刑警/nnt, 有着/v,
+学生 /nn 42	 一个/mq, 小学生/nnd, 独自/d,
+社员 /nn 21	 n, 社/n, 社员/nnt, 。/w],
+医生 /nn 18	  了/ule, 医生/nnt, 吧/y, 
+警察 /nn 17	 的/ude1, 警察/nnt, 把/pba
+修女 /nn 17	  ，/w], [修女/nnd, ，/w],
+护士 /nn 16	  ，/w], [护士/nnt, 搞不好/v
+成员 /nn 15	 其他/rzv, 成员/nnt, 不/d, 
+社长 /nn 12	 , 只有/c, 社长/nnt, 及/cc,
+服务生 /nn 10	  [此时/r, 服务生/nnd, 送/v, 
+代表 /nn 6	 c, 不/d, 代表/nnt, 我/rr,
+主唱 /nn 6	 乐团/nis, 主唱/nnt, 的/ude
+女佣 /nn 5	 , 黑人/n, 女佣/nnd, 。/w],
+导播 /nn 5	 , [“/w, 导播/nnt, 是/vsh
+记者 /nn 5	 , 杂志/n, 记者/nnt, ？/w],
+政治家 /nn 5	 d, 像/v, 政治家/nnt, 私下/d,
+副社长 /nn 4	 , 及/cc, 副社长/nnt, ，/w],
+作者 /nn 4	 身/vi], [作者/nnt, ：/w],
+杀手 /nn 4	  摆出/vf, 杀手/nnd, 13/m,
+学者 /nn 4	 v, 像/v, 学者/nnt, ，/w],
+科学家 /nn 3	 , 身为/v, 科学家/nnt, ，/w],
+教师 /nn 3	 的/ude1, 教师/nnt, 啰/n, 
+主角 /nn 3	  。/w], [主角/nnt, 安妮·雪莉
+推销员 /nn 3	  一个/mq, 推销员/nnt, ，/w],
+制造商 /nn 3	 , 零食/n, 制造商/nnd, 。/w],
+研究者 /nn 3	 , 所有/b, 研究者/nnt, 都/d, 
+大学生 /nn 3	 是/vshi, 大学生/nnt, 了/ule
+模特儿 /nn 3	 的/ude1, 模特儿/nnt, 人偶/n,
+消防队员 /nn 3	  。/w], [消防队员/nnd, 迅速/ad
+司机 /nn 3	 的/ude1, 司机/nnt, 是/vsh
+团员 /nn 3	 [于是/cc, 团员/nnt, 们/k, 
+博士 /nn 2	 斯勒/nrf, 博士/nnt, （/w, 
+和尚 /nn 2	 着/uzhe, 和尚/nnt, 诵经声/n
+住持 /nn 2	 的/ude1, 住持/nnt, 却/d, 
+诗人 /nn 2	  [据说/v, 诗人/nnt, 雪莱/nr
+警卫 /nn 2	 , 和/cc, 警卫/nnt, 说/v, 
+作家 /nn 2	 探小说/nz, 作家/nnt, 阿嘉莎/n
+领袖 /nn 2	 , 登上/v, 领袖/nnt, 位置/n,
+副驾驶 /nn 2	 , [”/w, 副驾驶/nnt, 座/q, 
+证人 /nn 2	 的/ude1, 证人/nnt, 对/p, 
+校长 /nn 2	  ，/w], [校长/nnt, 把/pba
+秘书 /nn 2	 , 首席/n, 秘书/nnt, 什么/ry
+总管 /nn 2	 , 像是/v, 总管/nnt, ，/w],
+相扑 /nn 2	 [日本/ns, 相扑/nnd, 界/n, 
+工作人员 /nn 2	 , 知道/v, 工作人员/nnt, 一定会/n
+副教授 /nn 1	 的/ude1, 副教授/nnt, ，/w],
+发行人 /nn 1	 e, “/w, 发行人/nnt, //w, 
+决策者 /nn 1	 , 关键/n, 决策者/nnd, ，/w],
+义工 /nn 1	  一个/mq, 义工/nnt, 社团/n,
+发明者 /nn 1	 的/ude1, 发明者/nnd, 穿梭/vi
+吉他手 /nn 1	  ，/w], [吉他手/nnt, 阿丰/nr
+公司员工 /nn 1	 , 我/rr, 公司员工/nnd, 看见/v,
+负责人 /nn 1	 的/ude1, 负责人/nnt, ？/w],
+编辑 /nn 1	 是/vshi, 编辑/nnt, ，/w],
+歌舞伎 /nn 1	  新宿/nz, 歌舞伎/nnd, 町/n, 
+向导 /nn 1	 v, 当/p, 向导/nnt, 哟/e, 
+首相 /nn 1	 , 当过/p, 首相/nnt, ，/w],
+老板 /nn 1	 铁工厂/nz, 老板/nnt, ，/w],
+导师 /nn 1	 的/ude1, 导师/nnt, 是/vsh
+理事长 /nn 1	 协会/nis, 理事长/nnt, 。/w],
+明星 /nn 1	 , 偶像/n, 明星/nnd, 之类/rz
+鼓手 /nn 1	  ；/w], [鼓手/nnt, 宽/a, 
+小说家 /nn 1	 [英国/ns, 小说家/nnd, 玛丽·雪莱
+制作人 /nn 1	 , 和/cc, 制作人/nnt, 应该/v,
+歌手 /nn 1	 , 外国/n, 歌手/nnt, 的/ude
+主治医生 /nn 1	 的/ude1, 主治医生/nnt, 并不/d,
+男主角 /nn 1	 , 中的/v, 男主角/nnt, 。/w],
+辅导员 /nn 1	 学校/nis, 辅导员/nnt, 之后/f,
+高中生 /nn 1	  [如果/c, 高中生/nnd, 随便/ad
+太常 /nn 1	 是/vshi, 太常/nnt, 听到/v,
+小学生 /nn 1	  一个/mq, 小学生/nnd, 独自/d,
+贝斯手 /nn 1	  ；/w], [贝斯手/nnt, 友广则/n
+中学生 /nn 1	 , 还是/c, 中学生/nnd, 呢/y, 
+译者 /nn 1	 /nrj], [译者/nnt, ：/w],
+主持人 /nn 1	 , 和/cc, 主持人/nnt, 事先/d,
+台商 /nn 1	 , 电视/n, 台商/nnd, 借了/p,
+牙医 /nn 1	 的/ude1, 牙医/nnd, ，/w],
+演员 /nn 1	 的/ude1, 演员/nnt, ，/w],
+医学研究 /nn 1	 是/vshi, 医学研究/nnd, 者/k, 

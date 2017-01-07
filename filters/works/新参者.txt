@@ -1,0 +1,59 @@
+刑警 /nn 176	 的/ude1, 刑警/nnt, 开始/v,
+警察 /nn 70	 的/ude1, 警察/nnt, 。/w],
+店员 /nn 30	 w, 让/v, 店员/nnt, 包装/n,
+律师 /nn 28	 的/ude1, 律师/nnt, 。/w],
+老板 /nn 27	 的/ude1, 老板/nnt, 泰治/nr
+社长 /nn 17	 的/ude1, 社长/nnt], [1/m
+老板娘 /nn 15	 , 亭/ng, 老板娘/nnd, 赖子/n,
+组长 /nn 12	 n, 奉/v, 组长/nnt, 之/uzh
+店主 /nn 8	 是/vshi, 店主/nnd, 的/ude
+师傅 /nn 8	  剃头/vn, 师傅/nnt, 也/d, 
+医生 /nn 7	  [后来/t, 医生/nnt, 告诉/v,
+服务生 /nn 7	  。/w], [服务生/nnd, 走到/vf
+秘书 /nn 7	 社长/nnt, 秘书/nnt, 未免太/n
+演员 /nn 7	  ，/w], [演员/nnt, 们/k, 
+服务员 /nn 6	 , 招呼/v, 服务员/nnt, ，/w],
+导演 /nn 6	 是/vshi, 导演/nnt, 筱/ng,
+女招待 /nn 5	 的/ude1, 女招待/nnd, ？/w],
+警官 /nn 5	 的/ude1, 警官/nnt, 上来/vf
+局长 /nn 5	 , [请/v, 局长/nnt, 去/vf,
+美容师 /nn 4	 p, 上/f, 美容师/nnt, 吗/y, 
+推销员 /nn 4	 , 保险/n, 推销员/nnt, 田/n, 
+翻译家 /nn 4	 n, 当/p, 翻译家/nnd, ，/w],
+工作人员 /nn 3	 的/ude1, 工作人员/nnt, 说道/v,
+职员 /nn 3	 的/ude1, 职员/nnt, 到/v, 
+厨师 /nn 2	 v, 做/v, 厨师/nnt, 。/w],
+侦探 /nn 2	 r, 雇/v, 侦探/nnd, 调查/vn
+主角 /nn 2	 的/ude1, 主角/nnt, 是/vsh
+临时工 /nn 2	 , 和/cc, 临时工/nnd, 一共/d,
+会计师 /nn 2	  注册/vn, 会计师/nnt, ，/w],
+侦查员 /nn 2	 其他/rzv, 侦查员/nnt, 也/d, 
+主治医生 /nn 2	  了/ule, 主治医生/nnt, ，/w],
+司机 /nn 2	 s, 让/v, 司机/nnt, 停下/v,
+成员 /nn 2	 的/ude1, 成员/nnt, 们/k, 
+生产商 /nn 1	 , 是从/v, 生产商/nnd, 那里/rz
+代表 /nn 1	 有/vyou, 代表/nnt, 属相/n,
+工匠 /nn 1	 , 专业/n, 工匠/nnd, 手工制造/
+高僧 /nn 1	 , 初期/f, 高僧/nnd, ，/w],
+中学生 /nn 1	 , 和/cc, 中学生/nnd, 想要/v,
+理事 /nn 1	 , 和/cc, 理事/nnt, 官/n, 
+学生 /nn 1	 。/w], [小学生/nnd, 和/cc,
+科长 /nn 1	  [位列/v, 科长/nnt, 和/cc,
+杀手 /nn 1	 的/ude1, 杀手/nnd, ……/w]
+编导 /nn 1	 , 影像/n, 编导/nnt, 。/w],
+编辑 /nn 1	 [一个/mq, 编辑/nnt, 带上/v,
+向导 /nn 1	 是/vshi, 向导/nnt, ，/w],
+经营者 /nn 1	  一个/mq, 经营者/nnt, ，/w],
+助手 /nn 1	 的/ude1, 助手/nnt, 辞/v, 
+证人 /nn 1	 , 辩方/n, 证人/nnt, 出庭/vi
+家庭主妇 /nn 1	 , 和/cc, 家庭主妇/nnd, 时/qt,
+批发商 /nn 1	 , 去找/v, 批发商/nnd, 了/ule
+设计师 /nn 1	 v, 当/p, 设计师/nnt, 的/ude
+小学生 /nn 1	  。/w], [小学生/nnd, 和/cc,
+团长 /nn 1	 的/ude1, 团长/nnt, 筱/ng,
+译者 /nn 1	 , 成为/v, 译者/nnt, ，/w],
+艺术家 /nn 1	  [作为/p, 艺术家/nnt, ，/w],
+冠军 /nn 1	 着/uzhe, 冠军/nnt, 的/ude
+会计 /nn 1	 的/ude1, 会计/nnt, 事务/n,
+美食家 /nn 1	 , 自称/v, 美食家/nnd, 的/ude
+大学生 /nn 1	 i, 个/q, 大学生/nnt, ，/w],

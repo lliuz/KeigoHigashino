@@ -1,0 +1,81 @@
+警察 /nn 83	 的/ude1, 警察/nnt, 。/w],
+刑警 /nn 57	 , 平头/b, 刑警/nnt, 去/vf,
+博士 /nn 35	 z, 个/q, 博士/nnt, ，/w],
+老师 /nn 30	 的/ude1, 老师/nnt, 插嘴/v,
+护士 /nn 29	 c, 听/v, 护士/nnt, 说/v, 
+老板 /nn 25	 q, 任/v, 老板/nnt, ，/w],
+课长 /nn 17	  技术课/n, 课长/nnt, 先为/d,
+股长 /nn 16	  。/w], [股长/nnt, 元山/ns
+副驾驶 /nn 15	  了/ule, 副驾驶/nnt, 席/qt,
+店员 /nn 13	  了/ule, 店员/nnt, ，/w],
+罪犯 /nn 13	 的/ude1, 罪犯/nnd, 时/qt,
+院长 /nn 13	 , 见到/v, 院长/nnt, 和/cc,
+学者 /nn 11	 , 海洋/n, 学者/nnt, 和/cc,
+署长 /nn 11	 g, 给/p, 署长/nnt, 打/v, 
+医生 /nn 10	 的/ude1, 医生/nnt, 的/ude
+教师 /nn 10	 v, 名/q, 教师/nnt, 笑了笑/l
+科学家 /nn 9	 , 不是/c, 科学家/nnt, 吗/y, 
+志愿者 /nn 9	 的/ude1, 志愿者/nnt, 团体/n,
+主持人 /nn 8	 是/vshi, 主持人/nnt, 的/ude
+负责人 /nn 7	 的/ude1, 负责人/nnt, 了/ule
+服务生 /nn 7	 [”/w], [服务生/nnd, 端/v, 
+职员 /nn 7	 a, 男/b, 职员/nnt, 。/w],
+老板娘 /nn 6	 的/ude1, 老板娘/nnd, 去/vf,
+司机 /nn 6	  那个/rz, 司机/nnt, 。/w],
+警员 /nn 5	 p, 前/f, 警员/nnt, 妻子/n,
+工作人员 /nn 4	 的/ude1, 工作人员/nnt, 说话/vi
+助手 /nn 4	 的/ude1, 助手/nnt, 吗/y, 
+部长 /nn 4	  巡查/vn, 部长/nnt, 。/w],
+专家 /nn 4	 的/ude1, 专家/nnt, ，/w],
+医师 /nn 3	 ude1, 主治医师/nnt, ，/w],
+经营者 /nn 3	 的/ude1, 经营者/nnt, ，/w],
+店主 /nn 3	  。/w], [店主/nnd, ”/w, 
+店长 /nn 3	 , [但/c, 店长/nnt, 却/d, 
+渔民 /nn 3	 的/ude1, 渔民/nnd, 问问/v,
+律师 /nn 2	 [有关/vn, 律师/nnt, 的/ude
+组员 /nn 2	 的/ude1, 组员/nnt, 证/n, 
+厨师 /nn 2	 m, 名/q, 厨师/nnt, ，/w],
+数学家 /nn 2	 有/vyou, 数学家/nnt, 们/k, 
+学生 /nn 2	 平/nrj, 小学生/nnd, 的/ude
+厂商 /nn 2	 , 引擎/n, 厂商/nnd, “/w, 
+女招待 /nn 2	 的/ude1, 女招待/nnd, 。/w],
+活动家 /nn 2	 的/ude1, 活动家/nnd, 啊/y, 
+诺贝尔奖 /nn 2	  了/ule, 诺贝尔奖/nnd, ，/w],
+技术人员 /nn 2	 的/ude1, 技术人员/nnt, 依旧/z,
+说客 /nn 1	  ，/w], [说客/nnd, 人/n, 
+主治医师 /nn 1	 的/ude1, 主治医师/nnt, ，/w],
+初中生 /nn 1	 d, 个/q, 初中生/nnd, 。/w],
+副教授 /nn 1	 物理系/nt, 副教授/nnt, 汤川/nr
+部员 /nn 1	 q, 女/b, 部员/nnt, 。/w],
+义工 /nn 1	 , 属于/v, 义工/nnt, 。/w],
+代表 /nn 1	 的/ude1, 代表/nnt, 例/n, 
+艄公 /nn 1	 v, ‘/w, 艄公/nnd, 多/a, 
+食客 /nn 1	 , 不是/c, 食客/nnd, 。/w],
+裁缝 /nn 1	 , 日式/n, 裁缝/nnt, ，/w],
+撰稿人 /nn 1	 , 自由/a, 撰稿人/nnt, 。/w],
+村长 /nn 1	  [泽/ag, 村长/nnt, 舒/ag,
+教授 /nn 1	 理系/nt, 副教授/nnt, 汤川/nr
+官员 /nn 1	 是/vshi, 官员/nnt, 或者/c,
+帮工 /nn 1	 d, 雇/v, 帮工/nnd, 的/ude
+组长 /nn 1	 的/ude1, 组长/nnt, 搭话/vi
+制造商 /nn 1	 , 引擎/n, 制造商/nnd, 手下/s,
+使者 /nn 1	 的/ude1, 使者/nnt, 。/w],
+知县 /nn 1	 , 报告/n, 知县/nnt, 警/ng,
+政客 /nn 1	 , 或者/c, 政客/nnd, 的/ude
+教练员 /nn 1	 的/ude1, 教练员/nnt, 吧/y, 
+研究者 /nn 1	 的/ude1, 研究者/nnt, 们/k, 
+搞笑艺人 /nn 1	  ，/w], [搞笑艺人/nnd, 正在/d,
+艺人 /nn 1	 着/uzhe, 艺人/nnt, 们/k, 
+会长 /nn 1	 v, 不/d, 会长/nnt, 胖/a, 
+大学生 /nn 1	 r, 女/b, 大学生/nnt, 在/p, 
+总统 /nn 1	 美国/nsf, 总统/nnt, ，/w],
+厨子 /nn 1	 v, 个/q, 厨子/nnd, 过来/vf
+小学生 /nn 1	 恭平/nrj, 小学生/nnd, 的/ude
+自由职业者 /nn 1	  [身为/v, 自由职业者/nnd, 的/ude
+技术员 /nn 1	  。/w], [技术员/nnt, 准备/v,
+法医 /nn 1	 , [“/w, 法医/nnt, 研究室/n
+干部 /nn 1	 的/ude1, 干部/nnt, 们/k, 
+天子 /nn 1	  真命/nz, 天子/nnd, ，/w],
+女警 /nn 1	 , 年轻/a, 女警/nnt, 出面/vi
+市长 /nn 1	 , 看到/v, 市长/nnt, 和/cc,
+教练 /nn 1	 的/ude1, 教练/nnt, ，/w],

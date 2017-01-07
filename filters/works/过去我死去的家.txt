@@ -1,0 +1,45 @@
+老师 /nn 19	 阴天/n], [老师/nnt, 今天/t,
+警察 /nn 9	 是/vshi, 警察/nnt, 啊/y, 
+法官 /nn 9	 是/vshi, 法官/nnt, 吗/y, 
+学生 /nn 8	  我/rr, 小学生/nnd, 的/ude
+医生 /nn 7	 , 和/cc, 医生/nnt, 好像/v,
+编辑 /nn 6	 /ude1, 总编辑/nnt, 本来/d,
+司机 /nn 6	  出租车/n, 司机/nnt, 呢/y, 
+保姆 /nn 5	 的/ude1, 保姆/nnt, ，/w],
+教师 /nn 4	 m, 名/q, 教师/nnt, 之后/f,
+刑警 /nn 4	  这个/rz, 刑警/nnt, 的/ude
+小学生 /nn 4	 , 我/rr, 小学生/nnd, 的/ude
+学者 /nn 3	  ？/w], [学者/nnt, 还/d, 
+服务生 /nn 3	 r, 在/p, 服务生/nnd, 的/ude
+厨师 /nn 2	 是/vshi, 厨师/nnt, 。/w],
+科学家 /nn 2	 w, 从/p, 科学家/nnt, 的/ude
+副教授 /nn 2	 的/ude1, 副教授/nnt, 很熟/a,
+代表 /nn 2	 , 分/qt, 代表/nnt, 着/uzh
+作者 /nn 2	  这个/rz, 作者/nnt, 都/d, 
+基督徒 /nn 2	 是/vshi, 基督徒/nnd, ，/w],
+棒球 /nn 2	 , 职业/n, 棒球/nnd, 的/ude
+大学生 /nn 2	 z, 女/b, 大学生/nnt, 沙也加/n
+接线员 /nn 2	 , [听/v, 接线员/nnd, 说/v, 
+班长 /nn 1	  [对于/p, 班长/nnt, 的/ude
+监护人 /nn 1	 , 和/cc, 监护人/nnt, 虐待/vn
+顾问 /nn 1	  咨询/vn, 顾问/nnt, ，/w],
+总编辑 /nn 1	 的/ude1, 总编辑/nnt, 本来/d,
+歌手 /nn 1	 的/ude1, 歌手/nnt, 名字/n,
+佣人 /nn 1	 , 起/vf, 佣人/nnd, 的/ude
+国王 /nn 1	 , 像是/v, 国王/nnt, 曾经/d,
+教授 /nn 1	 /ude1, 副教授/nnt, 很熟/a,
+乞丐 /nn 1	 i, “/w, 乞丐/nnd, 王子/ns
+文学家 /nn 1	  ，/w], [文学家/nnd, ……/w]
+班主任 /nn 1	 , [由/p, 班主任/nnt, 亲手/d,
+考古学者 /nn 1	 的/ude1, 考古学者/nnd, 一样/uy
+研究者 /nn 1	 , 科学/n, 研究者/nnt, 的/ude
+护士 /nn 1	 m, 个/q, 护士/nnt, ，/w],
+部长 /nn 1	 的/ude1, 部长/nnt, ，/w],
+助理 /nn 1	  研究/vn, 助理/nnt, ，/w],
+职员 /nn 1	 公司/nis, 职员/nnt, 的/ude
+太子 /nn 1	 圣德/nrf, 太子/nnd, 的/ude
+考古学家 /nn 1	 q, 让/v, 考古学家/nnd, 万分/d,
+企业家 /nn 1	 的/ude1, 企业家/nnt, ，/w],
+零工 /nn 1	 是/vshi, 零工/nnd, ，/w],
+组织者 /nn 1	 的/ude1, 组织者/nnt, ，/w],
+工作人员 /nn 1	 的/ude1, 工作人员/nnt, 带着/vn

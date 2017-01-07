@@ -1,0 +1,60 @@
+警察 /nn 28	 , 交通/n, 警察/nnt, ”/w, 
+司机 /nn 24	  出租车/n, 司机/nnt, 说/v, 
+刑警 /nn 22	 [一个/mq, 刑警/nnt, 的/ude
+医生 /nn 20	 i, 跟/p, 医生/nnt, 拿/v, 
+警官 /nn 20	  世良/nz, 警官/nnt, 努力/ad
+店员 /nn 19	 的/ude1, 店员/nnt, 说/v, 
+主任 /nn 12	 [”/w], [主任/nnt, 金泽/ns
+证人 /nn 12	 v, 名/q, 证人/nnt, 却是/d,
+外勤 /nn 12	  。/w], [外勤/nnd, 的/ude
+学生 /nn 11	 , 女/b, 大学生/nnt, ，/w],
+教练 /nn 10	 动员/nnt, 教练/nnt, ，/w],
+作者 /nn 9	 n, 》/w, 作者/nnt, ：/w, 
+负责人 /nn 9	 的/ude1, 负责人/nnt, 派/v, 
+副驾驶 /nn 8	 , 坐在/v, 副驾驶/nnt, 座/q, 
+巡警 /nn 7	  ，/w], [巡警/nnd, 先生/n,
+部长 /nn 7	  巡查/vn, 部长/nnt, 一边/d,
+教授 /nn 6	 , 和/cc, 教授/nnt, 的/ude
+护士 /nn 6	  。/w], [护士/nnt, 陪/v, 
+老师 /nn 6	 d, 让/v, 老师/nnt, 头痛/a,
+领队 /nn 6	 n, 部/q, 领队/nnt, ”/w, 
+医护人员 /nn 5	  [所以/c, 医护人员/nnt, 打算/v,
+助理 /nn 5	 , 那位/r, 助理/nnt, 教授/nn
+主角 /nn 4	  那名/nr, 主角/nnt, 太/d, 
+科长 /nn 4	 , 交通/n, 科长/nnt, 那张/nr
+导游 /nn 4	 的/ude1, 导游/nnt, 手册/n,
+作家 /nn 3	  推理/vn, 作家/nnt, 。/w],
+社长 /nn 3	  前村/ns, 社长/nnt, 的/ude
+侦探 /nn 3	 w, 《/w, 侦探/nnd, 俱乐部/n
+撰稿人 /nn 3	 , 自由/a, 撰稿人/nnt, ”/w, 
+制造商 /nn 2	 , 化学/n, 制造商/nnd, 田径队/n
+工程师 /nn 2	 , 担任/v, 工程师/nnt, ，/w],
+主治医生 /nn 2	  了/ule, 主治医生/nnt, 。/w],
+职员 /nn 2	 公司/nis, 职员/nnt, ，/w],
+交警 /nn 2	 有/vyou, 交警/nnd, 出面/vi
+队员 /nn 2	 的/ude1, 队员/nnt, 经常/d,
+交通警察 /nn 2	 1, 《/w, 交通警察/nnd, 之/uzh
+检察官 /nn 2	 , 送到/v, 检察官/nnt, 那里/rz
+厂商 /nn 1	 , 某/rz, 厂商/nnd, 才/d, 
+摄影记者 /nn 1	 是/vshi, 摄影记者/nnt, ，/w],
+罪犯 /nn 1	 , 不到/v, 罪犯/nnd, 啊/y, 
+供应商 /nn 1	 车零件/nz, 供应商/nnt, 担任/v,
+主持人 /nn 1	 s, 、/w, 主持人/nnt, 商议/v,
+指导员 /nn 1	 的/ude1, 指导员/nnt, 。/w],
+向导 /nn 1	  那本/nr, 向导/nnt, 手册/n,
+播音员 /nn 1	 , 新闻/n, 播音员/nnt, 的/ude
+工头 /nn 1	 的/ude1, 工头/nnd, 一样/uy
+打工妹 /nn 1	 , 自由/a, 打工妹/nnd, 吧/y, 
+记者 /nn 1	 vshi, 摄影记者/nnt, ，/w],
+代表 /nn 1	  [并不/d, 代表/nnt, 没有人/n
+大学生 /nn 1	 1, 女/b, 大学生/nnt, ，/w],
+木工 /nn 1	 i, 个/q, 木工/nnt, ，/w],
+高中生 /nn 1	 , 貌似/v, 高中生/nnd, 的/ude
+设计师 /nn 1	 , 发型/n, 设计师/nnt, ，/w],
+小学生 /nn 1	 , 人家/n, 小学生/nnd, 都/d, 
+科员 /nn 1	 , 交通/n, 科员/nnt, 便/d, 
+译者 /nn 1	 /nrj], [译者/nnt, ：/w, 
+辩护律师 /nn 1	 , 和/cc, 辩护律师/nnt, 来/vf,
+成员 /nn 1	 的/ude1, 成员/nnt, 们/k, 
+运动员 /nn 1	 是/vshi, 运动员/nnt, 教练/nn
+要员 /nn 1	 公司/nis, 要员/nnt, 的/ude

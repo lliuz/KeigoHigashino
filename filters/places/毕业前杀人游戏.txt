@@ -1,0 +1,35 @@
+加贺 /ns 662	 , [”/w, 加贺/ns, 注视/v, 
+华江 /ns 148	  伊泽/nr, 华江/ns, ，/w], 
+不晓得 /ns 14	  [实在/d, 不晓得/ns, 祥子/nz,
+东京 /ns 11	 s, 在/p, 东京/nsf, ，/w],
+清水 /ns 8	 的/ude1, 清水/ns, 在/p, 准
+日本 /ns 7	 , 走进/v, 日本/ns, 武道馆/nr
+将门 /ns 7	 d, 要/v, 将门/ns, 打开/v, 
+夏天 /ns 6	 , 今年/t, 夏天/ns, ，/w], 
+香都 /ns 5	 c, 波/n, 香都/ns, 念/v, 文
+上完 /ns 4	  [她/rr, 上完/ns, 第二/mq,
+新进 /ns 3	 , 及/cc, 新进/ns, 社员/nnt
+松原 /ns 3	 是/vshi, 松原/ns, 教授/nnt
+上香 /ns 2	 , 等待/v, 上香/ns, 。/w], 
+九州 /ns 2	 是/vshi, 九州/ns, 的/ude1
+面旗子 /ns 2	 v, 三/m, 面旗子/ns, 。/w], 
+蓝山 /ns 2	 , 杯/ng, 蓝山/ns, 。/w], 
+北京 /ns 2	 i, “/w, 北京/ns, 屋/n, ”
+天都 /ns 2	 v, 几/d, 天都/ns, 好累/v, 
+法国 /ns 2	 , [由/p, 法国/nsf, 人/n, 
+东北 /ns 2	 , 去/vf, 东北/ns, 地方/n, 
+日和 /ns 1	 t, 三/m, 日和/ns, 四/m, 日
+北海 /ns 1	 , 去/vf, 北海/ns, 道/qv, 
+关西 /ns 1	 , 带有/v, 关西/ns, 腔调/n, 
+大山 /ns 1	  [A/nx, 大山/ns, 内/f, 的
+美国 /ns 1	  带我去/n, 美国/nsf, 参加/v,
+大理 /ns 1	  [T/nx, 大理/ns, 工学院/ni
+远超过 /ns 1	  [或许/d, 远超过/ns, 自己/rr,
+大阪 /ns 1	 /ulian, 大阪/nsf, 的/ude
+大前 /ns 1	 , T/nx, 大前/ns, ”/w, ，
+中三 /ns 1	  个人赛/n, 中三/ns, 岛/n, 亮
+米店 /ns 1	 的/ude1, 米店/ns, 借来/v, 
+街道 /ns 1	 的/ude1, 街道/ns, 上/f, 。
+北海道 /ns 1	 是/vshi, 北海道/nsf, 呢/y, 
+太高兴 /ns 1	 n, 不/d, 太高兴/ns, 。/w], 
+下都 /ns 1	  连坐/nz, 下都/ns, 忘了/v, 

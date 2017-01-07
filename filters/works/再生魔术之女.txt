@@ -1,0 +1,9 @@
+董事长 /nn 3	 的/ude1, 董事长/nnt, 千金/n,
+作家 /nn 2	  推理/vn, 作家/nnt, 协会/ni
+司机 /nn 2	 , 私家/b, 司机/nnt, 驾驶/v,
+医师 /nn 1	  各种/rz, 医师/nnt, 诊断/vn
+代表 /nn 1	 , 亲事/n, 代表/nnt, 他/rr,
+小说家 /nn 1	  推理/vn, 小说家/nnd, 。/w],
+演奏家 /nn 1	  爵士乐/n, 演奏家/nnt, ，/w],
+义工 /nn 1	 , 这种/r, 义工/nnt, 性质/n,
+专家 /nn 1	 是/vshi, 专家/nnt, 之言/r,

@@ -1,0 +1,74 @@
+警察 /nn 52	  [与/cc, 警察/nnt, 的/ude
+学生 /nn 39	 , 和/cc, 学生/nnt, 名字/n,
+刑警 /nn 30	 是/vshi, 刑警/nnt, ，/w],
+教授 /nn 29	 [当了/p, 副教授/nnt, ，/w],
+老师 /nn 24	 着/uzhe, 老师/nnt, 和/cc,
+罪犯 /nn 14	  ，/w], [罪犯/nnd, 为了/p,
+科长 /nn 14	 的/ude1, 科长/nnt, 一样/uy
+警官 /nn 12	 z, 大/a, 警官/nnt, ，/w],
+医生 /nn 11	 z, 将/d, 医生/nnt, 的话/ud
+科学家 /nn 10	  了/ule, 科学家/nnt, 的/ude
+副教授 /nn 10	  [当了/p, 副教授/nnt, ，/w],
+厂长 /nn 8	  [因为/c, 厂长/nnt, 要/v, 
+专家 /nn 8	 , [“/w, 专家/nnt, 的/ude
+部长 /nn 6	 被/pbei, 部长/nnt, 叫/vi,
+工人 /nn 6	 的/ude1, 工人/nnt, 。/w],
+中学生 /nn 6	 , 不是/c, 中学生/nnd, 的/ude
+职员 /nn 6	 公司/nis, 职员/nnt, 也/d, 
+学者 /nn 6	 的/ude1, 学者/nnt, 的/ude
+负责人 /nn 5	 的/ude1, 负责人/nnt, 马上又/n
+副驾驶 /nn 5	 , 坐在/v, 副驾驶/nnt, 位置/n,
+老板娘 /nn 5	  。/w], [老板娘/nnd, 还/d, 
+店主 /nn 5	 的/ude1, 店主/nnd, 。/w],
+班长 /nn 4	 , [趁/p, 班长/nnt, 不/d, 
+证人 /nn 4	 是/vshi, 证人/nnt, 的/ude
+女招待 /nn 4	 w, 做/v, 女招待/nnd, 也/d, 
+作者 /nn 4	 f, 》/w, 作者/nnt, ：/w, 
+撰稿人 /nn 3	 , 自由/a, 撰稿人/nnt, ，/w],
+编辑 /nn 3	  一个/mq, 编辑/nnt, 看/v, 
+管理员 /nn 2	  。/w], [管理员/nnt, 并不/d,
+技工 /nn 2	 m, 名/q, 技工/nnt, 才/d, 
+门卫 /nn 2	 的/ude1, 门卫/nnt, ，/w],
+领袖 /nn 2	 的/ude1, 领袖/nnt, 人物/n,
+助手 /nn 2	 的/ude1, 助手/nnt, 应该/v,
+推销员 /nn 2	 公司/nis, 推销员/nnt, 。/w],
+候选人 /nn 2	 的/ude1, 候选人/nnt, 。/w],
+志愿者 /nn 2	  了/ule, 志愿者/nnt, 活动/vn
+诺贝尔奖 /nn 2	 是/vshi, 诺贝尔奖/nnd, 的/ude
+主持人 /nn 2	  。/w], [主持人/nnt, 介绍/v,
+职工 /nn 1	 , [男/b, 职工/nnt, 可以/v,
+物理学家 /nn 1	 , 面向/v, 物理学家/nnt, 的/ude
+修理工 /nn 1	 , 电器/n, 修理工/nnd, 把/pba
+巫师 /nn 1	 , 不是/c, 巫师/nnd, ！/w],
+代表 /nn 1	 , 并不/d, 代表/nnt, 他/rr,
+消防员 /nn 1	 , 觉得/v, 消防员/nnd, 所说/c,
+歌手 /nn 1	 /ude1, 女歌手/nnd, 的/ude
+教练 /nn 1	 的/ude1, 教练/nnt, 有/vyo
+猎户 /nn 1	 有没有/nz, 猎户/nnd, 拿着/vf
+研究生 /nn 1	 , 或者/c, 研究生/nnt, 那里/rz
+主力 /nn 1	 , 王牌/n, 主力/nnt, ，/w],
+神仙 /nn 1	 , 不是/c, 神仙/nnd, 。/w],
+经纪人 /nn 1	 的/ude1, 经纪人/nnt, 说/v, 
+老板 /nn 1	 超市/nis, 老板/nnt, 有/vyo
+事务员 /nn 1	 是/vshi, 事务员/nnt, 吗/y, 
+裁判 /nn 1	  。/w], [裁判/nnt, 宣布/v,
+棒球 /nn 1	 高中/nis, 棒球/nnd, 联赛/n,
+师傅 /nn 1	  [蜡像/n, 师傅/nnt, 该/rz,
+管理者 /nn 1	 的/ude1, 管理者/nnt, ？/w],
+女歌手 /nn 1	 的/ude1, 女歌手/nnd, 的/ude
+艺人 /nn 1	 的/ude1, 艺人/nnt, 们/k, 
+所长 /nn 1	 o, ’/w, 所长/nnt, 的/ude
+模特 /nn 1	  了/ule, 模特/nnt, 脸部/n,
+高中生 /nn 1	 1, 女/b, 高中生/nnd, ，/w],
+教师 /nn 1	  指导/vn, 教师/nnt, 林田/nr
+队员 /nn 1	 的/ude1, 队员/nnt, 。/w],
+小学生 /nn 1	 /ulian, 小学生/nnd, 也/d, 
+合伙人 /nn 1	 , 召集/v, 合伙人/nnt, 期/qv,
+侦探 /nn 1	 
+球员 /nn 1	 m, 队/n, 球员/nnt, 微/ag,
+工作人员 /nn 1	 , 前台/n, 工作人员/nnt, ，/w],
+会计 /nn 1	 i, 做/v, 会计/nnt, 的/ude
+牙医 /nn 1	 , 还是/c, 牙医/nnd, 有钱/a,
+新闻记者 /nn 1	  ？/w], [新闻记者/nnt, 也/d, 
+业务员 /nn 1	 的/ude1, 业务员/nnt, 。/w],
+要职 /nn 1	 , 担任/v, 要职/nnt, 。/w],

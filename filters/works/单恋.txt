@@ -1,0 +1,84 @@
+橄榄球 /nn 57	  美式/nz, 橄榄球/nnd, 王牌/n,
+刑警 /nn 55	 , 拿给/v, 刑警/nnt, 看/v, 
+记者 /nn 20	  [体育/n, 记者/nnt, 这么/rz
+警察 /nn 19	 , [“/w, 警察/nnt, ？/w],
+服务生 /nn 16	  ，/w], [服务生/nnd, 送来/v,
+摄影师 /nn 14	  ，/w], [摄影师/nnt, 这种/r,
+医生 /nn 13	 的/ude1, 医生/nnt, 。/w],
+代表 /nn 12	  ，/w], [代表/nnt, 你/rr,
+教练 /nn 12	 , 和/cc, 教练/nnt, 辩论/vn
+学生 /nn 11	 r, 从/p, 学生/nnt, 时代/n,
+管理员 /nn 9	 , 没有/v, 管理员/nnt, 。/w],
+经理 /nn 9	 球队/nis, 经理/nnt, 美/b, 
+工作人员 /nn 9	 , 和/cc, 工作人员/nnt, 。/w],
+主角 /nn 8	 , 片/q, 女主角/nnt, ，/w],
+司机 /nn 8	 , 命令/n, 司机/nnt, 去/vf,
+编辑 /nn 7	 , 和/cc, 编辑/nnt, 决定/v,
+顾问 /nn 6	 的/ude1, 顾问/nnt, 困惑/an
+老板 /nn 6	 的/ude1, 老板/nnt, 会/v, 
+副驾驶 /nn 6	  [坐在/v, 副驾驶/nnt, 座/q, 
+老师 /nn 6	 的/ude1, 老师/nnt, 。/w],
+冠军 /nn 6	 [输掉/nz, 冠军/nnt, 我/rr,
+球员 /nn 6	 , [当/p, 球员/nnt, 持球/vi
+常务董事 /nn 6	 是/vshi, 常务董事/nnt, 。/w],
+歌手 /nn 5	 [演歌/nz, 歌手/nnt, ，/w],
+董事 /nn 5	 , 一旦/d, 董事/nnt, 之后/f,
+高中生 /nn 5	 p, 女/b, 高中生/nnd, 的/ude
+社员 /nn 5	 d, 社/n, 社员/nnt, ；/w],
+团长 /nn 5	 , 因为/c, 团长/nnt, 是/vsh
+后卫 /nn 5	 , 及/cc, 后卫/nnt, 之间/f,
+领队 /nn 5	 [是因为/c, 领队/nnt, 基于/p,
+厂商 /nn 4	 , 那家/r, 厂商/nnd, 赞助/v,
+店员 /nn 4	  。/w], [店员/nnt, 前来/vi
+棒球 /nn 4	  了/ule, 棒球/nnd, 。/w],
+家庭主妇 /nn 4	 , [对/p, 家庭主妇/nnd, 而言/ul
+专家 /nn 4	  性学/nz, 专家/nnt, 约翰·曼尼
+社长 /nn 4	  [因为/c, 社长/nnt, 不会/v,
+成员 /nn 4	 , 女性/n, 成员/nnt, 的/ude
+干事 /nn 3	 的/ude1, 干事/nnt, 是/vsh
+助手 /nn 3	 的/ude1, 助手/nnt, 吗/y, 
+裁判 /nn 3	 , 告诉/v, 裁判/nnt, 。/w],
+警官 /nn 3	 v, 名/q, 警官/nnt, 说/v, 
+助理 /nn 3	  摄影/vn, 助理/nnt, 。/w],
+设计师 /nn 3	 的/ude1, 设计师/nnt, 。/w],
+队员 /nn 3	  防守/vn, 队员/nnt, ，/w],
+演员 /nn 3	 /ude1, 女演员/nnd, 。/w],
+明星 /nn 3	 莱坞/nsf, 明星/nnd, 被/pbe
+医师 /nn 2	 /w], [主治医师/nnt, 发现/v,
+女演员 /nn 2	 的/ude1, 女演员/nnd, 。/w],
+事务员 /nn 2	  。/w], [事务员/nnt, 上前/vi
+音乐家 /nn 2	 , 像是/v, 音乐家/nnt, 。/w],
+木工 /nn 2	 , 和/cc, 木工/nnt, 工具/n,
+店长 /nn 2	 , 分/qt, 店长/nnt, 的/ude
+魔术师 /nn 1	 , 得到/v, 魔术师/nnt, 的/ude
+女王 /nn 1	 是/vshi, 女王/nnt, 。/w],
+会员 /nn 1	 的/ude1, 会员/nnt, 时/qt,
+制造商 /nn 1	 , 食品/n, 制造商/nnd, 董事/nn
+歌舞伎 /nn 1	 , 去/vf, 歌舞伎/nnd, 町/n, 
+副教授 /nn 1	 的/ude1, 副教授/nnt, 。/w],
+间谍 /nn 1	 , [像/v, 间谍/nnt, 电影/n,
+男高音 /nn 1	 , 声/qv, 男高音/nnd, ，/w],
+相扑 /nn 1	 , </nx, 相扑/nnd, 力士/n,
+主力 /nn 1	 v, 让/v, 主力/nnt, 选手/n,
+掌门人 /nn 1	  花道/nz, 掌门人/nnt, 盖/v, 
+创办人 /nn 1	 , [由/p, 创办人/nnt, 小林/nr
+教育家 /nn 1	 算什么/nz, 教育家/nnt, 。/w],
+工匠 /nn 1	 的/ude1, 工匠/nnd, 的/ude
+前卫 /nn 1	 g, 、/w, 前卫/nnt, 、/w, 
+课长 /nn 1	 设备设计/n, 课长/nnt, 的/ude
+心理学家 /nn 1	 美国/nsf, 心理学家/nnt, 及/cc,
+小工 /nn 1	  一个/mq, 小工/nnt, 作/v, 
+搞笑艺人 /nn 1	 的/ude1, 搞笑艺人/nnd, 男扮女装/
+摊贩 /nn 1	 的/ude1, 摊贩/nnd, 车/n, 
+警员 /nn 1	  带着/vn, 警员/nnt, 离去/vi
+艺人 /nn 1	 ude1, 搞笑艺人/nnd, 男扮女装/
+女主角 /nn 1	 x, 片/q, 女主角/nnt, ，/w],
+大学生 /nn 1	 , 和/cc, 大学生/nnt, 的/ude
+法官 /nn 1	  ，/w], [法官/nnt, 会/v, 
+主治医师 /nn 1	  ，/w], [主治医师/nnt, 发现/v,
+名医 /nn 1	 [好几/mq, 名医/nnt, 师都/nr
+司令 /nn 1	 v, 号/q, 司令/nnt, 。/w],
+侦探 /nn 1	 d, 像/v, 侦探/nnd, 一样/uy
+运动员 /nn 1	 , 踏进/v, 运动员/nnt, 更衣室/n
+中锋 /nn 1	 球员/nnt, 中锋/nnt, 从/p, 
+团员 /nn 1	 , 公布/v, 团员/nnt, 的/ude

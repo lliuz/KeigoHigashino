@@ -1,0 +1,79 @@
+作家 /nn 59	 , 自由/a, 作家/nnt, ，/w],
+老师 /nn 46	  热海/ns, 老师/nnt, 介绍/v,
+课长 /nn 24	 , [”/w, 课长/nnt, 从/p, 
+博士 /nn 23	 r, 老/a, 博士/nnt, 那里/rz
+警察 /nn 23	  了/ule, 警察/nnt, 怎么办/r
+编辑 /nn 16	 ude1, 责任编辑/nnt, ，/w],
+司机 /nn 16	  [每天/r, 司机/nnt, 接送/v,
+总编 /nn 15	  [刚才/t, 总编/nnt, 青田/ns
+社长 /nn 13	  ，/w], [社长/nnt, 就/d, 
+刑警 /nn 11	 q, 个/q, 刑警/nnt, 都想/nr
+委员 /nn 11	  评选/vn, 委员/nnt, 的/ude
+侍从 /nn 9	 , [”/w, 侍从/nnt, 前来/vi
+佣人 /nn 9	 v, 上/f, 佣人/nnd, ，/w],
+负责人 /nn 8	 的/ude1, 负责人/nnt, 大概/d,
+医生 /nn 7	  ，/w], [医生/nnt, 一/m, 
+副驾驶 /nn 7	 , 坐在/v, 副驾驶/nnt, 座/q, 
+店员 /nn 6	 , [向/p, 店员/nnt, 报出/v,
+大师 /nn 5	 , 你/rr, 大师/nnt, 了/ule
+作者 /nn 5	 , [给/p, 作者/nnt, 提上/v,
+警官 /nn 5	 的/ude1, 警官/nnt, 们/k, 
+主角 /nn 4	 的/ude1, 主角/nnt, ，/w],
+部长 /nn 4	 安部/nto, 部长/nnt, ）/w, 
+责任编辑 /nn 4	 的/ude1, 责任编辑/nnt, ，/w],
+侦探 /nn 4	 , 僧/ng, 侦探/nnd, 早/a, 
+职业作家 /nn 3	 的/ude1, 职业作家/nnd, 就/d, 
+候选人 /nn 3	 的/ude1, 候选人/nnt, 之一/rz
+长官 /nn 3	 , 最高/a, 长官/nnt, ，/w],
+董事长 /nn 3	 的/ude1, 董事长/nnt, 千金/n,
+王后 /nn 3	 , 就是/v, 王后/nnt, 了/ule
+制造商 /nn 2	 , 器材/n, 制造商/nnd, ……/w]
+鞋匠 /nn 2	 i, 个/q, 鞋匠/nnd, ，/w],
+摄影师 /nn 2	  一个/mq, 摄影师/nnt, ，/w],
+裁缝 /nn 2	 n, 兼/v, 裁缝/nnt, 室/n, 
+推销员 /nn 2	 v, 个/q, 推销员/nnt, 。/w],
+画家 /nn 2	 , 这位/r, 画家/nnt, 来画/nr
+小说家 /nn 2	 , 成为/v, 小说家/nnd, ，/w],
+记者 /nn 2	 v, 开/v, 记者/nnt, 招待会/n
+女主角 /nn 2	 的/ude1, 女主角/nnt, ，/w],
+医师 /nn 2	  [而/cc, 医师/nnt, 则/d, 
+专家 /nn 2	 是/vshi, 专家/nnt, 们/k, 
+模特儿 /nn 2	 的/ude1, 模特儿/nnt, ，/w],
+明星 /nn 2	 的/ude1, 明星/nnd, 。/w],
+说客 /nn 1	 地/ude2, 说客/nnd, 气话/n,
+译者 /nn 1	 [）/w], [译者/nnt, 按/p, 
+代表 /nn 1	 , 亲事/n, 代表/nnt, 他/rr,
+会员 /nn 1	 的/ude1, 会员/nnt, 权/n, 
+成员 /nn 1	 的/ude1, 成员/nnt, 们/k, 
+女作家 /nn 1	 , 年轻/a, 女作家/nnd, 得奖/v,
+间谍 /nn 1	 t, 前/f, 间谍/nnt, 手里/s,
+义工 /nn 1	 , 这种/r, 义工/nnt, 性质/n,
+助教 /nn 1	 t, 当/p, 助教/nnt, ，/w],
+服务生 /nn 1	 , 男女/n, 服务生/nnd, 直到/v,
+公主 /nn 1	 的/ude1, 公主/nnd, ，/w],
+护士 /nn 1	  。/w], [护士/nnt, 询问/v,
+摄影记者 /nn 1	 是/vshi, 摄影记者/nnt, ，/w],
+卫兵 /nn 1	  [吩咐/v, 卫兵/nnd, 把/pba
+策划者 /nn 1	 , 幕后/s, 策划者/nnd, 这个/rz
+演奏家 /nn 1	  爵士乐/n, 演奏家/nnt, ，/w],
+家庭教师 /nn 1	  了/ule, 家庭教师/nnt, ，/w],
+署长 /nn 1	 的/ude1, 署长/nnt, 自不必说/
+组织者 /nn 1	 , 起/vf, 组织者/nnt, 的/ude
+外勤 /nn 1	  跑跑/nz, 外勤/nnd, 怎样/ry
+出纳 /nn 1	 g, 在/p, 出纳/nnt, 柜台/n,
+木工 /nn 1	 i, 个/q, 木工/nnt, ，/w],
+所长 /nn 1	  了/ule, 所长/nnt, 寄语/v,
+会长 /nn 1	  ，/w], [会长/nnt, 出/vf,
+家庭主妇 /nn 1	 的/ude1, 家庭主妇/nnd, 那里/rz
+工作人员 /nn 1	 的/ude1, 工作人员/nnt, ，/w],
+主治医生 /nn 1	  [看似/v, 主治医生/nnt, 的/ude
+设计师 /nn 1	 , 发型/n, 设计师/nnt, ，/w],
+国王 /nn 1	 , 就是/v, 国王/nnt, 和/cc,
+首脑 /nn 1	 警察/nnt, 首脑/nnt, 云集/v,
+董事 /nn 1	 t, 、/w, 董事/nnt, 、/w, 
+女招待 /nn 1	 s, 当/p, 女招待/nnd, ，/w],
+证人 /nn 1	  ，/w], [证人/nnt, 就是/v,
+制造者 /nn 1	 的/ude1, 制造者/nnd, 商量/v,
+厅长 /nn 1	 省公安厅/n, 厅长/nnt, ）/w, 
+太后 /nn 1	 , 健/ag, 太后/nnd, ，/w],
+监事 /nn 1	 t, 、/w, 监事/nnt, ，/w],

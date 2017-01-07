@@ -1,0 +1,70 @@
+新岛 /ns 28	  日/b], [新岛/ns, 大夫/nnt
+日本 /ns 22	 /nrj], [日本/ns, 著名作家/n
+大宫 /ns 17	  。/w], [大宫/ns, 也/d, 是
+大阪 /ns 7	 是/vshi, 大阪/nsf, 人/n, 
+东京 /ns 7	 n, 从/p, 东京/nsf, 市中心/s
+美国 /ns 7	 自由王国/l, 美国/nsf, 。/w],
+精灵 /ns 6	 是/vshi, 精灵/ns, 。/w], 
+横岗 /ns 6	 d, 由/p, 横岗/ns, （/w, 相
+不晓得 /ns 5	 r, 都/d, 不晓得/ns, 有/vyou
+神田 /ns 5	 r, 、/w, 神田/ns, ，/w], 
+上站 /ns 3	  [车斗/n, 上站/ns, 着/uzhe
+长岛 /ns 3	 , 会会/n, 长岛/ns, 田/n, 瞧
+黑山 /ns 2	 , [白/a, 黑山/nsf, 对/p, 
+京都 /ns 2	 i, 说/v, 京都/nsf, 的/ude
+德国 /ns 2	 , 和/cc, 德国/nsf, 的/ude
+后山 /ns 2	 , 去/vf, 后山/ns, 转/v, 转
+榜上 /ns 2	 , 录取/v, 榜上/ns, ，/w], 
+阪神 /ns 2	 n, 在/p, 阪神/ns, 甲子/mq,
+大山 /ns 2	 z, 姓/v, 大山/ns, 的/ude1
+群马县 /ns 2	  。/w], [群马县/ns, 茂林/nz,
+河源 /ns 2	  。/w], [河源/ns, 宏/nz, 
+夏天 /ns 1	 , 那年/r, 夏天/ns, ，/w], 
+芬兰 /ns 1	 w, （/w, 芬兰/nsf, 作家/nn
+茨城县 /ns 1	 n, 、/w, 茨城县/ns, 、/w, 群
+上香 /ns 1	 , 俺/rr, 上香/ns, 吗/y, ？
+南海 /ns 1	 著/nz], [南海/ns, 出版/v, 
+个旧 /ns 1	 , 来/vf, 个旧/ns, 轮胎/n, 
+下场比赛 /ns 1	 , [“/w, 下场比赛/ns, 让/v, 柏
+上都 /ns 1	  二垒/nz, 上都/ns, 有/vyou
+几米远 /ns 1	 , 她/rr, 几米远/ns, 处/n, 。
+和歌山 /ns 1	 , 去/vf, 和歌山/ns, 的/ude1
+东南亚 /ns 1	 , 环游/v, 东南亚/nsf, 后/f, 
+枥木县 /ns 1	 , 和/cc, 枥木县/ns, 的/ude1
+尼斯 /ns 1	 n, 、/w, 尼斯/ns, 湖水/n, 
+花钱买 /ns 1	  了/ule, 花钱买/ns, 这些/rz,
+小亚细亚 /ns 1	 是/vshi, 小亚细亚/nsf, 某地/r,
+临别时 /ns 1	  。/w], [临别时/ns, ，/w], 
+蒙人 /ns 1	 w, 少/a, 蒙人/ns, ，/w], 
+安乐乡 /ns 1	  我们/rr, 安乐乡/ns, 的/ude1
+向家 /ns 1	 i, 走/v, 向家/ns, 的/ude1
+银山 /ns 1	 , 金山/n, 银山/ns, ，/w], 
+地球 /ns 1	  [否定/v, 地球/ns, 自/p, 传
+东北 /ns 1	  中国/ns, 东北/ns, 部/q, 念
+天都 /ns 1	 t, 一/m, 天都/ns, 待/vi, 
+山梨县 /ns 1	 s, 、/w, 山梨县/ns, 和/cc, 
+神奈川 /ns 1	  [包括/v, 神奈川/ns, 县/n, 、
+王子 /ns 1	 , 中的/v, 王子/ns, 被/pbei
+一社区 /ns 1	  这/rzv, 一社区/ns, 买下/v, 
+酒都 /ns 1	 m, 口/n, 酒都/ns, 没/d, 沾
+房地产公司 /ns 1	 , 按照/p, 房地产公司/ns, 的/ude1
+波斯 /ns 1	 v, 成/v, 波斯/ns, 猫/n, 的
+关西 /ns 1	 m, 口/n, 关西/ns, 腔/ng, 
+九州 /ns 1	 , 和/cc, 九州/ns, ，/w], 
+家村 /ns 1	 , [人/n, 家村/ns, 上/f, 、
+名古屋 /ns 1	 f, 、/w, 名古屋/nsf, 和/cc,
+上完 /ns 1	 , 看似/v, 上完/ns, 补习班/ni
+叙叙旧 /ns 1	 那样/rzv, 叙叙旧/ns, 当然/d, 
+奈良 /ns 1	 , 和/cc, 奈良/ns, 等/uden
+加拿大 /ns 1	 过/uguo, 加拿大/nsf, 的/ude
+中都 /ns 1	 学生/nnt, 中都/ns, 是/vshi
+千叶 /ns 1	 n, 、/w, 千叶/ns, 县/n, 、
+不存在 /ns 1	 , 他/rr, 不存在/ns, 。/w], 
+瑞士 /ns 1	 v, 在/p, 瑞士/nsf, 小镇/n,
+从家 /ns 1	  [等到/v, 从家/ns, 步行/vi,
+印度 /ns 1	 , 抵达/v, 印度/nsf, 。/w],
+法国 /ns 1	 , 享用/v, 法国/nsf, 菜/n, 
+爱买 /ns 1	  ，/w], [爱买/ns, 什么/ry,
+中国 /ns 1	 t, 在/p, 中国/ns, 东北/ns,
+曾随 /ns 1	  ，/w], [曾随/ns, 母亲/n, 
+前花 /ns 1	 , 天/qt, 前花/ns, 田/n, 护

@@ -1,0 +1,69 @@
+室长 /nn 87	 是/vshi, 室长/nnt, 。/w],
+刑警 /nn 75	  ，/w], [刑警/nnt, 一定会/n
+董事 /nn 53	 , 专任/b, 董事/nnt, 的/ude
+主任 /nn 27	  研究/vn, 主任/nnt, ，/w],
+课长 /nn 19	 m, 课/n, 课长/nnt, 走近/v,
+司机 /nn 16	 , 充当/v, 司机/nnt, 。/w],
+学生 /nn 14	 , 为/p, 大学生/nnt, ；/w],
+署长 /nn 7	 , 署/ng, 署长/nnt, 问道/vi
+证人 /nn 7	 , 和/cc, 证人/nnt, 见面/vi
+医师 /nn 6	 ude1, 主治医师/nnt, 在/p, 
+女佣 /nn 6	 有/vyou, 女佣/nnd, ，/w],
+警察 /nn 6	 大阪府/ns, 警察/nnt, ，/w],
+老板 /nn 6	 刷厂/nis, 老板/nnt, ，/w],
+干部 /nn 6	 公司/nis, 干部/nnt, 之间/f,
+侦探 /nn 6	  ，/w], [侦探/nnd, 的/ude
+社长 /nn 5	 m, 任/v, 社长/nnt, ，/w],
+服务生 /nn 5	 , 喝/vg, 服务生/nnd, 送上来/v
+店员 /nn 5	 q, 个/q, 店员/nnt, 记得/v,
+家庭主妇 /nn 5	 是/vshi, 家庭主妇/nnd, 。/w],
+医生 /nn 4	 w, ‘/w, 医生/nnt, 麻烦/an
+负责人 /nn 4	 的/ude1, 负责人/nnt, ，/w],
+大学生 /nn 4	 n, 为/p, 大学生/nnt, ；/w],
+技术人员 /nn 4	  机器人/n, 技术人员/nnt, 的/ude
+管理员 /nn 3	 v, ”/w, 管理员/nnt, 的/ude
+主角 /nn 3	 n, 为/p, 主角/nnt, 的/ude
+副教授 /nn 3	  安藤/nr, 副教授/nnt, 一面/n,
+代表 /nn 3	 所/usuo, 代表/nnt, 的/ude
+厂商 /nn 3	 , 机器/n, 厂商/nnd, MM/nx
+作者 /nn 3	 渊/ng], [作者/nnt, ：/w],
+国王 /nn 3	 , 方块/n, 国王/nnt, 。/w],
+法医 /nn 3	 , 根据/p, 法医/nnt, 安藤/nr
+成员 /nn 3	 m, 名/q, 成员/nnt, 。/w],
+作家 /nn 2	  推理/vn, 作家/nnt, 协会/ni
+记者 /nn 2	 , 影视/b, 记者/nnt, 。/w],
+艺人 /nn 2	 v, 个/q, 艺人/nnt, 回答/v,
+秘书 /nn 2	 的/ude1, 秘书/nnt, 。/w],
+高中生 /nn 2	 是/vshi, 高中生/nnd, 了/ule
+明星 /nn 2	 , 考上/v, 明星/nnd, 学校/ni
+老师 /nn 2	 高中/nis, 老师/nnt, ，/w],
+研究员 /nn 2	 的/ude1, 研究员/nnt, 们/k, 
+知识分子 /nn 1	  [属于/v, 知识分子/nnd, 的/ude
+制造商 /nn 1	 的/ude1, 制造商/nnd, ，/w],
+主播 /nn 1	 , 新闻/n, 主播/nnt, 说道/v,
+间谍 /nn 1	 p, 当/p, 间谍/nnt, 一样/uy
+领导人 /nn 1	 的/ude1, 领导人/nnt, ，/w],
+顾问 /nn 1	 d, 会/v, 顾问/nnt, 】/w, 
+歌手 /nn 1	 , 偶像/n, 歌手/nnt, 难听/a,
+摄影师 /nn 1	 的/ude1, 摄影师/nnt, 。/w],
+模特儿 /nn 1	 是/vshi, 模特儿/nnt, 也/d, 
+工程师 /nn 1	 , 技术/n, 工程师/nnt, ，/w],
+法人 /nn 1	 , 特殊/a, 法人/nnt, 之一/rz
+创办人 /nn 1	 , 重工/n, 创办人/nnt, 仁科庆一郎
+副驾驶 /nn 1	 e, 指/v, 副驾驶/nnt, 座/q, 
+组长 /nn 1	  平向/nr, 组长/nnt, 商量/v,
+骑士 /nn 1	 的/ude1, 骑士/nnd, 出现/v,
+猎人 /nn 1	 v, 在/p, 猎人/nnd, 头/n, 
+部长 /nn 1	 业部/nis, 部长/nnt, 以上/f,
+工作人员 /nn 1	 的/ude1, 工作人员/nnt, ，/w],
+职员 /nn 1	 , 女性/n, 职员/nnt, 的/ude
+银行家 /nn 1	 是/vshi, 银行家/nnt, 的/ude
+评论家 /nn 1	 , 方面/n, 评论家/nnt, 的/ude
+公司员工 /nn 1	 是/vshi, 公司员工/nnd, ，/w],
+主治医师 /nn 1	 的/ude1, 主治医师/nnt, 在/p, 
+政治家 /nn 1	 , 不是/c, 政治家/nnt, 的/ude
+译者 /nn 1	  ）/w], [译者/nnt, ：/w],
+运动员 /nn 1	 的/ude1, 运动员/nnt, ，/w],
+店长 /nn 1	 , 看似/v, 店长/nnt, 的/ude
+服装设计 /nn 1	 , 利用/v, 服装设计/nnt, 修饰/v,
+常务董事 /nn 1	 t, 或/c, 常务董事/nnt, 的/ude

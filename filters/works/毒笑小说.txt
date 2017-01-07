@@ -1,0 +1,92 @@
+刑警 /nn 37	 q, 个/q, 刑警/nnt, 都想/nr
+主持人 /nn 30	 , [”/w, 主持人/nnt, 提到/v,
+老师 /nn 24	  法语/nz, 老师/nnt, ，/w],
+警察 /nn 16	  [程序/n, 警察/nnt], [爷爷/
+总编 /nn 16	 d, 像/v, 总编/nnt, 说/v, 
+课长 /nn 16	 m, 课/n, 课长/nnt, 等/ude
+司机 /nn 16	  [每天/r, 司机/nnt, 接送/v,
+女作家 /nn 13	 人偶/n], [女作家/nnd], [杀意/
+老板 /nn 12	 的/ude1, 老板/nnt, 。/w],
+工作人员 /nn 12	 [”/w], [工作人员/nnt, 拿着/vf
+学者 /nn 11	  [准许/v, 学者/nnt, 将/d, 
+医生 /nn 10	 的/ude1, 医生/nnt, 详细/a,
+编辑 /nn 10	 [川岛/nz, 编辑/nnt, 现在/t,
+社长 /nn 10	 的/ude1, 社长/nnt, 、/w, 
+助理 /nn 9	 是/vshi, 助理/nnt, 主持/v,
+侦探 /nn 9	 1, 名/q, 侦探/nnd, ，/w],
+主角 /nn 6	 , 动画/n, 主角/nnt, 模样/n,
+董事 /nn 6	 t, 、/w, 董事/nnt, 、/w, 
+作者 /nn 5	 , 由于/p, 作者/nnt, 妊娠/vi
+明星 /nn 5	  演艺圈/n, 明星/nnd, 才/d, 
+职员 /nn 5	 是/vshi, 职员/nnt, 暂时/d,
+制造商 /nn 5	 w, 问/v, 制造商/nnd, 恐怕/d,
+作家 /nn 5	 偶/n], [女作家/nnd], [杀意/
+司仪 /nn 5	 v, 由/p, 司仪/nnt, 在/p, 
+侦察员 /nn 4	  [接着/c, 侦察员/nnt, 赶到/v,
+女警 /nn 4	 , 身穿/v, 女警/nnt, 制服/n,
+部长 /nn 4	 安部/nto, 部长/nnt, ）/w, 
+议员 /nn 3	  某/rz, 参议员/nnt, 的/ude
+代表 /nn 3	  日本/ns, 代表/nnt, 不甘示弱/
+学生 /nn 3	 , [从/p, 学生/nnt, 时代/n,
+负责人 /nn 3	 是/vshi, 负责人/nnt, ，/w],
+大夫 /nn 3	 , [“/w, 大夫/nnt, ，/w],
+钢琴家 /nn 3	 , 成为/v, 钢琴家/nnt, ，/w],
+秘书 /nn 3	 a, 男/b, 秘书/nnt, 也/d, 
+长官 /nn 3	 , 最高/a, 长官/nnt, ，/w],
+教师 /nn 3	 /ule, 家庭教师/nnt, ，/w],
+生物学家 /nn 3	 美国/nsf, 生物学家/nnd, 。/w],
+女佣 /nn 2	 , 还有/v, 女佣/nnd, 全盘/d,
+歌手 /nn 2	 i, 由/p, 歌手/nnt, 用/p, 
+科长 /nn 2	  设计/vn, 科长/nnt, 。/w],
+教授 /nn 2	  真锅/nr, 教授/nnt, ！/w],
+侦查员 /nn 2	  ，/w], [侦查员/nnt, 会/v, 
+副驾驶 /nn 2	 的/ude1, 副驾驶/nnt, 座/q, 
+证人 /nn 2	  这个/rz, 证人/nnt, 果然/d,
+主播 /nn 2	 , 新闻/n, 主播/nnt, 也/d, 
+警官 /nn 2	 的/ude1, 警官/nnt, 们/k, 
+店主 /nn 2	  ，/w], [店主/nnd, 似乎/d,
+清洁工 /nn 2	 , 盯着/v, 清洁工/nnt, 作业/vn
+女演员 /nn 2	 e, 眼/n, 女演员/nnd, 的/ude
+摄影师 /nn 2	  ，/w], [摄影师/nnt, 却/d, 
+收藏家 /nn 2	  ，/w], [收藏家/nnd, 不会/v,
+首脑 /nn 2	 警察/nnt, 首脑/nnt, 云集/v,
+模特儿 /nn 2	 是/vshi, 模特儿/nnt, 出身/v,
+商人 /nn 1	 大阪/nsf, 商人/nnt, 硬/a, 
+间谍 /nn 1	 t, 前/f, 间谍/nnt, 手里/s,
+警卫 /nn 1	 , 还有/v, 警卫/nnt, 的/ude
+公司员工 /nn 1	 , 专为/d, 公司员工/nnd, 开发/vn
+服务生 /nn 1	 , 男女/n, 服务生/nnd, 直到/v,
+售票员 /nn 1	 说不定/vl, 售票员/nnd, 会/v, 
+小说家 /nn 1	 侦探/nnd, 小说家/nnd, 艾德·麦可
+助手 /nn 1	 s, 当/p, 助手/nnt, 。/w],
+首席专家 /nn 1	 的/ude1, 首席专家/nnt, ——/w,
+骑士 /nn 1	  中世纪/t, 骑士/nnd, 所/usu
+专家 /nn 1	 的/ude1, 专家/nnt, 。/w],
+策划者 /nn 1	 , 幕后/s, 策划者/nnd, 这个/rz
+企业经营者 /nn 1	 w, 大/a, 企业经营者/nnt, 、/w, 
+农家 /nn 1	 的/ude1, 农家/nnd, 里/f, 
+参议员 /nn 1	 , 某/rz, 参议员/nnt, 的/ude
+政治家 /nn 1	 n, 为/p, 政治家/nnt, 、/w, 
+署长 /nn 1	 的/ude1, 署长/nnt, 自不必说/
+组织者 /nn 1	 , 起/vf, 组织者/nnt, 的/ude
+太后 /nn 1	 , 健/ag, 太后/nnd, ，/w],
+造型师 /nn 1	 , 中年/n, 造型师/nnt, 不失时机/
+班主任 /nn 1	 d, 给/p, 班主任/nnt, 打电话/v
+会员 /nn 1	 的/ude1, 会员/nnt, 权/n, 
+罪犯 /nn 1	 的/ude1, 罪犯/nnd, 。/w],
+佣人 /nn 1	 v, 上/f, 佣人/nnd, ，/w],
+工程师 /nn 1	 , 电脑/n, 工程师/nnt, ，/w],
+写手 /nn 1	  了/ule, 写手/nnd, ，/w],
+家庭教师 /nn 1	  了/ule, 家庭教师/nnt, ，/w],
+棒球 /nn 1	 , 职业/n, 棒球/nnd, 之类/rz
+女星 /nn 1	 莱坞/nsf, 女星/nnd, ，/w],
+护士 /nn 1	 e, 个/q, 护士/nnt, 打扮/v,
+家庭主妇 /nn 1	 q, 个/q, 家庭主妇/nnd, 拎着/v,
+经理 /nn 1	 q, 女/b, 经理/nnt, ，/w],
+责任编辑 /nn 1	  这个/rz, 责任编辑/nnt, 竟/d, 
+诺贝尔奖 /nn 1	 , 荣获/v, 诺贝尔奖/nnd, 。/w],
+成员 /nn 1	 小组/nis, 成员/nnt, 几乎/d,
+右卫 /nn 1	  谷伊/nr, 右卫/nnd, 门/n, 
+国王 /nn 1	 o, 《/w, 国王/nnt, 的/ude
+厅长 /nn 1	 省公安厅/n, 厅长/nnt, ）/w, 
+监事 /nn 1	 t, 、/w, 监事/nnt, ，/w],

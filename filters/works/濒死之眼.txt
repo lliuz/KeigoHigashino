@@ -1,0 +1,53 @@
+刑警 /nn 81	 的/ude1, 刑警/nnt, 。/w],
+模特儿 /nn 51	 n, 型/k, 模特儿/nnt, 公司/ni
+司机 /nn 32	 , 中年/n, 司机/nnt, 边/k, 
+老板 /nn 30	 的/ude1, 老板/nnt, ，/w],
+社长 /nn 24	 的/ude1, 社长/nnt, 。/w],
+管理员 /nn 21	 是/vshi, 管理员/nnt, 室/n, 
+医生 /nn 20	  。/w], [医生/nnt, 和/cc,
+警察 /nn 19	 是/vshi, 警察/nnt, 。/w],
+警官 /nn 19	 , 中年/n, 警官/nnt, 对/p, 
+律师 /nn 11	  一个/mq, 律师/nnt, 吗/y, 
+护士 /nn 9	 , 和/cc, 护士/nnt, 忙碌/a,
+服务生 /nn 8	  了/ule, 服务生/nnd, 。/w],
+副驾驶 /nn 7	  [绕道/v, 副驾驶/nnt, 座/q, 
+学生 /nn 5	 的/ude1, 学生/nnt, ，/w],
+职员 /nn 4	 的/ude1, 职员/nnt, ，/w],
+高中生 /nn 4	  那个/rz, 高中生/nnd, 更早/nz
+设计师 /nn 4	 , 担任/v, 设计师/nnt, ，/w],
+制作人 /nn 3	 , 只是/d, 制作人/nnt, 型/k, 
+艺人 /nn 3	 w, “/w, 艺人/nnt, ……/w]
+教师 /nn 2	 , 临时/b, 教师/nnt, 。/w],
+店员 /nn 2	 q, 女/b, 店员/nnt, 也/d, 
+中学生 /nn 2	 , 最近/t, 中学生/nnd, 的/ude
+证人 /nn 2	 的/ude1, 证人/nnt, 而/cc,
+明星 /nn 2	 , 许多/m, 明星/nnd, 杂志/n,
+钢琴家 /nn 2	 m, 名/q, 钢琴家/nnt, ，/w],
+店长 /nn 2	  。/w], [店长/nnt, 也/d, 
+业务员 /nn 2	 , 散发/v, 业务员/nnt, 的/ude
+中将 /nn 1	  咖啡壶/n, 中将/nnt, 咖啡/nf
+工作者 /nn 1	 的/ude1, 工作者/nnt, 。/w],
+学者 /nn 1	 的/ude1, 学者/nnt, 。/w],
+游民 /nn 1	 的/ude1, 游民/nnd, 在/p, 
+代表 /nn 1	 d, 不/d, 代表/nnt, 他/rr,
+魔术师 /nn 1	 , [以/p, 魔术师/nnt, 般的/u,
+主任 /nn 1	 , 创意/n, 主任/nnt, 。/w],
+管理人 /nn 1	  太久/nz, 管理人/nnt, 可能会/n
+太常 /nn 1	 r, 不/d, 太常/nnt, 使用/v,
+男主角 /nn 1	 , [“/w, 男主角/nnt, 在/p, 
+专家 /nn 1	  称不上/v, 专家/nnt, 。/w],
+国王 /nn 1	  英国/ns, 国王/nnt, 爱德华/n
+皇帝 /nn 1	 的/ude1, 皇帝/nnt, 吗/y, 
+课长 /nn 1	 中小企业/n, 课长/nnt, 精炼/a,
+使者 /nn 1	 的/ude1, 使者/nnt, 。/w],
+讲师 /nn 1	 , 担任/v, 讲师/nnt, 一/m, 
+美发师 /nn 1	 的/ude1, 美发师/nnd, 打理/nz
+部长 /nn 1	  巡查/vn, 部长/nnt, 所说/c,
+工作人员 /nn 1	 , 半/mq, 工作人员/nnt, 也/d, 
+模特 /nn 1	 n, 型/k, 模特/nnt, 儿时/t,
+法官 /nn 1	  ，/w], [法官/nnt, 并/cc,
+法医 /nn 1	 , [从/p, 法医/nnt, 解剖/vn
+郡王 /nn 1	 大拉/nrf, 郡王/nnt, 妃/ng,
+局长 /nn 1	 的/ude1, 局长/nnt, 也/d, 
+演员 /nn 1	  正式/ad, 演员/nnt, 的/ude
+向导 /nn 1	 的/ude1, 向导/nnt, 吧/y, 

@@ -1,0 +1,83 @@
+老师 /nn 53	  梅村/ns, 老师/nnt, 来/vf,
+警察 /nn 49	 , 遇到/v, 警察/nnt, 是/vsh
+店长 /nn 49	 r, 跟/p, 店长/nnt, 认识/v,
+社长 /nn 40	 , 只有/c, 社长/nnt, 福本和/n
+学生 /nn 29	 的/ude1, 学生/nnt, 。/w],
+课长 /nn 27	 , 总务/b, 课长/nnt, 走/v, 
+老板 /nn 25	 , 和/cc, 老板/nnt, 见/v, 
+成员 /nn 19	 其他/rzv, 成员/nnt, 也/d, 
+刑警 /nn 16	 m, 个/q, 刑警/nnt, 这个/rz
+职员 /nn 14	 公司/nis, 职员/nnt, ，/w],
+警官 /nn 12	 , 年轻/a, 警官/nnt, 没有/v,
+大学生 /nn 7	 是/vshi, 大学生/nnt, 了/ule
+临时工 /nn 7	 d, 份/q, 临时工/nnd, ，/w],
+职工 /nn 6	 的/ude1, 职工/nnt, ，/w],
+考官 /nn 6	  面试/vi, 考官/nnt, ，/w],
+医生 /nn 5	  。/w], [医生/nnt, 做/v, 
+罪犯 /nn 5	 是/vshi, 罪犯/nnd, ，/w],
+歌手 /nn 5	  原/b, 流行歌手/nnd, 离婚/vi
+校长 /nn 5	 , 和/cc, 校长/nnt, 也/d, 
+管理员 /nn 4	  了/ule, 管理员/nnt, ，/w],
+教师 /nn 4	 1, 男/b, 教师/nnt, 。/w],
+教授 /nn 4	  [而且/c, 教授/nnt, 也/d, 
+班主任 /nn 4	 的/ude1, 班主任/nnt, ，/w],
+短工 /nn 4	  打点/vi, 短工/nnd, ，/w],
+店员 /nn 3	 , [跟/p, 店员/nnt, 们/k, 
+主任 /nn 3	 /ude1, 班主任/nnt, ，/w],
+负责人 /nn 3	 n, 也/d, 负责人/nnt, 。/w],
+部长 /nn 3	 , 人事/n, 部长/nnt, 等/ude
+贝斯手 /nn 3	 f, 做/v, 贝斯手/nnt, 的/ude
+艺术家 /nn 3	 , 成功/a, 艺术家/nnt, 的/ude
+吉他手 /nn 2	 t, 、/w, 吉他手/nnt, 和/cc,
+播音员 /nn 2	 的/ude1, 播音员/nnt, ，/w],
+园长 /nn 2	 , [“/w, 园长/nnt, 那么/c,
+护士 /nn 2	 的/ude1, 护士/nnt, 过来/vf
+棒球 /nn 2	 , 和/cc, 棒球/nnd, ，/w],
+演员 /nn 2	 的/ude1, 演员/nnt, 也/d, 
+高中生 /nn 2	  那些/rz, 高中生/nnd, 的话/ud
+专家 /nn 2	  原石/nz, 专家/nnt, 。/w],
+主唱 /nn 2	 , 尾/ng, 主唱/nnt, 的/ude
+雇员 /nn 2	 , 打听/v, 雇员/nnt, 家属/n,
+检察官 /nn 2	 , 响起/v, 检察官/nnt, 的/ude
+技术人员 /nn 2	 的/ude1, 技术人员/nnt, 。/w],
+学士 /nn 1	  ，/w], [学士/nnt, ，/w],
+流行歌手 /nn 1	 v, 原/b, 流行歌手/nnd, 离婚/vi
+工人 /nn 1	 的/ude1, 工人/nnt, 麻利地/n
+音乐家 /nn 1	  [著名/a, 音乐家/nnt, 、/w, 
+会员 /nn 1	 的/ude1, 会员/nnt, ，/w],
+小学生 /nn 1	 , 像是/v, 小学生/nnd, 的/ude
+主角 /nn 1	 z, 为/p, 主角/nnt, 的/ude
+家具商 /nn 1	 , 看到/v, 家具商/nnd, 的/ude
+辩护律师 /nn 1	 , 指定/v, 辩护律师/nnt, 这样/rz
+诗人 /nn 1	 t, 、/w, 诗人/nnt, 、/w, 
+地产商 /nn 1	 q, 房/n, 地产商/nnd, 。/w],
+民歌手 /nn 1	 的/ude1, 民歌手/nnd, ，/w],
+作者 /nn 1	 手纸/n], [作者/nnt, :/w],
+编导 /nn 1	 的/ude1, 编导/nnt, ，/w],
+研究生 /nn 1	 r, 读/v, 研究生/nnt, 呢/y, 
+官员 /nn 1	 的/ude1, 官员/nnt, 告诉/v,
+经营者 /nn 1	 , 作为/p, 经营者/nnt, 的/ude
+管理人员 /nn 1	 公司/nis, 管理人员/nnt, 的/ude
+家庭教师 /nn 1	  [又是/c, 家庭教师/nnt, ，/w],
+主治医生 /nn 1	  [说是/v, 主治医生/nnt, 的/ude
+志愿者 /nn 1	 是/vshi, 志愿者/nnt, 活动/vn
+鼓手 /nn 1	 , 和/cc, 鼓手/nnt, 幸田/nr
+证人 /nn 1	 , 目击/v, 证人/nnt, ，/w],
+事务员 /nn 1	 , 女性/n, 事务员/nnt, 。/w],
+站长 /nn 1	 的/ude1, 站长/nnt, 一/m, 
+家庭主妇 /nn 1	 , 像是/v, 家庭主妇/nnd, 似的/u,
+代表 /nn 1	 , 像是/v, 代表/nnt, 他们/rr
+模特 /nn 1	 , 或是/c, 模特/nnt, 呢/y, 
+代理人 /nn 1	 , 广告/n, 代理人/nnt, 的/ude
+店主 /nn 1	  贵跟/nr, 店主/nnd, 联系/v,
+司机 /nn 1	  ，/w], [司机/nnt, 将/d, 
+企业家 /nn 1	 , 算作/v, 企业家/nnt, ？/w],
+橄榄球 /nn 1	 , 练习/v, 橄榄球/nnd, 时/qt,
+邮递员 /nn 1	 , [”/w, 邮递员/nnt, 递过来/l
+律师 /nn 1	 , [据/p, 律师/nnt, 讲/v, 
+社会活动家 /nn 1	 t, 、/w, 社会活动家/nnt, 。/w],
+政治家 /nn 1	  [就是/v, 政治家/nnt, ，/w],
+音乐人 /nn 1	 的/ude1, 音乐人/nnt, 。/w],
+车间主任 /nn 1	 工厂/nis, 车间主任/nnt, 那样/rz
+导演 /nn 1	 的/ude1, 导演/nnt, ，/w],
+批发商 /nn 1	 , 一家/n, 批发商/nnd, ，/w],

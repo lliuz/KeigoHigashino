@@ -1,0 +1,63 @@
+老师 /nn 232	 n, 请/v, 老师/nnt, 帮忙/vi
+学生 /nn 219	 m, 位/q, 学生/nnt, ，/w],
+教职员 /nn 62	  [回到/v, 教职员/nnd, 室/n, 
+校长 /nn 58	 w, “/w, 校长/nnt, 找/v, 
+教师 /nn 53	  。/w], [教师/nnt, 大楼/n,
+社员 /nn 27	 , 确定/v, 社员/nnt, 们/k, 
+导师 /nn 17	 x, 班/n, 导师/nnt, 长谷/nr
+魔术师 /nn 8	 n, 或/c, 魔术师/nnt, 之类/rz
+乞丐 /nn 7	 , 扮成/v, 乞丐/nnd, 集团/ni
+委员 /nn 6	 , 执行/v, 委员/nnt, 之一/rz
+作者 /nn 6	 , 小说/n, 作者/nnt, 所/usu
+职员 /nn 6	 [回到/v, 教职员/nnd, 室/n, 
+女佣 /nn 5	 d, 由/p, 女佣/nnd, 负责/v,
+数学教师 /nn 5	 , 取得/v, 数学教师/nnt, 资格/n,
+证人 /nn 5	 有/vyou, 证人/nnt, 证明/v,
+社长 /nn 5	 n, 社/n, 社长/nnt, 。/w],
+代表 /nn 4	 学生/nnt, 代表/nnt, 大家/rr
+警员 /nn 4	 的/ude1, 警员/nnt, 。/w],
+体育教师 /nn 4	  [但是/c, 体育教师/nnt, 有/vyo
+班长 /nn 3	 , [”/w, 班长/nnt, 叫/vi,
+警察 /nn 3	 [”/w], [警察/nnt, 毕竟/d,
+作家 /nn 3	 的/ude1, 作家/nnt, ，/w],
+教授 /nn 3	  ，/w], [教授/nnt, 的/ude
+播音员 /nn 3	 [”/w], [播音员/nnt, 是/vsh
+教员 /nn 3	 , 通过/p, 教员/nnt, 任用/vn
+队员 /nn 3	 , 和/cc, 队员/nnt, 们/k, 
+成员 /nn 3	 的/ude1, 成员/nnt, 大/a, 
+冠军 /nn 3	  夺过/nz, 冠军/nnt, ，/w],
+医师 /nn 2	  [虽然/c, 医师/nnt, 苦口婆心/
+修理工 /nn 2	 的/ude1, 修理工/nnd, 厂/n, 
+副社长 /nn 2	 的/ude1, 副社长/nnt, ，/w],
+司令 /nn 2	  ？/w], [司令/nnt, 台上/s,
+教练 /nn 2	 z, 当/p, 教练/nnt, 的/ude
+刑警 /nn 2	 v, 以/p, 刑警/nnt, 身份/n,
+高中生 /nn 2	  [约莫/d, 高中生/nnd, 的/ude
+射手 /nn 2	  ，/w], [射手/nnd, 当然/d,
+厂长 /nn 1	 d, 厂/n, 厂长/nnt, 之/uzh
+公务员 /nn 1	 c, 干/v, 公务员/nnt, 。/w],
+会员 /nn 1	 , 家长/n, 会员/nnt, 开始/v,
+导演 /nn 1	 , 可能/v, 导演/nnt, 出/vf,
+新闻记者 /nn 1	 被/pbei, 新闻记者/nnt, 围住/v,
+罪犯 /nn 1	 , 看着/v, 罪犯/nnd, 的/ude
+体育老师 /nn 1	 是/vshi, 体育老师/nnt, 。/w],
+作曲家 /nn 1	 1, 名/q, 作曲家/nnt, 们/k, 
+理事长 /nn 1	 的/ude1, 理事长/nnt, ，/w],
+主将 /nn 1	 的/ude1, 主将/nnt, ，/w],
+教职 /nn 1	 , 辞去/v, 教职/nnt, 。/w],
+裁判 /nn 1	 d, 请/v, 裁判/nnt, 来/vf,
+棒球 /nn 1	 v, 或/c, 棒球/nnd, 的/ude
+排长 /nn 1	 u, 三/m, 排长/nnt, 椅子/n,
+护士 /nn 1	  。/w], [护士/nnt, 老师/nn
+记者 /nn 1	 , 和/cc, 记者/nnt, 差不多/a
+演员 /nn 1	 , 特技/n, 演员/nnt, ，/w],
+骑士 /nn 1	  。/w], [骑士/nnd, 和/cc,
+经理 /nn 1	 的/ude1, 经理/nnt, 吧/y, 
+大学生 /nn 1	  [和/cc, 大学生/nnt, 的/ude
+高校教师 /nn 1	  [女子/n, 高校教师/nnd, 自杀/vi
+团长 /nn 1	 i, 扮/v, 团长/nnt, 或/c, 
+干部 /nn 1	 , 中坚/n, 干部/nnt, 了/ule
+企业家 /nn 1	 , 走上/v, 企业家/nnt, 之路/r,
+橄榄球 /nn 1	 过/uguo, 橄榄球/nnd, 的/ude
+数学老师 /nn 1	 是/vshi, 数学老师/nnt, ，/w],
+团员 /nn 1	 之/uzhi, 团员/nnt, 也/d, 

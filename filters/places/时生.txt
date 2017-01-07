@@ -1,0 +1,76 @@
+大阪 /ns 68	 ——/nrf, 大阪/nsf, 的/ude
+东京 /ns 39	 , ——/w, 东京/nsf, 站/vi,
+日本 /ns 37	 是/vshi, 日本/ns, 最早/d, 
+马尾 /ns 28	  [梳着/v, 马尾/ns, 的/ude1
+名古屋 /ns 22	 d, 到/v, 名古屋/nsf, ？/w],
+静冈 /ns 10	 d, 在/p, 静冈/ns, 的/ude1
+比萨 /ns 8	 的/ude1, 比萨/ns, ！/w], 
+花屋 /ns 7	 , [“/w, 花屋/ns, 敷/v, 。
+街道 /ns 7	 , 地下/s, 街道/ns, 中/f, 。
+大道 /ns 5	 , 国际/n, 大道/ns, 的/ude1
+清美 /ns 5	 是/vshi, 清美/ns, 。/w], 
+上流社会 /ns 4	 , 可是/c, 上流社会/ns, 的/ude1
+将门 /ns 4	 , 子/ng, 将门/ns, 拉开/v, 
+神田 /ns 4	 是/vshi, 神田/ns, 车站/n, 
+夏天 /ns 3	  ，/w], [夏天/ns, 也/d, 不
+龙的 /ns 3	 v, 百/m, 龙的/ns, 广告/n, 
+爱知县 /ns 3	 , [从/p, 爱知县/ns, 到/v, 东
+台东 /ns 2	 东京/nsf, 台东/ns, 区/n, 的
+吉祥寺 /ns 2	 n, 在/p, 吉祥寺/ns, 的/ude1
+江户 /ns 2	  ？/w], [江户/ns, 儿/ng, 
+北海道 /ns 2	 , [从/p, 北海道/nsf, 到/v, 
+南区 /ns 2	  跟踪/vn, 南区/ns, 的/ude1
+爱知 /ns 2	  ？/w], [爱知/ns, 县/n, 的
+张得 /ns 2	 1, 嘴/n, 张得/ns, 老大/n, 
+关西 /ns 2	 , 在用/b, 关西/ns, 方言/n, 
+二天门 /ns 2	 r, 向/p, 二天门/ns, 走去/v, 
+九州 /ns 2	 f, 到/v, 九州/ns, ，/w], 
+东京都 /ns 2	 , [“/w, 东京都/nsf, 知事/nn
+朝外 /ns 2	  ，/w], [朝外/ns, 跌/v, 了
+港北区 /ns 1	 横滨市/nz, 港北区/ns, ，/w], 
+河内 /ns 1	 i, “/w, 河内/nsf, 松原/ns
+非洲 /ns 1	  深入/ad, 非洲/nsf, 腹地/n,
+上香 /ns 1	 , 他/rr, 上香/ns, 。/w], 
+黑帮 /ns 1	 的/ude1, 黑帮/ns, 片中/s, 
+上大路 /ns 1	 r, 跑/v, 上大路/ns, 时/qt, 
+太行 /ns 1	 z, 不/d, 太行/ns, 。/w], 
+大青 /ns 1	 v, 条/q, 大青/ns, 虫/n, 。
+美国 /ns 1	 l, 从/p, 美国/nsf, 来到/v,
+亚洲 /ns 1	 i, 到/v, 亚洲/ns, 的/ude1
+大山 /ns 1	 m, 座/q, 大山/ns, ，/w], 
+德国 /ns 1	 , [由/p, 德国/nsf, 学者/nn
+向东 /ns 1	 r, 曾/d, 向东/ns, 条/q, 淳
+和歌山 /ns 1	  出生/vi, 和歌山/ns, 的/ude1
+之岛 /ns 1	 w, 中/f, 之岛/ns, 的/ude1
+新开 /ns 1	 是/vshi, 新开/ns, 了/ule,
+吉打 /ns 1	 , [日/b, 吉打/ns, 完/vi, 
+上都 /ns 1	 , [信/n, 上都/ns, 没写/v, 
+葫芦岛 /ns 1	 的/ude1, 葫芦岛/ns, 》/w, ，
+花钱买 /ns 1	 , 没有/v, 花钱买/ns, ，/w], 
+大城 /ns 1	 的/ude1, 大城/ns, 市/n, 不
+夏威夷 /ns 1	 是/vshi, 夏威夷/nsf, ，/w],
+下站 /ns 1	 , 楼梯/n, 下站/ns, 着/uzhe
+山南 /ns 1	 , [胜/v, 山南/ns, 区/n, 在
+上海 /ns 1	 , 手指/n, 上海/ns, 残留/vn,
+北海 /ns 1	 , 开到/v, 北海/ns, 道/qv, 
+阳新 /ns 1	 w, 山/n, 阳新/ns, 干线/n, 
+冲绳 /ns 1	 , 还是/c, 冲绳/nsf, ？/w],
+酒都 /ns 1	 /ulian, 酒都/ns, 不懂/v, 
+松原 /ns 1	 河内/nsf, 松原/ns, ”/w, 。
+静冈县 /ns 1	 , [在/p, 静冈县/ns, 御/vg, 
+上野 /ns 1	 , [在/p, 上野/ns, 下车/vi,
+向北 /ns 1	 , 逐渐/d, 向北/ns, 盛放/nz,
+纽约 /ns 1	 v, ‘/w, 纽约/nsf, 狂徒/nz
+上站 /ns 1	 , 长椅/n, 上站/ns, 起身/vi,
+绷起 /ns 1	 m, 鹤/n, 绷起/ns, 了/ule,
+即将来临 /ns 1	 , 瞬间/n, 即将来临/ns, 。/w], 
+南美洲 /ns 1	 , 和/cc, 南美洲/nsf, 的/ude
+可和 /ns 1	 n, 便/d, 可和/ns, 全世界/n,
+神户 /ns 1	 q, 在/p, 神户/ns, 的/ude1
+神奈川县 /ns 1	 b, 在/p, 神奈川县/ns, 横滨市/nz
+桥前 /ns 1	  转向/vi, 桥前/ns, 左侧/f, 
+东海 /ns 1	 v, 在/p, 东海/ns, 道/qv, 
+成田 /ns 1	 n, 前/f, 成田/ns, 的/ude1
+名护 /ns 1	 i, 一/m, 名护/ns, 士/ng, 
+英国 /ns 1	 着/uzhe, 英国/ns, 比/p, 吉
+搞了 /ns 1	 , 你/rr, 搞了/ns, 鬼/n, 。

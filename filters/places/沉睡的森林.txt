@@ -1,0 +1,45 @@
+加贺 /ns 707	 , [“/w, 加贺/ns, ，/w], 
+纽约 /ns 74	  了/ule, 纽约/nsf, 。/w],
+日本 /ns 32	  ，/w], [日本/ns, 人/n, 罕
+清美 /ns 21	  带着/vn, 清美/ns, 到/v, 了
+美国 /ns 19	  了/ule, 美国/nsf, 他/rr,
+王子 /ns 18	 , 和/cc, 王子/ns, 一起/s, 
+东京 /ns 11	  了/ule, 东京/nsf, 的/ude
+精灵 /ns 7	  紫丁香/n, 精灵/ns, 的/ude1
+波斯 /ns 7	 卡拉/nrf, 波斯/ns, 登场/vi,
+天鹅湖 /ns 7	 1, ‘/w, 天鹅湖/ns, ’/w, 。
+上完 /ns 5	 n, ：/w, 上完/ns, 练习/v, 
+横滨 /ns 4	 的/ude1, 横滨/ns, 公演/v, 
+内村 /ns 4	 , 叫做/v, 内村/ns, 的/ude1
+上都 /ns 4	  合照/nz, 上都/ns, 有/vyou
+台站 /ns 4	 c, 见/v, 台站/ns, 。/w], 
+埼玉县 /ns 3	 v, 在/p, 埼玉县/ns, ，/w], 
+三明 /ns 3	 的/ude1, 三明/ns, 治/v, 缓
+夏天 /ns 2	 的/ude1, 夏天/ns, 。/w], 
+小田 /ns 2	 , 趟/qv, 小田/ns, 快/a, 线
+中野 /ns 2	 /nis], [中野/ns, ’/w, 。
+吉祥寺 /ns 2	 , 位于/v, 吉祥寺/ns, 的/ude1
+街道 /ns 2	 的/ude1, 街道/ns, 上/f, 往
+壶里 /ns 2	 , 生水/n, 壶里/ns, 装/v, 的
+波士顿 /ns 2	  了/ule, 波士顿/nsf, 和/cc,
+里加 /ns 2	  这/rzv, 里加/ns, 贺看/nr,
+加拿大 /ns 2	 , 和/cc, 加拿大/nsf, 。/w],
+上站 /ns 2	 , 凳子/n, 上站/ns, 起来/vf,
+费城 /ns 2	 , 和/cc, 费城/ns, ，/w], 
+小亭子 /ns 1	 的/ude1, 小亭子/ns, ，/w], 
+神奈川 /ns 1	 n, 在/p, 神奈川/ns, 的/ude1
+中藏 /ns 1	 , 花束/n, 中藏/ns, 有/vyou
+之遥 /ns 1	 , 站/vi, 之遥/ns, ，/w], 
+天都 /ns 1	  第二/mq, 天都/ns, 不休息/v,
+大道 /ns 1	 的/ude1, 大道/ns, 上/f, ，
+静冈 /ns 1	  出生于/v, 静冈/ns, ，/w], 
+澳大利亚 /ns 1	  了/ule, 澳大利亚/nsf, ，/w],
+女生宿舍 /ns 1	 , 就是/v, 女生宿舍/ns, 的/ude1
+满大街 /ns 1	 n, 可/v, 满大街/ns, 都/d, 是
+清原 /ns 1	 , 看看/v, 清原/ns, 的/ude1
+小悟 /ns 1	  。/w], [小悟/ns, ，/w], 
+意大利 /ns 1	 , 不懂/v, 意大利/nsf, 餐/qv,
+印度 /ns 1	 , 想到/v, 印度/nsf, 美女/n,
+后很 /ns 1	 , 回来/v, 后很/ns, 有/vyou
+向海 /ns 1	 , 面/nf, 向海/ns, 岸/n, 的
+不存在 /ns 1	 d, 又/d, 不存在/ns, 袒护/v, 

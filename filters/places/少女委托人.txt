@@ -1,0 +1,20 @@
+中野 /ns 41	 /nnt], [中野/ns], [修/v]
+伊豆 /ns 8	 w, 到/v, 伊豆/ns, 去/vf, 
+中山 /ns 4	 , 妹夫/n, 中山/ns, 二郎/n, 
+大营 /ns 4	 m, 在/p, 大营/ns, 通商/vn,
+东京 /ns 2	 , 是从/v, 东京/nsf, 来/vf,
+吉祥寺 /ns 2	 n, 到/v, 吉祥寺/ns, 去/vf, 
+一公司 /ns 1	 , 公/ng, 一公司/ns, 去/vf, 
+太黑 /ns 1	 , 长发/n, 太黑/ns, 了/ule,
+酒都 /ns 1	 的/ude1, 酒都/ns, 洒/vi, 
+后见 /ns 1	  出来/vf, 后见/ns, 了/ule,
+静冈县 /ns 1	 的/ude1, 静冈县/ns, 警察局/ni
+高田 /ns 1	 , 和/cc, 高田/ns, 百合/nf,
+蒙上 /ns 1	 r, 又/d, 蒙上/ns, 了/ule,
+日本 /ns 1	 本地/rzs, 日本/ns, 人/n, 的
+天等 /ns 1	 o, 两/m, 天等/ns, 他/rr, 
+台子上 /ns 1	 , 摆在/v, 台子上/ns, 的/ude1
+上站 /ns 1	 , 椅子/n, 上站/ns, 了/ule,
+开远 /ns 1	 , 车子/n, 开远/ns, 了/ule,
+天都 /ns 1	 , 当时/t, 天都/ns, 黑/a, 了
+向道 /ns 1	 n, 还/d, 向道/ns, 代/q, 借

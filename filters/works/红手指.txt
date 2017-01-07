@@ -1,0 +1,35 @@
+警察 /nn 92	  了/ule, 警察/nnt, 这/rzv
+刑警 /nn 30	 , 辖区/n, 刑警/nnt, 牧村/n,
+警官 /nn 22	 m, 名/q, 警官/nnt, ，/w],
+护士 /nn 17	 l, 挨/v, 护士/nnt, 小姐/n,
+医生 /nn 12	  。/w], [医生/nnt, 说/v, 
+主任 /nn 9	 , 资深/b, 主任/nnt, 小林/nr
+罪犯 /nn 6	 , 就是/v, 罪犯/nnd, ，/w],
+股长 /nn 6	 , 虽然/c, 股长/nnt, 还没来/n
+售货员 /nn 5	 1, 女/b, 售货员/nnt, 微笑/vi
+职员 /nn 4	 公司/nis, 职员/nnt, ，/w],
+警探 /nn 4	 , 前辈/n, 警探/nnd, 到处跑/v
+公主 /nn 3	 , 超级/b, 公主/nnd, ’/w, 
+初中生 /nn 3	 d, 个/q, 初中生/nnd, ，/w],
+学生 /nn 3	 /ude1, 中学生/nnd, 乐得/v,
+中学生 /nn 3	 的/ude1, 中学生/nnd, 乐得/v,
+小学生 /nn 3	 m, 个/q, 小学生/nnd, 模样/n,
+老师 /nn 2	  [虽然/c, 老师/nnt, 警告/vn
+家庭主妇 /nn 2	 的/ude1, 家庭主妇/nnd, 凶杀案/n
+厨师 /nn 1	 是/vshi, 厨师/nnt, 。/w],
+代表 /nn 1	  你们/rr, 代表/nnt, 她/rr,
+法官 /nn 1	 , 交给/v, 法官/nnt, 来/vf,
+制造商 /nn 1	 , 器材/n, 制造商/nnd, ，/w],
+科员 /nn 1	 的/ude1, 科员/nnt, 。/w],
+营业员 /nn 1	  ，/w], [营业员/nnt, 说不定/v
+顾问 /nn 1	 , 担当/v, 顾问/nnt, 。/w],
+冠军 /nn 1	 的/ude1, 冠军/nnt, 奖杯/n,
+科长 /nn 1	 的/ude1, 科长/nnt, 指导/vn
+作者 /nn 1	 n, 》/w, 作者/nnt, ：/w, 
+司机 /nn 1	 , 招呼/v, 司机/nnt, 停下/v,
+服务员 /nn 1	 的/ude1, 服务员/nnt, 看/v, 
+警员 /nn 1	 d, 名/q, 警员/nnt, 似乎/d,
+战士 /nn 1	  VR/nx, 战士/nnt, 》/w, 
+负责人 /nn 1	 , 街区/n, 负责人/nnt, 。/w],
+署长 /nn 1	  了/ule, 署长/nnt, ，/w],
+鼓手 /nn 1	  狂热/an, 鼓手/nnt, 》/w, 

@@ -1,0 +1,83 @@
+大夫 /nn 69	 [新岛/ns, 大夫/nnt, 忽然/d,
+学生 /nn 62	 , 年轻/a, 学生/nnt, ，/w],
+会长 /nn 49	  岛田/nz, 会长/nnt, 说/v, 
+教师 /nn 46	 的/ude1, 教师/nnt, 聚会/vi
+护士 /nn 44	  。/w], [护士/nnt, 把/pba
+棒球 /nn 29	 , 职业/n, 棒球/nnd, 选手/n,
+老师 /nn 25	 , 保健/n, 老师/nnt, 那里/rz
+相扑 /nn 25	 z, 大/a, 相扑/nnd, 转播/vn
+警察 /nn 22	 , 当了/p, 警察/nnt, ？/w],
+科学家 /nn 13	  [经过/p, 科学家/nnt, 的/ude
+主持人 /nn 9	 的/ude1, 主持人/nnt, 介绍/v,
+投手 /nn 9	 p, 右/f, 投手/nnt, 慢/a, 
+作家 /nn 8	  。/w], [作家/nnt, 从/p, 
+科长 /nn 7	 , 饭桶/n, 科长/nnt, 今天/t,
+司机 /nn 7	  出租车/n, 司机/nnt, 敬而远之/
+医生 /nn 6	 的/ude1, 医生/nnt, 。/w],
+会员 /nn 6	 1, 女/b, 会员/nnt, 找/v, 
+经纪人 /nn 6	 是/vshi, 经纪人/nnt, ，/w],
+主角 /nn 5	 的/ude1, 主角/nnt, 。/w],
+店员 /nn 4	  。/w], [店员/nnt, 小姐/n,
+编辑 /nn 4	  颇受/nz, 编辑/nnt, 好评/n,
+记者 /nn 4	 n, 向/p, 记者/nnt, 发表/v,
+助理 /nn 4	 , 和/cc, 助理/nnt, 惊得/nz
+教练 /nn 4	  ，/w], [教练/nnt, 显得/v,
+冠军 /nn 3	 加赛一场/n, 冠军/nnt, 争夺战/n
+干事 /nn 3	 m, 任/v, 干事/nnt, 便/d, 
+裁判 /nn 3	  ，/w], [裁判/nnt, 宣布/v,
+主任 /nn 3	  教导/vn, 主任/nnt, ，/w],
+厂商 /nn 3	 , 电源/n, 厂商/nnd, 签约/vi
+球探 /nn 3	 , 职棒/n, 球探/nnt, 的/ude
+代表 /nn 3	 的/ude1, 代表/nnt, 。/w],
+成员 /nn 3	 d, 社/n, 成员/nnt, 清一色/b
+班主任 /nn 2	  。/w], [班主任/nnt, 山羊/n,
+数学教师 /nn 2	 w, 前/f, 数学教师/nnt, 内藤/n,
+负责人 /nn 2	 , [让/v, 负责人/nnt, 以外/f,
+老板 /nn 2	 [珠宝店/n, 老板/nnt, 不解/v,
+研究专家 /nn 2	 [那些/rz, 研究专家/nnd, 中/f, 
+推销员 /nn 2	 是/vshi, 推销员/nnt, 之类/rz
+女招待 /nn 2	 有/vyou, 女招待/nnd, 领着/v,
+职员 /nn 2	 公司/nis, 职员/nnt, ，/w],
+专家 /nn 2	  研究/vn, 专家/nnt, 的/ude
+明星 /nn 2	 , 成为/v, 明星/nnd, ，/w],
+社长 /nn 2	 /ulian, 社长/nnt, 杯/ng,
+校长 /nn 2	 , [在/p, 校长/nnt, 的/ude
+演员 /nn 2	 , 这位/r, 演员/nnt, ，/w],
+博士 /nn 1	 相扑/nnd, 博士/nnt, ，/w],
+工人 /nn 1	 , 旁边/f, 工人/nnt, 摸/v, 
+走卒 /nn 1	 的/ude1, 走卒/nnd, 或/c, 
+开发商 /nn 1	  ，/w], [开发商/nnd, 吹/v, 
+漫画家 /nn 1	  日本/ns, 漫画家/nnt, 长谷川/n
+理发师 /nn 1	  ，/w], [理发师/nnd, 问/v, 
+顾问 /nn 1	 , 作为/p, 顾问/nnt, 一道/d,
+裁缝 /nn 1	  [他用/n, 裁缝/nnt, 用/p, 
+研究者 /nn 1	  [作为/p, 研究者/nnt, ，/w],
+国王 /nn 1	 的/ude1, 国王/nnt, ，/w],
+主力 /nn 1	 的/ude1, 主力/nnt, 投手/nn
+神仙 /nn 1	 v, 就/d, 神仙/nnd, 也/d, 
+服务生 /nn 1	  ，/w], [服务生/nnd, 看到/v,
+售票员 /nn 1	  。/w], [售票员/nnd, 回答/v,
+经营者 /nn 1	 的/ude1, 经营者/nnt, 。/w],
+大学生 /nn 1	 i, 个/q, 大学生/nnt, ，/w],
+董事 /nn 1	 的/ude1, 董事/nnt, 汇报/vn
+建筑学家 /nn 1	 , [以/p, 建筑学家/nnd, 为首/vi
+司仪 /nn 1	 , [当/p, 司仪/nnt, 说出/v,
+画家 /nn 1	 t, 、/w, 画家/nnt, 托/v, 
+工作人员 /nn 1	 视台/nis, 工作人员/nnt, 也/d, 
+副部长 /nn 1	 的/ude1, 副部长/nnt, 。/w],
+家庭主妇 /nn 1	 [我们/rr, 家庭主妇/nnd, 可是/c,
+模特 /nn 1	 , 儿童/n, 模特/nnt, 甄选/v,
+组长 /nn 1	 s, 写/v, 组长/nnt, 日志/n,
+长官 /nn 1	 着/uzhe, 长官/nnt, 的/ude
+高中生 /nn 1	 本年度/nz, 高中生/nnd, 选秀/vi
+队员 /nn 1	  正式/ad, 队员/nnt, ，/w],
+总教练 /nn 1	 的/ude1, 总教练/nnt, 。/w],
+小学生 /nn 1	 的/ude1, 小学生/nnd, 欠身/v,
+大臣 /nn 1	 p, 上/f, 大臣/nnt, ，/w],
+证人 /nn 1	 , 根据/p, 证人/nnt, 的/ude
+拳王 /nn 1	 w, 小/a, 拳王/nnd, 》/w, 
+主播 /nn 1	 的/ude1, 主播/nnt, ，/w],
+苦行僧 /nn 1	 d, 像/v, 苦行僧/nnd, 。/w],
+橄榄球 /nn 1	 n, 或/c, 橄榄球/nnd, 比赛/vn
+侠客 /nn 1	 , 一身/n, 侠客/nnd, 装束/n,
+骑手 /nn 1	  ，/w], [骑手/nnd, 们/k, 

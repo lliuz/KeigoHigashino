@@ -1,0 +1,56 @@
+刑警 /nn 77	 m, 名/q, 刑警/nnt, 的/ude
+老师 /nn 64	  南泽/nr, 老师/nnt, 。/w],
+学生 /nn 55	 s, 在/p, 学生/nnt, 餐厅/ni
+管理员 /nn 42	  那/rzv, 管理员/nnt, 说/v, 
+老板 /nn 34	 i, 换/v, 老板/nnt, 。/w],
+警察 /nn 25	 w, “/w, 警察/nnt, ……/w]
+社员 /nn 20	 的/ude1, 社员/nnt, 正在/d,
+冠军 /nn 17	  了/ule, 冠军/nnt, 。/w],
+警官 /nn 17	 m, 位/q, 警官/nnt, 学习/v,
+教授 /nn 13	  那些/rz, 教授/nnt, 很严/d,
+主将 /nn 10	 的/ude1, 主将/nnt, 。/w],
+教师 /nn 7	 v, 当/p, 教师/nnt, 时/qt,
+成员 /nn 7	 的/ude1, 成员/nnt, 。/w],
+裁判 /nn 6	 m, 名/q, 裁判/nnt, ，/w],
+代表 /nn 5	  [红旗/n, 代表/nnt, 波/n, 
+负责人 /nn 5	 谊会/nis, 负责人/nnt, 的/ude
+社长 /nn 4	 , 前任/b, 社长/nnt, 。/w],
+医生 /nn 3	 w, “/w, 医生/nnt, 检查/vn
+明星 /nn 3	 的/ude1, 明星/nnd, 海报/n,
+店主 /nn 3	  。/w], [店主/nnd, 一/m, 
+侦探 /nn 3	 p, 玩/v, 侦探/nnd, 游戏/n,
+董事 /nn 2	 的/ude1, 董事/nnt, ，/w],
+女警 /nn 2	 的/ude1, 女警/nnt, 走进/v,
+顾问 /nn 2	 的/ude1, 顾问/nnt, 。/w],
+研究生 /nn 2	 r, 从/p, 研究生/nnt, 变成/v,
+大学生 /nn 2	 , T/nx, 大学生/nnt, 而/cc,
+主审 /nn 2	  [包括/v, 主审/nnt, 在内/u,
+队员 /nn 2	  几组/nz, 队员/nnt, 正/d, 
+助教 /nn 2	  ，/w], [助教/nnt, 川村登纪子
+说客 /nn 1	 c, 在/p, 说客/nnd, 套话/n,
+知识分子 /nn 1	 , [“/w, 知识分子/nnd, 就是/v,
+学者 /nn 1	  一个/mq, 学者/nnt, 说/v, 
+店员 /nn 1	 被/pbei, 店员/nnt, 记住/v,
+大校 /nn 1	 , T/nx, 大校/nnt, 门口/s,
+国手 /nn 1	 c, ‘/w, 国手/nnd, ’/w, 
+管理人 /nn 1	 , 担心/v, 管理人/nnt, 的/ude
+副将 /nn 1	  田和/nr, 副将/nnt, 筒井/nz
+服务生 /nn 1	 的/ude1, 服务生/nnd, 离开/v,
+公主 /nn 1	 m, 副/b, 公主/nnd, 的/ude
+助手 /nn 1	 的/ude1, 助手/nnt, 席/qt,
+导师 /nn 1	 的/ude1, 导师/nnt, 。/w],
+证人 /nn 1	 q, 个/q, 证人/nnt, 。/w],
+司仪 /nn 1	 , [当/p, 司仪/nnt, 喊着/v,
+棒球 /nn 1	 , 软式/n, 棒球/nnd, ，/w],
+侍者 /nn 1	 k, 跟/p, 侍者/nnt, 说/v, 
+所长 /nn 1	 , 身上/s, 所长/nnt, 的/ude
+打手 /nn 1	 的/ude1, 打手/nnt, ，/w],
+工作人员 /nn 1	 的/ude1, 工作人员/nnt, 来/vf,
+职员 /nn 1	 的/ude1, 职员/nnt, 。/w],
+高中生 /nn 1	 , 适合/v, 高中生/nnd, 。/w],
+专家 /nn 1	 是/vshi, 专家/nnt, 。/w],
+首脑 /nn 1	 的/ude1, 首脑/nnt, 嘛/y, 
+橄榄球 /nn 1	  。/w], [橄榄球/nnd, 社/n, 
+教练 /nn 1	 , 去向/n, 教练/nnt, 道歉/vi
+团员 /nn 1	 的/ude1, 团员/nnt, ，/w],
+歌星 /nn 1	 , 影/ng, 歌星/nnd, 消息/n,

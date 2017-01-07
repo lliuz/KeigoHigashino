@@ -1,0 +1,100 @@
+警察 /nn 203	  。/w], [警察/nnt, 逐一/d,
+社长 /nn 70	 , 既然/c, 社长/nnt, 这样/rz
+店员 /nn 49	  ，/w], [店员/nnt, 们/k, 
+美容师 /nn 33	 , [“/w, 美容师/nnt, 。/w],
+老板 /nn 32	  建筑队/n, 老板/nnt, 、/w, 
+老师 /nn 24	  ？/w], [老师/nnt, 和/cc,
+司机 /nn 20	 v, 让/v, 司机/nnt, 确认/v,
+学生 /nn 18	  低年级/n, 学生/nnt, ，/w],
+职员 /nn 18	 的/ude1, 职员/nnt, 。/w],
+工作人员 /nn 16	 政府/nis, 工作人员/nnt, 模样/n,
+工人 /nn 16	 , 还有/v, 工人/nnt, 的/ude
+负责人 /nn 15	 , 找到/v, 负责人/nnt, 。/w],
+董事 /nn 12	 的/ude1, 董事/nnt, 把/pba
+部长 /nn 11	 的/ude1, 部长/nnt, ，/w],
+艺人 /nn 11	 , 分/qt, 艺人/nnt, 的/ude
+服务员 /nn 11	 过/uguo, 服务员/nnt, ，/w],
+老板娘 /nn 9	 , [”/w, 老板娘/nnd, 自豪/a,
+服务生 /nn 7	  了/ule, 服务生/nnd, 。/w],
+消防队员 /nn 6	 , 不见/v, 消防队员/nnd, 的/ude
+侍者 /nn 6	  。/w], [侍者/nnt, 走/v, 
+罪犯 /nn 6	  。/w], [罪犯/nnd, 也/d, 
+技术人员 /nn 6	  [需要/v, 技术人员/nnt, 、/w, 
+临时工 /nn 5	 是/vshi, 临时工/nnd, 。/w],
+经营者 /nn 5	 t, 、/w, 经营者/nnt, 和/cc,
+模特儿 /nn 4	 的/ude1, 模特儿/nnt, 。/w],
+组长 /nn 4	  了/ule, 组长/nnt, 的/ude
+演员 /nn 4	 f, 当/p, 演员/nnt, 。/w],
+会员 /nn 4	 , 额度/n, 会员/nnt, ，/w],
+女佣 /nn 3	 m, 名/q, 女佣/nnd, ，/w],
+主任 /nn 3	 , 又是/c, 主任/nnt, 。/w],
+侦查员 /nn 3	 的/ude1, 侦查员/nnt, 来到/v,
+助手 /nn 3	  ，/w], [助手/nnt, 走过/v,
+警官 /nn 3	 [加藤/nz, 警官/nnt, 。/w],
+店主 /nn 3	  [看来/v, 店主/nnd, 也/d, 
+牙医 /nn 3	 f, 看/v, 牙医/nnd, 了/ule
+制造者 /nn 3	  [听说/v, 制造者/nnd, 是/vsh
+设计者 /nn 3	 的/ude1, 设计者/nnt, ……/w]
+班主任 /nn 3	 的/ude1, 班主任/nnt, 。/w],
+局长 /nn 3	 的/ude1, 局长/nnt, 打/v, 
+家庭主妇 /nn 3	 , 普通/a, 家庭主妇/nnd, 或许/d,
+志愿者 /nn 3	 是/vshi, 志愿者/nnt, ，/w],
+企业家 /nn 3	 的/ude1, 企业家/nnt, 。/w],
+侦探 /nn 3	 z, 雇/v, 侦探/nnd, 什么/ry
+实习生 /nn 2	 , 挂着/v, 实习生/nnt, 的/ude
+刑警 /nn 2	  ，/w], [刑警/nnt, 们/k, 
+副驾驶 /nn 2	 , 坐在/v, 副驾驶/nnt, 座/q, 
+专家 /nn 2	 的/ude1, 专家/nnt, ，/w],
+小学生 /nn 2	 /ulian, 小学生/nnd, 都/d, 
+高官 /nn 2	 政府/nis, 高官/nnt, 要/v, 
+店长 /nn 2	 的/ude1, 店长/nnt, 就是/v,
+管理员 /nn 2	 , 物业/n, 管理员/nnt, 的/ude
+雇主 /nn 2	 的/ude1, 雇主/nnd, 与/cc,
+消防员 /nn 2	 是/vshi, 消防员/nnd, 。/w],
+首相 /nn 2	  。/w], [首相/nnt, 都/d, 
+无业游民 /nn 2	 的/ude1, 无业游民/nnd, 。/w],
+投资人 /nn 2	 的/ude1, 投资人/nnd, 。/w],
+播音员 /nn 2	 , 配上/v, 播音员/nnt, 兴奋/a,
+厨师 /nn 1	 , 和/cc, 厨师/nnt, 一样/uy
+学者 /nn 1	 的/ude1, 学者/nnt, 也/d, 
+议员 /nn 1	 v, 前/f, 议员/nnt, 。/w],
+总经理 /nn 1	 , 企业/n, 总经理/nnt, 小谷信二/
+零售商 /nn 1	 1, 小/a, 零售商/nnd, ，/w],
+代表 /nn 1	 f, 为/p, 代表/nnt, 的/ude
+科长 /nn 1	 的/ude1, 科长/nnt, 。/w],
+警卫 /nn 1	 , 好听/a, 警卫/nnt, 了/ule
+作者 /nn 1	  》/w], [作者/nnt, ：/w, 
+工匠 /nn 1	 , 像是/v, 工匠/nnd, 的/ude
+工学博士 /nn 1	 , 航空/n, 工学博士/nnd, ，/w],
+董事长 /nn 1	 NOW/nx, 董事长/nnt, 新海/ns
+科学家 /nn 1	 是/vshi, 科学家/nnt, ，/w],
+画家 /nn 1	 , 成为/v, 画家/nnt, ，/w],
+业务员 /nn 1	 公司/nis, 业务员/nnt, 的/ude
+记者 /nn 1	  。/w], [记者/nnt, 和/cc,
+制作人 /nn 1	 , 和/cc, 制作人/nnt, 的/ude
+会长 /nn 1	 n, 内/f, 会长/nnt, 。/w],
+债主 /nn 1	 被/pbei, 债主/nnd, 追/v, 
+批发商 /nn 1	 , 所有/b, 批发商/nnd, 的/ude
+高中生 /nn 1	 是/vshi, 高中生/nnd, 了/ule
+社员 /nn 1	 商社/nis, 社员/nnt, ，/w],
+译者 /nn 1	 /nrj], [译者/nnt, :/w],
+邮递员 /nn 1	 d, 像/v, 邮递员/nnt, ，/w],
+律师 /nn 1	 d, 雇/v, 律师/nnt, 。/w],
+主持人 /nn 1	 闻节目/nz, 主持人/nnt, 依然/d,
+学徒 /nn 1	 容店/nis, 学徒/nnt, 遇袭/nz
+导演 /nn 1	 , [能/v, 导演/nnt, 出/vf,
+工作者 /nn 1	 , [对/p, 工作者/nnt, 有/vyo
+医生 /nn 1	 w, 找/v, 医生/nnt, 看看/v,
+女王 /nn 1	  雪国/nz, 女王/nnt, 。/w],
+制造商 /nn 1	 , 飞机/n, 制造商/nnd, 共同/d,
+调查员 /nn 1	 的/ude1, 调查员/nnt, ，/w],
+雇工 /nn 1	 , 与/cc, 雇工/nnd, 的/ude
+船长 /nn 1	 v, 当/p, 船长/nnt, 的/ude
+主角 /nn 1	  ，/w], [主角/nnt, 是/vsh
+女演员 /nn 1	 是/vshi, 女演员/nnd, 。/w],
+佣人 /nn 1	 n, 让/v, 佣人/nnd, 们/k, 
+作家 /nn 1	 f, 女/b, 作家/nnt, 玛格丽特·
+枪手 /nn 1	 有/vyou, 枪手/nnd, 。/w],
+中学生 /nn 1	 有/vyou, 中学生/nnd, 水平/n,
+向导 /nn 1	 v, 当/p, 向导/nnt, 。/w],
+使者 /nn 1	 的/ude1, 使者/nnt, 在/p, 

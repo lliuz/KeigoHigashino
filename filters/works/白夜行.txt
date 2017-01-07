@@ -1,0 +1,100 @@
+警察 /nn 204	 大阪/nsf, 警察/nnt, 本部/n,
+老师 /nn 61	  。/w], [老师/nnt, 们/k, 
+学生 /nn 58	 的/ude1, 学生/nnt, 。/w],
+老板 /nn 53	 的/ude1, 老板/nnt, 。/w],
+社长 /nn 40	 n, 社/n, 社长/nnt, ，/w],
+社员 /nn 32	 的/ude1, 社员/nnt, 。/w],
+侦探 /nn 30	 , 通过/p, 侦探/nnd, 在/p, 
+刑警 /nn 27	 的/ude1, 刑警/nnt, 。/w],
+店员 /nn 23	  。/w], [店员/nnt, 的/ude
+老板娘 /nn 20	 , [“/w, 老板娘/nnd, ，/w],
+服务生 /nn 18	 v, 女/b, 服务生/nnd, ，/w],
+董事 /nn 17	 , 药品/n, 董事/nnt, 的/ude
+调查员 /nn 16	 m, 名/q, 调查员/nnt, ，/w],
+常务董事 /nn 15	 的/ude1, 常务董事/nnt, ，/w],
+职员 /nn 14	 的/ude1, 职员/nnt, 。/w],
+高中生 /nn 13	 m, 个/q, 高中生/nnd, 的/ude
+药剂师 /nn 12	 是/vshi, 药剂师/nnt, 。/w],
+小学生 /nn 12	 , 不是/c, 小学生/nnd, 就是/v,
+营业员 /nn 12	 , 承办/v, 营业员/nnt, 。/w],
+医生 /nn 11	 , 叫/vi, 医生/nnt, 来/vf,
+女佣 /nn 10	  。/w], [女佣/nnd, 抱怨/v,
+助手 /nn 9	 1, 女/b, 助手/nnt, 说/v, 
+店长 /nn 9	 当铺/nis, 店长/nnt, ”/w, 
+科长 /nn 8	 , 和/cc, 科长/nnt, 的/ude
+女警 /nn 8	 的/ude1, 女警/nnt, 问道/vi
+代表 /nn 7	 , [便/d, 代表/nnt, 检验/vn
+制造商 /nn 7	 , 电玩/n, 制造商/nnd, 来说/ul
+专家 /nn 7	 , 所有/b, 专家/nnt, 跌破眼镜/
+成员 /nn 7	 案组/nis, 成员/nnt, 以/p, 
+主任 /nn 6	 的/ude1, 主任/nnt, 和/cc,
+负责人 /nn 6	  [既然/c, 负责人/nnt, 都/d, 
+技术人员 /nn 6	 , 叫/vi, 技术人员/nnt, 来/vf,
+教授 /nn 5	 , 臣/ng, 教授/nnt, 正在/d,
+组长 /nn 5	 是/vshi, 组长/nnt, 中/f, 
+大学生 /nn 5	 是/vshi, 大学生/nnt, 便/d, 
+店主 /nn 5	  [身为/v, 店主/nnd, 的/ude
+棒球 /nn 5	 m, 垒/v, 棒球/nnd, 开打/nz
+副驾驶 /nn 4	 , 坐在/v, 副驾驶/nnt, 座/q, 
+证人 /nn 4	 v, 当/p, 证人/nnt, ，/w],
+司机 /nn 4	  [交代/v, 司机/nnt, 到/v, 
+图书馆员 /nn 4	  。/w], [图书馆员/nnt, 戴着/v,
+管理员 /nn 4	 , 物业/n, 管理员/nnt, 来/vf,
+记者 /nn 3	 , 出现/v, 记者/nnt, 的/ude
+副教授 /nn 3	 的/ude1, 副教授/nnt, 慢条斯理/
+门卫 /nn 3	  [放在/v, 门卫/nnt, 前方/s,
+拳王 /nn 3	 w, 小/a, 拳王/nnd, 》/w, 
+家庭主妇 /nn 3	 的/ude1, 家庭主妇/nnd, 。/w],
+相扑 /nn 3	  转播/vn, 相扑/nnd, ，/w],
+工程师 /nn 3	 的/ude1, 工程师/nnt, 都/d, 
+教练 /nn 3	 广冈/nr, 总教练/nnt, 的/ude
+模特儿 /nn 3	 , 杂志/n, 模特儿/nnt, 打扮/v,
+初中生 /nn 2	 , 和/cc, 初中生/nnd, ，/w],
+厨师 /nn 2	 的/ude1, 厨师/nnt, ，/w],
+会计 /nn 2	 的/ude1, 会计/nnt, ，/w],
+明星 /nn 2	 , 偶像/n, 明星/nnd, 的/ude
+部长 /nn 2	 的/ude1, 部长/nnt, 突然/ad
+工作人员 /nn 2	  [告诉/v, 工作人员/nnt, 他们/rr
+女王 /nn 2	 , 真是/d, 女王/nnt, 。/w],
+皇后 /nn 2	 是/vshi, 皇后/nnd, 大酒店/n
+顾问 /nn 2	  经营/vn, 顾问/nnt, 专家系统/
+警官 /nn 2	 , 高级/a, 警官/nnt, ，/w],
+学员 /nn 2	 1, 女/b, 学员/nnt, 交往/vn
+研究生 /nn 2	  ，/w], [研究生/nnt, 美浓/ns
+厂商 /nn 2	  碳化物/n, 厂商/nnd, 太平洋/n
+副部长 /nn 2	 是/vshi, 副部长/nnt, 。/w],
+设计师 /nn 2	 , 室内/s, 设计师/nnt, 。/w],
+服务员 /nn 2	  [所幸/n, 服务员/nnt, 并不/d,
+医师 /nn 1	 , 和/cc, 医师/nnt, 们/k, 
+冠军 /nn 1	 , 获得/v, 冠军/nnt, 。/w],
+神仙 /nn 1	 , 似/vg, 神仙/nnd, ，/w],
+干事 /nn 1	 同业公会/n, 干事/nnt, 证实/v,
+资本家 /nn 1	 d, 为/p, 资本家/nnd, 的/ude
+教师 /nn 1	  了/ule, 教师/nnt, 办公室/n
+空姐 /nn 1	  [露出/v, 空姐/nnt, 般的/u,
+收费员 /nn 1	  拿着/vf, 收费员/nnd, 常用/a,
+食客 /nn 1	 , [跟/p, 食客/nnd, 没/d, 
+公司员工 /nn 1	 是/vshi, 公司员工/nnd, ，/w],
+奴隶 /nn 1	 n, 当/p, 奴隶/nnd, ，/w],
+商人 /nn 1	 , 卖给/v, 商人/nnt, 。/w],
+卖方 /nn 1	 , 知道/v, 卖方/nnd, 强力/n,
+导师 /nn 1	 的/ude1, 导师/nnt, 是/vsh
+牧师 /nn 1	 v, 听/v, 牧师/nnt, 讲道/nz
+搞笑艺人 /nn 1	  ，/w], [搞笑艺人/nnd, 正在/d,
+公主 /nn 1	  [拯救/v, 公主/nnd, 。/w],
+艺人 /nn 1	 /w], [搞笑艺人/nnd, 正在/d,
+候选人 /nn 1	 , 新娘/n, 候选人/nnt, 有/vyo
+驾驶员 /nn 1	 d, 说/v, 驾驶员/nnt, 经常/d,
+队员 /nn 1	 被/pbei, 队员/nnt, 抛起来/v
+武士 /nn 1	 , 古代/t, 武士/nnt, 般/uyy
+学者 /nn 1	 是/vshi, 学者/nnt, 般的/u,
+主事 /nn 1	 , 堂弟/n, 主事/nnt, 。/w],
+司令 /nn 1	 加坡/nsf, 司令/nnt, ”/w, 
+投资人 /nn 1	 的/ude1, 投资人/nnd, 不/d, 
+地主 /nn 1	 , 可是/c, 地主/nnd, 的/ude
+主持人 /nn 1	  [节目/n, 主持人/nnt, 进行/vn
+私人秘书 /nn 1	 的/ude1, 私人秘书/nnt, 了/ule
+牙医 /nn 1	 f, 看/v, 牙医/nnd, 了/ule
+工作者 /nn 1	 , 自由/a, 工作者/nnt, 身份/n,
+主力 /nn 1	 , 就是/v, 主力/nnt, 商品/n,
+信徒 /nn 1	 的/ude1, 信徒/nnd, ，/w],

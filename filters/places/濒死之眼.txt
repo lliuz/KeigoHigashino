@@ -1,0 +1,58 @@
+上原 /ns 28	 是/vshi, 上原/ns, 先生/n, 
+内春 /ns 27	 , 木/ng, 内春/ns, 彦/ng, 
+银座 /ns 19	 f, 在/p, 银座/ns, 工作/vn,
+东京 /ns 17	 , 来/vf, 东京/nsf, 了/ule
+日本 /ns 17	 i, 以/p, 日本/ns, 人/n, 为
+爱尔兰 /ns 12	 是/vshi, 爱尔兰/nsf, 奶油/n,
+中家 /ns 11	 f, 岸/n, 中家/ns, 探访/v, 
+不晓得 /ns 10	 r, 都/d, 不晓得/ns, 是否/v, 
+龙舌 /ns 5	 是/vshi, 龙舌/ns, 兰/ng, 
+三明 /ns 4	 , 呈现/v, 三明/ns, 治/v, 状
+大桥道 /ns 4	 v, 新/a, 大桥道/ns, ，/w], 
+夏威夷 /ns 4	 , 飞往/v, 夏威夷/nsf, 的/ude
+江东 /ns 3	 w, 在/p, 江东/ns, 区/n, 的
+上香 /ns 3	  过去/vf, 上香/ns, ，/w], 
+江东区 /ns 3	  [住在/v, 江东区/ns, 木场/nz,
+上站 /ns 3	 , 椅子/n, 上站/ns, 起来/vf,
+新桥 /ns 3	 , 放在/v, 新桥/ns, 站/vi, 
+英国 /ns 3	 , 与/cc, 英国/ns, 国王/nnt
+金泽 /ns 2	 s, 县/n, 金泽/ns, 。/w], 
+从江 /ns 2	 , [”/w, 从江/ns, 岛/n, 的
+石川 /ns 2	 , 住在/v, 石川/ns, 县/n, 的
+中央区 /ns 2	 是/vshi, 中央区/ns, 日本/ns,
+巴西 /ns 2	 着/uzhe, 巴西/nsf, 产/v, 
+大阪 /ns 1	 p, 在/p, 大阪/nsf, 开店/vi
+惹毛 /ns 1	 , 对方/n, 惹毛/ns, 的/ude1
+希腊 /ns 1	  统治/vn, 希腊/ns, 的/ude1
+内都 /ns 1	 , 周/qt, 内都/ns, 完全/ad,
+后所 /ns 1	  出院/vi, 后所/ns, 穿/v, 的
+哥伦比亚 /ns 1	 , 杯/ng, 哥伦比亚/nsf, 咖啡/nf
+神田 /ns 1	 q, 在/p, 神田/ns, 小川町/ns
+望江 /ns 1	 , [希/b, 望江/ns, 岛/n, 先
+绿都 /ns 1	  。/w], [绿都/ns, 已经/d, 
+上都 /ns 1	 , 照片/n, 上都/ns, 是/vshi
+将门 /ns 1	 , 里面/f, 将门/ns, 打开/v, 
+天都 /ns 1	 , 跟前/f, 天都/ns, 没/d, 请
+大城 /ns 1	  了/ule, 大城/ns, 市/n, 就
+街道 /ns 1	 的/ude1, 街道/ns, ，/w], 
+轻井泽 /ns 1	 , [在/p, 轻井泽/ns, 的/ude1
+灯一 /ns 1	  [打开/v, 灯一/ns, 看/v, ，
+汤头 /ns 1	 f, 店/n, 汤头/ns, 好喝/nz,
+大洞 /ns 1	 u, 个/q, 大洞/ns, ，/w], 
+中国 /ns 1	 d, 像/v, 中国/ns, 人/n, 的
+东阳街 /ns 1	 的/ude1, 东阳街/ns, 。/w], 
+北海 /ns 1	 是/vshi, 北海/ns, 道/qv, 
+富冈 /ns 1	 , 经过/p, 富冈/ns, 八幡/nz,
+美甲 /ns 1	 , 去/vf, 美甲/ns, 沙龙/nrf
+新店 /ns 1	 , 开始/v, 新店/ns, 的/ude1
+正定 /ns 1	  ，/w], [正定/ns, 睛/ng, 
+蒙上 /ns 1	 , 像是/v, 蒙上/ns, 一/m, 层
+大理 /ns 1	 的/ude1, 大理/ns, 石/ng, 
+上完 /ns 1	 是/vshi, 上完/ns, 厕所/n, 
+维也纳 /ns 1	  了/ule, 维也纳/nsf, 香肠/nf
+千叶 /ns 1	 v, 回/v, 千叶/ns, 的/ude1
+朝右边 /ns 1	 拉利/nrf, 朝右边/ns, 的/ude1
+爱知县 /ns 1	 是/vshi, 爱知县/ns, ，/w], 
+清江 /ns 1	 v, 不/d, 清江/ns, 岛/n, 的
+小川町 /ns 1	  神田/ns, 小川町/ns, ，/w], 
+不存在 /ns 1	 , 字眼/n, 不存在/ns, 的话/udh

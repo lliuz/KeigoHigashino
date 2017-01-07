@@ -1,0 +1,97 @@
+侦探 /nn 194	 1, 名/q, 侦探/nnd, 天下一/n
+作家 /nn 78	  日本/ns, 作家/nnt, 东野圭吾/
+警员 /nn 70	 的/ude1, 警员/nnt, 便/d, 
+作者 /nn 66	 被/pbei, 作者/nnt, 定为/v,
+警察 /nn 41	 , 县级/b, 警察/nnt], [本部长
+警官 /nn 28	 的/ude1, 警官/nnt, ，/w],
+配角 /nn 19	 的/ude1, 配角/nnt, 。/w],
+管理员 /nn 16	 是/vshi, 管理员/nnt, 室/n, 
+董事长 /nn 15	 的/ude1, 董事长/nnt, 。/w],
+主角 /nn 15	 j, 为/p, 主角/nnt, 侦探/nn
+女佣人 /nn 12	 d, 由/p, 女佣人/nnd, 带路/vi
+医生 /nn 11	 , 叫/vi, 医生/nnt, 来/vf,
+模特 /nn 9	 , 橱窗/n, 模特/nnt, 吗/y, 
+店员 /nn 8	 n, 从/p, 店员/nnt, 接过/v,
+村长 /nn 8	 是/vshi, 村长/nnt, 鲸/ng,
+秘书 /nn 8	 的/ude1, 秘书/nnt, 。/w],
+大学生 /nn 8	 , 女子/n, 大学生/nnt, 侦探/nn
+佣人 /nn 8	 是/vshi, 佣人/nnd, ，/w],
+专家 /nn 7	 理小说/nz, 专家/nnt, 好像/v,
+服务员 /nn 7	 , 与/cc, 服务员/nnt, 交谈/vi
+司机 /nn 6	 , 一下/m, 司机/nnt, ——/w,
+画师 /nn 6	 [牛神/nr, 画师/nnt, 好像/v,
+神父 /nn 6	 , 文/ng, 神父/nnt, 。/w],
+学生 /nn 6	 , 年级/n, 学生/nnt, ，/w],
+代表 /nn 5	 , 作为/p, 代表/nnt, 、/w, 
+职员 /nn 5	  服务台/n, 职员/nnt, 的/ude
+成员 /nn 5	 究会/nis, 成员/nnt, ，/w],
+律师 /nn 4	 过/uguo, 律师/nnt, ，/w],
+冒险家 /nn 4	 m, 名/q, 冒险家/nnd, 吧/y, 
+演员 /nn 4	  [根据/p, 演员/nnt, 来猜/nz
+负责人 /nn 3	 , 最高/a, 负责人/nnt, 。/w],
+译者 /nn 3	 c, 当/p, 译者/nnt, 把/pba
+导演 /nn 3	 , 电影/n, 导演/nnt, 的/ude
+公主 /nn 3	 的/ude1, 公主/nnd, 遇到/v,
+工程师 /nn 3	  是因为/c, 工程师/nnt, 出身/v,
+女佣 /nn 2	 是/vshi, 女佣/nnd, 、/w, 
+教师 /nn 2	 /nrj], [教师/nnt, 花冈/nr
+前卫 /nn 2	 , 更为/d, 前卫/nnt, 的/ude
+和尚 /nn 2	 的/ude1, 和尚/nnt, 死/v, 
+署长 /nn 2	 是/vshi, 署长/nnt, ，/w],
+职业作家 /nn 2	 的/ude1, 职业作家/nnd, 的/ude
+高中生 /nn 2	 , 和/cc, 高中生/nnd, 占据/v,
+店长 /nn 2	 觉得/v], [店长/nnt, 的/ude
+新闻记者 /nn 2	 , 和/cc, 新闻记者/nnt, ，/w],
+制造商 /nn 2	 , 药品/n, 制造商/nnd, 。/w],
+评论家 /nn 2	 , [据/p, 评论家/nnt, 说/v, 
+老师 /nn 2	  向忍/nr, 老师/nnt, 说/v, 
+歌舞伎 /nn 2	 , 关于/p, 歌舞伎/nnd, 和/cc,
+小说家 /nn 2	 , 历史/n, 小说家/nnd, 及/cc,
+大师 /nn 2	 , 油画/n, 大师/nnt, ，/w],
+厨子 /nn 2	  兼/v], [厨子/nnd, 青/a, 
+间谍 /nn 1	  了/ule, 间谍/nnt, 小说/n,
+旗手 /nn 1	 z, 格/b, 旗手/nnt, 之/uzh
+乘务员 /nn 1	 , 客机/n, 乘务员/nnd, 的/ude
+总编辑 /nn 1	 n, 》/w, 总编辑/nnt, ）/w],
+巡捕 /nn 1	  [改做/v, 巡捕/nnd, ，/w],
+技师 /nn 1	 的/ude1, 技师/nnt, ，/w],
+摄影师 /nn 1	 的/ude1, 摄影师/nnt, ，/w],
+刑警 /nn 1	 的/ude1, 刑警/nnt, 以外/f,
+杀手 /nn 1	 , 聘请/v, 杀手/nnd, 不是/c,
+天子 /nn 1	 [真命/nz, 天子/nnd, 的/ude
+副董事长 /nn 1	  了/ule, 副董事长/nnt, 良/ag,
+画家 /nn 1	  ——/w, 油画家/nnd, ，/w],
+记者 /nn 1	 和/cc, 新闻记者/nnt, ，/w],
+艺人 /nn 1	 c, 非/b, 艺人/nnt, 却/d, 
+小学生 /nn 1	 /ulian, 小学生/nnd, 也/d, 
+队长 /nn 1	 的/ude1, 队长/nnt, 。/w],
+橄榄球 /nn 1	  美式/nz, 橄榄球/nnd, 的/ude
+女作家 /nn 1	 的/ude1, 女作家/nnd, 的/ude
+剧作家 /nn 1	 , 著名/a, 剧作家/nnd, 、/w, 
+运动员 /nn 1	 n, 对/p, 运动员/nnt, 的/ude
+局长 /nn 1	 , 刑事/b, 局长/nnt, 了/ule
+生产商 /nn 1	 , 汽车/n, 生产商/nnd, 的/ude
+公务员 /nn 1	 , 地方/n, 公务员/nnt, ，/w],
+女王 /nn 1	  推理/vn, 女王/nnt, 之/uzh
+部队长 /nn 1	  射箭/vn, 部队长/nnt, 的/ude
+船长 /nn 1	  ，/w], [船长/nnt, 立即/d,
+棒球 /nn 1	 , 和/cc, 棒球/nnd, 社/n, 
+油画家 /nn 1	 , ——/w, 油画家/nnd, ，/w],
+编剧 /nn 1	 c, 当/p, 编剧/nnt, 的/ude
+商贾 /nn 1	 剑客/nnd, 商贾/nnd, 》/w, 
+杂役 /nn 1	  [设为/v, 杂役/nnt, 、/w, 
+赞助商 /nn 1	 的/ude1, 赞助商/nnd, 是/vsh
+委员 /nn 1	  评选/vn, 委员/nnt, 的/ude
+指挥官 /nn 1	 的/ude1, 指挥官/nnt, 也/d, 
+佛教徒 /nn 1	 是/vshi, 佛教徒/nnd, 哩/y, 
+设计师 /nn 1	 , 建筑/n, 设计师/nnt, ，/w],
+剑客 /nn 1	 n, 《/w, 剑客/nnd, 商贾/nn
+要员 /nn 1	 , 警方/n, 要员/nnt, 的/ude
+企业家 /nn 1	 的/ude1, 企业家/nnt, 足本/n,
+小生 /nn 1	 , 英俊/a, 小生/nnt, ，/w],
+相扑 /nn 1	 , 像是/v, 相扑/nnd, 手/n, 
+交通警察 /nn 1	  ）/w], [交通警察/nnd, の/w, 
+主教 /nn 1	 n, 《/w, 主教/nnt, 杀人/vi
+学堂 /nn 1	 , 棒槌/n, 学堂/nnt, の/w, 
+美食家 /nn 1	 , 及/cc, 美食家/nnd, 池波/nr
+技术人员 /nn 1	 的/ude1, 技术人员/nnt, 一边/d,
