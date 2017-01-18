@@ -10,11 +10,9 @@
 - 小说中关键属性的统计
 - word2vec提取词向量进行相似分析
 
-
-
 ----------
 ## 运行环境与依赖库
-- python3 (统一unicode编码中文)
+- python3 
 - hanlp (专业汉语词汇分词含日本人名\中国人名等)
 - jieba (专业中文分词)
 - gensim (快速word2vec库)
